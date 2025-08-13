@@ -1,0 +1,540 @@
+biomarker_name
+""
+Fms-like tyrosine kinase 3 (FLT-3)
+C-X-C motif chemokine 10 (CXCL10)
+Interferon-gamma (IFNG)
+Interleukin-10 (IL10)
+Interleukin-6 (IL6)
+AIx-42
+B-Amyloid
+disproportionate atrophy
+Tau protein
+11C-(R)-PK11195
+123I-5IA-85380
+123I-IBVM
+2-(1-{6-[(2-[F-18]fluoroethyl)(methyl)amino]-2-naphthyl}ethylidene) malononitril e (FDDNP)
+AIo
+Arterial spin labeling (ASL)
+Choline
+Creatine
+Diffusion tensor imaging (DTI)
+florbetapir
+Glutamate
+Glutamine
+Isoprostanes
+longitudinal MRI volumetric data
+medial temporal lobe (MTL)
+Myoinositol
+Phosphocreatine
+P-tau 231
+Regional blood oxygen level dependent (BOLD)
+AI40
+pTau181
+PTau199
+PTau231
+age
+123I-quinuclidinyl benzilate (123I-QNB)
+123I-quinuclidinylbenzilate (123I-QNB)
+18F-fluorodeoxyglucose (FDG)
+Adapter protein X11beta (APBA2)
+Apolipoprotein E (APOE)
+Florbetaben (18F-BAY94-9172)
+Microtubule-associated protein tau (MAPT)
+Mitochondrial import receptor subunit TOM40 homolog (TOMM40)
+Monocyte chemotactic and activating factor (CCL2)
+N-acetyl aspartate (NAA)
+Pittsburgh compound B(PIB)
+Hematocrit packed cell volume
+mean corpuscular hemoglobin concentration (MCHC)
+mean corpuscular volume (MCV)
+red blood cell
+red cell distribution width (RDW)
+reticulocyte count
+reticulocyte proliferation index (RPI)
+TNFR1mRNA
+Interleukin-1 alpha (IL1A)
+Transforming growth factor b (TGF-b)
+CO
+EBC pH
+Ethane
+H2O2
+hs-CRP; exhaled NO
+Nitrate
+Nitrite
+Pentane
+eNO; eosinophils
+Eosinophils
+Chymase-positive mast cells
+Collagens
+Eotaxins
+LTB4
+mast cells in smooth muscle
+Smooth muscle
+subepithelial basement membrane (SBM)
+15-hyroxyeicosetetrenoic acid (15-HETE)
+Arachidonate 15-lipoxygenase (15-LOX)
+C-C motif chemokine 17 (CCL17)
+Chitinase-3-like protein 1 (CHI3L1)
+C-reactive protein (CRP)
+Cysteinyl leukotrienes (cysLTs)
+Endothelin-1 (EDN1)
+Exhaled nitric oxide (eNO)
+Fragment of exhaled nitric oxide (FENO)
+Interleukin-13 (IL13)
+Interleukin-4 (IL4)
+Interleukin-5 (IL5)
+Interleukin-8 (IL8)
+Matrix metalloproteinase-9 (MMP-9)
+Nitric oxide (NO)
+Tenascin (TNC)
+Angiopoietin-2 (ANGPT2)
+glomerular hyperfiltration (GH)
+Gross hematuria
+HDL-cholesterol
+HTN
+I2 -microglobulin
+male gender
+Neutrophil gelatinase-associated lipocalin
+Proteinuria
+renal blood flow (RBF)
+sodium
+total kidney volume (TKV)
+urine osmolality
+Vascular endothelial growth factor (VEGF)
+young age
+Angiopoietin-1 receptor (TEK)
+Arginine vasopressin (AVP)
+Focal adhesion kinase 2 (PTK2B)
+Heart-type fatty acidbinding protein (H-FABP)
+Hepatitis A virus cellular receptor 1 (HAVCR1)
+Monocyte chemotactic protein-1 (MCP-1)
+Polycystin-1 (PKD1)
+Secreted frizzled related protein-4 (SFRP4)
+CA 15-3
+Carcinoembryonic antigen
+"DNA/ploidy by flow cytometry, p53, cathepsin D, cyclin E, bone marrow micrometas tases, circulating tumor cells"
+Human epidermal growth factor receptor 2
+"estrogen receptor, progesterone receptor, HER-2, CK5/6, epidermal growth factor receptor."
+30-gene predictor (DLDA-30)
+BRCA1/BRCA2
+CMV
+Glucocorticoids
+HPC
+SNS
+70 genes (MammaPrint)
+Cytochrome P450 2C19 (CYP2C19)
+Erbb2 tyrosine kinase receptor (HER2)
+Estrogen receptor (ER)
+Mucin-1 (MUC1)
+Plasminogen activator inhibitor-1 (SERPINE1)
+Progesterone receptor (PGR)
+Transcription factor p65 (RELA)
+Tumor necrosis factor receptor type II (TNF-R2)
+Urokinase-type plasminogen activator (PLAU)
+Wnt-5a protein (WNT5A)
+Vascular cell adhesion molecule (sVCAM)
+Apolipoprotein B receptor (APOBR)
+Growth differentiation factor 15 (GDF-15)
+HsTnI
+hsTnT
+Fibrinogen
+"Globoside alpha-1,3-N-acetylgalactosaminyltransferase 1 (GBGT1)"
+Interleukin-1 family member 10 (IL1F10)
+Lymphocyte adaptor protein LNK
+Nuclear factor of k light polypeptide gene enhancer in B-cells inhibitor
+Poly(A) binding protein
+P-selectin
+1-acylglycerol-3-phosphate O-acyltransferase PNPLA3 (PNPLA3)
+Achaete-scute homolog 1 (ASCL1)
+Apolipoprotein A-I (APOA1)
+Apolipoprotein C-I (APOC1)
+B-cell CLL/lymphoma 7 protein family member B (BCL7B)
+B-type natriuretic peptide (BNP)
+Caterpiller protein 1.1 (NLRP3)
+Glucokinase regulatory protein (GCKR)
+Hepatocyte nuclear factor 1-alpha (HNF1A)
+Hepatocyte nuclear factor 4-alpha (HNF4A)
+IL-6 receptor(IL6R)
+Intercellular adhesion molecule-1 (ICAM-1)
+Leptin receptor (LEPR)
+NF-kappa-B inhibitor beta (NFKBIB)
+Nuclear receptor ROR-alpha (RORA)
+Polyadenylate-binding protein 4 (PABPC4)
+Proteasome assembly chaperone 1 (PSMG1)
+Protein phosphatase 1 regulatory subunit 3B (PPP1R3B)
+Regulator of G-protein signaling 6 (RGS6)
+Sal-like protein 1 (SALL1)
+"Transferase B, 1-3-galactosyltransferase(ABO)"
+Ca
+Creatinine
+Homocysteine
+NT-pro-BNP
+Pi
+Soluble TNF-like weak inducer of apoptosis (sTWEAK)
+"Troponin T, cardiac muscle isoforms"
+Vitamin D
+25-OH vitamin D
+fibroblast growth factor (FGF-23)
+ProBNP
+transforming growth factor (TGF-)
+25-hydroxyvitamin D-1 alpha hydroxylase (CYP27B1)
+Asymmetric dimethylarginine (ADMA)
+Circulating endothelial cell (CEC)
+Cystatin-C (CST3)
+Endothelial progenitor cell (EPC)
+E-selectin (SELE)
+Osteoclast differentiation factor (ODF)
+Osteoprotogerin (OPG)
+Parathyroid hormone (iPTH)
+Pentraxin-related protein PTX3 (PTX3)
+"Troponin T, slow skeletal muscle (TNNT1)"
+Undercarboxylated matrix-carboxyglutamic acid protein (ucMGP)
+Vascular cells adhesion molecule 1 (sVCAM-1)
+CC-16
+Surfactant protein D
+8-isoprostane
+Aa-Val360
+A-defensins
+Advanced glycosylation end product-specific receptor
+Antinuclear autoantibodies (ANAs)
+B-defensins
+CD8t T cells
+"CRP, b-defensin, adiponectin, IL-6, fibrinogen, CCL18, MMP-8, prolactin"
+Desmosine
+EMMPRIN
+IL12p70
+Immunoglobulin light-chain
+Surfactant protein A
+C-C motif chemokine 18 (CCL18)
+High mobility group protein B1 (HMGB1)
+Interleukin-15 (IL15)
+Mitochondrial matrix protein P1 (HSPD1)
+Perforin-1 (PRF1)
+Small-inducible cytokine A11 (CCL11)
+Tumor necrosis factor (TNF)
+Antideaminated forms of gliadin peptides antibodies (IgA anti-DGP)
+HLA class II antigen DQ-2 alpha
+IgA anti-EMA (antiendomysium antibody)
+IgA anti-tTG
+Interleukin-18 receptor 1 (IL18R1)
+C-C chemokine receptor type 1 (CCR1)
+C-C chemokine receptor type 2 (CCR2)
+C-C chemokine receptor type 3 (CCR3)
+C-C chemokine receptor type 5 (CCR5)
+Cytotoxic T-lymphocyte protein 4 (CTLA-4)
+Interleukin 18 receptor (IL-18RAP)
+Interleukin-12 alpha (IL12A)
+Interleukin-2 (IL2)
+Interleukin-21 (IL21)
+Lithostathine-1-alpha (REG1A)
+MHC class II antigen DQB1 (HLA-DQB1)
+Regulator of G-protein signaling 1 (RGS1)
+12 genes
+Carcinoembryonic antigen (CD66e)
+"p53, ras, thymidine synthase, dihydropyrimidine dehydrogenase, thymidine phospho rylase, microsatellite instability, 18q loss of heterozygosity, deleted in colon cancer (DCC) protein"
+"thymidylate synthase-enhancer region (TYMS-ER), thymidylate synthase 1494 (TYMS- 1494), dihydropyrimidine dehydrogenase (DPYD), methylenetetrahydrofolate reducta se (MTHFR), mutL homolog 1 (MLH1), UDP glucuronyltransferase (UGT1A1), ATP-binding cassette group B gene 1 (ABCB1), x-ray cross-complementing group 1 (XRCC1), g lutathione-S-transferase P1 (GSTP1), excision repair cross-complementing gene 2 (ERCC2)"
+DNA topoisomerase 1 (TOP1)
+Kynurenine
+Tryptophan
+2-aminoacetophenone
+Hydrogen cyanide
+Prostaglandin E2 (PGE2)
+Coagulation factor IIa
+D-dimer
+FVIII
+Inflammatory cytokines
+Leukocyte
+Microparticle (MP)
+Coagulation factor VIIIa (F8)
+Fibrin monomer (FM)
+Interleukin-1 beta (IL1B)
+quantitative electroencephalography (EEG)
+RNA-binding protein EWS (EWSR1)
+Platelet-derived growth factor receptor alpha (PDGFRA)
+Afamin (AFM)
+Human pro-islet peptide
+Tryptophan metabolites
+Hepatocyte growth factor (HGF)
+Keratin type I cytoskeletal 18 (KRT18)
+Tumor necrosis factor receptor type I (TNF-R1)
+Aldosterone
+CA125
+C-terminal pro-endothelin-1
+Interleukin-1 receptor-like 1 (IL1RL1)
+KIM-1
+Lp-PLA2
+MR-proADM
+MR-pro-ANP
+Myeloperoxidase
+NAG
+NGAL
+Norepinephrine
+NT-pro-ANP
+oxLDL antibodies
+sTNFR1
+sTNFR2
+"Troponin I, cardiac muscle"
+Type I collagen telopeptide
+AlloMap
+N-terminal Pro-BNP (NP)
+"BNP, sodium, copeptin"
+copeptin; hsTN
+Natriuretic peptide
+"NT-proBNP, adrenomedullin, troponin, copeptin"
+Brain natriuretic peptide (BNP)
+F(2)-isoprostanes (F2-IsoPs)
+Galectin-3 (LGALS3)
+High-sensitivity cardiac troponin T (hs-cTnT)
+Kidney injury molecule-1 (KIM-1)
+Matrix metalloproteinase-2 (MMP-2)
+Renin (REN)
+Tissue inhibitor of metalloproteinase (TIMP 1)
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase epsilon-1 (PLCE1)"
+BAT2
+BAT5
+C5orf23
+FLJ32810
+"Guanine nucleotide binding protein (G protein), beta polypeptide 3 (GNB3)"
+Guanine nucleotide-binding protein G(s) subunit alpha isoforms XLas
+Natriuretic peptide receptor
+Recombinant human angiotensin converting enzyme 2
+TMEM133
+Adrenergic beta-1 receptor (ADRB1)
+Adrenergic beta-2 receptor (ADRB2)
+Adrenergic beta-3 receptor (ADRB3)
+Alpha-adducin (ADD1)
+Angiotensin II receptor type 1 (AGTR1)
+Angiotensin II receptor type 2 (AGTR2)
+Angiotensinogen (AGT)
+ATP-binding cassette sub-family B member 1 (ABCB1)
+Beta-adducin (ADD2)
+Cytochrome P450-PCN3 (CYP3A5)
+Dopamine beta-hydroxylase (DBH)
+Dopamine D1 receptor (DRD1)
+Dopamine D2 receptor (DRD2)
+Dopamine D3 receptor (DRD3)
+Endothelin-3 (EDN3)
+Gamma-adducin (ADD3)
+Hereditary hemochromatosis protein (HFE)
+Hydroxysteroid (11-beta) dehydrogenase 2 (HSD11B2)
+Lipoprotein lipase (LPL)
+Methylenetetrahydrofolate reductase (MTHFR)
+Natriuretic peptide precursor A (NPPA)
+Natriuretic peptide precursor B (NPPB)
+Natriuretic peptide precursor C (NPPC)
+Natriuretic peptide receptor C (NPR3)
+Neuropeptide Y (NPY)
+Neuropeptide Y receptor 1 (NPY1R)
+Nitric oxide synthase 3 (NOS3)
+"Nuclear receptor subfamily 3, group C, member 2 (NR3C2)"
+Peroxisome proliferator-activated receptor gamma (PPARG)
+Phenylethanolamine N-methyltransferase (PNMT)
+Plasma membrane calcium-transporting ATPase 1 (ATP2B1)
+Sodium channel nonvoltage-gated 1 alpha (SCNN1A)
+Sodium channel nonvoltage-gated 1 beta (SCNN1B)
+Sodium channel nonvoltage-gated 1 gamma (SCNN1G)
+"Solute carrier family 12, member 1 (SLC12A1)"
+"Solute carrier family 12, member 3 (SLC12A3)"
+Steroid 11-beta-hydroxylase (CYP11B1)
+Steroid 18-hydroxylase (CYP11B2)
+Uromodulin (UMOD)
+Voltage-dependent L-type calcium channel subunit beta-2 (CACNB2)
+Ischemia-modified albumin (IMA)
+KOA1 (TGLESGHGPGDS)
+Intelectin-1 (ITLN1)
+CD4+ blast T cells
+CD8+ blast T cells
+Forkhead box protein P3
+Cyclic ADP-ribose hydrolase 1 (CD38)
+Early activation antigen CD69 (CD69)
+Epidermal growth factor receptor (EGFR)
+GTPase KRas (KRAS)
+Type 2 cytokine-producing CD4-/CD8- cells
+CD4(+)CD25(+)Foxp3(+) Tregs
+Angiopoietin-1 (ANGPT1)
+Complement decay-accelerating factor (CD55)
+Complement receptor type 1 (CR1)
+Dihydrofolate reductase (DHFR)
+Endoglin CD105 (ENG)
+Haptoglobin (HP)
+Immunoglobulin gamma Fc receptor I (FCGR1)
+Intercellular adhesion molecule ICAM-1 (ICAM1)
+Interleukin 2 receptor alpha (IL2RA)
+Platelet glycoprotein 4 (CD36)
+P-selectin (SELP)
+Serum albumin (ALB)
+T-cell surface glycoprotein CD4 (CD4)
+Thrombomodulin (THBD)
+Toll-like receptor 4 (TLR4)
+Toll-like receptor 9 (TLR9)
+Transferrin receptor protein 1 (TFRC)
+sIL-2R
+Beta-2-microglobulin (B2M)
+Serine/threonine-protein kinase B-raf  (BRAF)
+I-1 adrenergic receptor
+I-2 adrenergic receptor
+IFNI producing CD8+ T cells
+TNFI producing CD8+ T cells
+"HLA class I histocompatibility antigen, B-8 alpha chain (HLA-B)"
+Muscle-specific kinase (MuSK) antibody
+Nicotinic acetylcholine receptor subunit alpha-1
+Single-fiber EMG
+Tumor necrosis factor receptor superfamily member 25 (TNFRSF25)
+Thiopurine S-methyltransferase (TPMT)
+N-terminal pro-B-type natriuretic peptide (NT-pro-BNP)
+ST-2
+"Fatty acid-binding protein, heart (FABP3)"
+Myeloperoxidase (MPO)
+Myoglobin (MB)
+Pregnancy-associated plasma protein A (PAPP-A)
+TNF related activation protein (CD40LG)
+Troponin I (TnI)
+BAFF
+GFAP
+IgG
+NMO-IgG
+Interleukin-17 (IL17)
+sTNF-R1
+Leptin
+EML4/ALK
+ALK tyrosine kinase receptor (ALK)
+DNA excision repair protein ERCC-1 (ERCC1)
+Tubulin beta-3 chain (TUBB3)
+"N-Acetyltyramine-O,-glucuronide (NATOG)"
+Major sperm protein 2
+OV-16 antigen
+COL2-34C (long) epitope
+COL2-34C (short) epitope
+C-terminal cross-linked telopeptide of type II collagen (CTX-II)
+Disintegrin and metalloproteinase domain-containing protein 12 (ADAM12)
+Epitope 846
+glucosylagalactosylapyridinoline(Glc-Gal-PYD)
+Matrix metalloproteinase (MMP)
+Nitrated form of nine-amino-acid peptide of type II collagen (Coll 2-1 NO2)
+N-terminal cross-linked telopeptide of type I collagen (NTX-I)
+Osteocalcin [OCN]
+Pentosidine
+Fibulin-3 peptide 1
+Fibulin-3 peptide 2
+KC
+MCP-1
+Bone morphogenetic protein 2 (BMP2)
+Cartilage intermediate layer protein 1 (CILP)
+Cartilage oligomeric matrix protein (COMP)
+Catalase (CAT)
+C-propeptide of collagen type II (PIICP)
+Follistatin-related protein 1 (FSTL1)
+Helical type II collagen (HELIX-II)
+Hyaluronic acid (HA)
+Lumican (LUM)
+Matrix metalloproteinase-3 (MMP-3)
+Metalloproteinase inhibitor 2 (TIMP2)
+N-chimaerin (CHN1)
+Nine-amino-acid peptide of type II collagen (Coll 2-1)
+N-propeptide II of collagen type II (PIINP)
+N-propeptide IIA of collagen type II (PIIANP)
+Osteoclastogenesis inhibitory factor (TNFRSF11B)
+Prostaglandin G/H synthase 2 (COX-2)
+Pyridinoline (PYD)
+Superoxide dismutase Mn (SOD Mn)
+Tartrate-resistant acid phosphatase type 5 (ACP5)
+Tetranectin (CLEC3B)
+Tissue inhibitor of matrix metalloproteinase (TIMP)
+von Willebrand factor (VWF)
+"transthyretin, apolipoprotein A-1, beta2-microglobulin, transferrin, cancer anti gen 125"
+CA 19-9
+Prostate specific antigen (KLK3)
+"HLA class I histocompatibility antigen, B-56 alpha chain (HLA-B)"
+osteoclast precursors
+Dickkopf-related protein 1 (DKK1)
+Inhibitor of nuclear factor kappa-B kinase beta (IKKB)
+Interleukin 11 receptor alpha (IL-11RA)
+Macrophage colony-stimulating factor 1 (CSF1)
+Nuclear pore glycoprotein p62 (NUP62)
+Protein-tyrosine phosphatase SHP-1 (PTPN6)
+Signal transducer and activator of transcription 3 (STAT3)
+Single Ig IL-1-related receptor (SIGIRR)
+Transcription factor 7 (TCF7)
+N-terminal pro-brain natriuretic peptide (NT-pro-BNP)
+Proto-oncogene c-Met (MET)
+Adrenomedullin (ADM)
+"HLA class I histocompatibility antigen, B-27 alpha chain (HLA-B)"
+"HLA class II histocompatibility antigen, DRB1-12 beta chain (HLA-DRB1)"
+Low molecular weight phosphotyrosine protein phosphatase (ACP1)
+LTA + 252 (A > G); LGALS2 + 3279 (C > T)
+Coagulation factor XIIIA (F13A1)
+Fibrinogen beta chain (FGB)
+Proline/serine-rich coiled-coil protein 1 (PSRC1)
+Secondary lymphoid-tissue chemokine (CCL21)
+T-cell surface glycoprotein CD8 alpha chain
+Dopamine metabolite
+Electrophysiologicalsignatures
+Extrapyramidal signs
+Impairments in cognitive tests
+Sedation
+Amyloid peptide
+Glucose
+Lipid
+Glycine
+GlyT1 ligand [3H] RO5013853
+5-HT 2A receptor (HTR2A)
+Neurosecretory protein VGF (VGF)
+Prolactin (PRL)
+Transthyretin (TTR)
+MR-proadrenomedullin
+Procalcitonin
+IgM
+Interleukin-2 receptor
+Endothelial protein C receptor
+Cardiac troponin I (TNNI3)
+Endothelial plasminogen activator inhibitor (SERPINE1)
+Fibronectin (FN1)
+Granulocyte colony-stimulating factor (GCSF)
+Lipopolysaccharide-binding protein (LBP)
+L-selectin (SELL)
+Lymphotoxin-alpha (LTA)
+Macrophage migration inhibitory factor (MIF)
+Nicotinamide phosphoribosyltransferase (NAMPT)
+Plasminogen (PLG)
+Tissue-type plasminogen activator (PLAT)
+Vascular cell adhesion protein 1 (VCAM1)
+DAS-28
+IL-1Ra
+iL-6
+RF
+Neutrophil gelatinase-associated lipocalin (LCN2)
+Dehydrogenase/reductase SDR family member 9
+Ectonucleoside triphosphate diphosphohydrolase 3
+Glutaminyl-peptide cyclotransferase
+Glycogen phosphorylase
+Grancalcin
+Long-chain-fatty-acid--CoA ligase 1
+Max dimerization protein 1
+Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit delta
+Alkaline phosphatase tissue-nonspecific (ALPL)
+Arachidonate 5-lipoxygenase (5-LOX)
+Arachidonate 5-lipoxygenase activating protein (FLAP)
+ATM serine/threonine kinase (ATM)
+Carcinoembryonic antigen-related cell adhesion molecule 1
+Cathepsin G (CTSG)
+Cytidine deaminase (CDA)
+Dysferlin (DYSF)
+Poly [ADP-ribose] polymerase 1 (PARP1)
+Protein bactericidal permeability-increasing (BPI)
+Neopterin
+Interleukin 1 receptor type 1 (IL-1R1)
+Anti-endothelial cell antibodies (AECA)
+CD14+ producing circulating monocytesi CD45+ producing circulating monocytesi i collagen I producing circulating monocytes
+CD19
+MMP-9 (gelatinase B)
+Atypical chemokine receptor 2 (ACKR2)
+Connective tissue growth factor (CTGF)
+Erythrocyte Sedimentation Rate (ESR)
+Interleukin-22 (IL22)
+Matrix metalloproteinase-7 (MMP-7)
+Neutrophil elastase (NE)
+Stromal cell-derived factor 1 (CXCL12)
+Surfactant Protein A (SP-A)
+Activated RNA polymerase II transcriptional coactivator p15
+Granulocyte-macrophage colony-stimulating factor (CSF2)
+L-arginine

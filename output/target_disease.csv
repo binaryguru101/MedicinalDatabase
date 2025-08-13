@@ -1,0 +1,5378 @@
+target_id,disease_name,target_disease_approval_status
+T28213,Abortion,Phase 2
+T40628,Abortion,Investigative
+T75797,Abortion,Approved
+T99954,Abortion,Approved
+T55922,Acidosis,Approved
+T11211,Acne vulgaris,Approved
+T11822,Acne vulgaris,Approved
+T13852,Acne vulgaris,Phase 1
+T15639,Acne vulgaris,Phase 2
+T16340,Acne vulgaris,Phase 2
+T20514,Acne vulgaris,Approved
+T22095,Acne vulgaris,Phase 2
+T22348,Acne vulgaris,Phase 2
+T27265,Acne vulgaris,Approved
+T31621,Acne vulgaris,Approved
+T34234,Acne vulgaris,Terminated
+T34287,Acne vulgaris,Approved
+T42822,Acne vulgaris,Approved
+T46521,Acne vulgaris,Discontinued in Phase 1
+T46616,Acne vulgaris,Phase 2
+T50584,Acne vulgaris,Phase 2
+T52534,Acne vulgaris,Phase 2
+T53601,Acne vulgaris,Approved
+T62094,Acne vulgaris,Approved
+T68251,Acne vulgaris,Phase 1
+T70309,Acne vulgaris,Discontinued in Phase 2
+T72545,Acne vulgaris,Phase 2
+T72657,Acne vulgaris,Approved
+T76855,Acne vulgaris,Phase 2
+T78429,Acne vulgaris,Phase 1
+T82146,Acne vulgaris,Approved
+T89534,Acne vulgaris,Approved
+T95302,Acne vulgaris,Phase 2
+T34743,Acute bronchitis,Approved
+T00176,Acute myeloid leukaemia,Phase 3
+T01232,Acute myeloid leukaemia,Phase 1/2
+T02262,Acute myeloid leukaemia,Phase 2
+T03634,Acute myeloid leukaemia,Phase 1/2
+T03691,Acute myeloid leukaemia,Approved
+T03963,Acute myeloid leukaemia,Phase 1
+T04773,Acute myeloid leukaemia,Phase 3
+T06273,Acute myeloid leukaemia,Phase 3
+T08014,Acute myeloid leukaemia,Phase 3
+T08743,Acute myeloid leukaemia,Phase 2
+T10191,Acute myeloid leukaemia,Phase 3
+T10822,Acute myeloid leukaemia,Phase 1
+T10877,Acute myeloid leukaemia,Phase 1/2
+T11211,Acute myeloid leukaemia,Approved
+T12646,Acute myeloid leukaemia,Phase 1
+T13127,Acute myeloid leukaemia,Phase 3
+T14912,Acute myeloid leukaemia,Phase 1
+T15610,Acute myeloid leukaemia,Phase 2
+T15739,Acute myeloid leukaemia,Phase 2
+T15867,Acute myeloid leukaemia,Phase 1/2
+T16156,Acute myeloid leukaemia,Investigative
+T16422,Acute myeloid leukaemia,Discontinued in Phase 3
+T16601,Acute myeloid leukaemia,Phase 1
+T16739,Acute myeloid leukaemia,Phase 2
+T16769,Acute myeloid leukaemia,Phase 1
+T17048,Acute myeloid leukaemia,Phase 1/2
+T17485,Acute myeloid leukaemia,Phase 1/2
+T17986,Acute myeloid leukaemia,Phase 1
+T18779,Acute myeloid leukaemia,Phase 2
+T20808,Acute myeloid leukaemia,Approved
+T21112,Acute myeloid leukaemia,Approved
+T25005,Acute myeloid leukaemia,Phase 1/2
+T25258,Acute myeloid leukaemia,Discontinued in Phase 3
+T25265,Acute myeloid leukaemia,Phase 1
+T28413,Acute myeloid leukaemia,Phase 2
+T28484,Acute myeloid leukaemia,Phase 2
+T28925,Acute myeloid leukaemia,Approved
+T29960,Acute myeloid leukaemia,Phase 2
+T30081,Acute myeloid leukaemia,Approved
+T30827,Acute myeloid leukaemia,Phase 3
+T30846,Acute myeloid leukaemia,Phase 1
+T30926,Acute myeloid leukaemia,Phase 2
+T31309,Acute myeloid leukaemia,Phase 1
+T31424,Acute myeloid leukaemia,Phase 2
+T34234,Acute myeloid leukaemia,Phase 2
+T35063,Acute myeloid leukaemia,Phase 2
+T35173,Acute myeloid leukaemia,Phase 1
+T35289,Acute myeloid leukaemia,Phase 1
+T36741,Acute myeloid leukaemia,Phase 1
+T37434,Acute myeloid leukaemia,Preclinical
+T38950,Acute myeloid leukaemia,Approved
+T40490,Acute myeloid leukaemia,Phase 1
+T40556,Acute myeloid leukaemia,Phase 1/2
+T40694,Acute myeloid leukaemia,Phase 3
+T42048,Acute myeloid leukaemia,Phase 1
+T43115,Acute myeloid leukaemia,Phase 3
+T44458,Acute myeloid leukaemia,Phase 2
+T44589,Acute myeloid leukaemia,Phase 1/2
+T45593,Acute myeloid leukaemia,Phase 3
+T46216,Acute myeloid leukaemia,Investigative
+T46263,Acute myeloid leukaemia,Phase 1
+T46781,Acute myeloid leukaemia,Phase 1
+T47101,Acute myeloid leukaemia,Phase 1
+T47107,Acute myeloid leukaemia,Approved
+T47366,Acute myeloid leukaemia,Phase 2/3
+T48429,Acute myeloid leukaemia,Phase 2
+T50594,Acute myeloid leukaemia,Phase 1/2
+T51407,Acute myeloid leukaemia,Phase 2
+T53472,Acute myeloid leukaemia,Phase 2
+T53524,Acute myeloid leukaemia,Phase 2
+T54379,Acute myeloid leukaemia,Phase 1/2
+T54902,Acute myeloid leukaemia,Phase 2
+T55781,Acute myeloid leukaemia,Phase 1/2
+T56365,Acute myeloid leukaemia,Phase 1/2
+T57700,Acute myeloid leukaemia,Phase 1
+T58902,Acute myeloid leukaemia,Phase 3
+T58998,Acute myeloid leukaemia,Phase 1/2
+T60345,Acute myeloid leukaemia,Phase 1/2
+T60636,Acute myeloid leukaemia,Phase 3
+T61400,Acute myeloid leukaemia,Phase 1/2
+T61518,Acute myeloid leukaemia,Phase 1
+T61683,Acute myeloid leukaemia,Phase 1
+T62431,Acute myeloid leukaemia,Phase 2
+T63189,Acute myeloid leukaemia,Phase 1
+T63239,Acute myeloid leukaemia,Phase 1
+T63505,Acute myeloid leukaemia,Phase 1
+T64213,Acute myeloid leukaemia,Phase 2
+T65755,Acute myeloid leukaemia,Phase 3
+T66426,Acute myeloid leukaemia,Phase 1
+T67619,Acute myeloid leukaemia,Phase 1
+T67805,Acute myeloid leukaemia,Phase 1
+T68547,Acute myeloid leukaemia,Phase 2
+T69563,Acute myeloid leukaemia,Approved
+T70508,Acute myeloid leukaemia,Phase 2
+T70977,Acute myeloid leukaemia,Phase 2
+T71205,Acute myeloid leukaemia,Phase 2/3
+T71266,Acute myeloid leukaemia,Phase 1
+T71377,Acute myeloid leukaemia,Approved
+T71928,Acute myeloid leukaemia,Phase 2
+T72835,Acute myeloid leukaemia,Phase 3
+T73097,Acute myeloid leukaemia,Phase 2
+T73215,Acute myeloid leukaemia,Application submitted
+T74073,Acute myeloid leukaemia,Phase 1/2
+T74312,Acute myeloid leukaemia,Approved (orphan drug)
+T76910,Acute myeloid leukaemia,Phase 2
+T77473,Acute myeloid leukaemia,Discontinued in Phase 1/2
+T78318,Acute myeloid leukaemia,Phase 2
+T78381,Acute myeloid leukaemia,Phase 3
+T78692,Acute myeloid leukaemia,Phase 2
+T78874,Acute myeloid leukaemia,Phase 2
+T81695,Acute myeloid leukaemia,Phase 2
+T82051,Acute myeloid leukaemia,Phase 2
+T82383,Acute myeloid leukaemia,Approved
+T82494,Acute myeloid leukaemia,Phase 1
+T83145,Acute myeloid leukaemia,Phase 1
+T83797,Acute myeloid leukaemia,Phase 1
+T84631,Acute myeloid leukaemia,Discontinued in Phase 3
+T84780,Acute myeloid leukaemia,Phase 1
+T85943,Acute myeloid leukaemia,Phase 2
+T86052,Acute myeloid leukaemia,Phase 2
+T86323,Acute myeloid leukaemia,Phase 1/2
+T86399,Acute myeloid leukaemia,Phase 1/2
+T86528,Acute myeloid leukaemia,Phase 3
+T86836,Acute myeloid leukaemia,Approved
+T87237,Acute myeloid leukaemia,Phase 1/2
+T87675,Acute myeloid leukaemia,Phase 2
+T87686,Acute myeloid leukaemia,Phase 1/2
+T87946,Acute myeloid leukaemia,Phase 2
+T88304,Acute myeloid leukaemia,Phase 3
+T88569,Acute myeloid leukaemia,Phase 1
+T89697,Acute myeloid leukaemia,Phase 1
+T92057,Acute myeloid leukaemia,Phase 3
+T92308,Acute myeloid leukaemia,Phase 3
+T93062,Acute myeloid leukaemia,Discontinued in Phase 3
+T93923,Acute myeloid leukaemia,Phase 1/2
+T94085,Acute myeloid leukaemia,Phase 1
+T95399,Acute myeloid leukaemia,Phase 2
+T96079,Acute myeloid leukaemia,Phase 2
+T96144,Acute myeloid leukaemia,Approved
+T96723,Acute myeloid leukaemia,Phase 1
+T96892,Acute myeloid leukaemia,Phase 1
+T97766,Acute myeloid leukaemia,Phase 1
+T98034,Acute myeloid leukaemia,Phase 1
+T99765,Acute myeloid leukaemia,Preclinical
+T99948,Acute myeloid leukaemia,Phase 1
+T21945,Acute pain,Approved
+T39078,Acute pain,Approved
+T47768,Acute pain,Approved
+T69494,Acute pain,Approved
+T20629,Acute respiratory distress syndrome,Phase 2
+T40332,Acute respiratory distress syndrome,Investigative
+T09130,Addictive disorder,Approved
+T32060,Addictive disorder,Withdrawn from market
+T78709,Addictive disorder,Withdrawn from market
+T65883,Adenocarcinoma,Clinical trial
+T97071,Adenocarcinoma,Phase 2
+T08898,Adrenocortical insufficiency,Approved
+T47623,African trypanosomiasis,Phase 1
+T60366,African trypanosomiasis,Approved
+T68334,African trypanosomiasis,Phase 1
+T08391,Alopecia,Phase 2
+T11211,Alopecia,Phase 2
+T22032,Alopecia,Phase 1
+T23172,Alopecia,Approved
+T23172,Alopecia,Phase 2/3
+T27265,Alopecia,Discontinued in Phase 2
+T38875,Alopecia,Phase 2
+T47077,Alopecia,Approved
+T49493,Alopecia,Terminated
+T50066,Alopecia,Phase 2
+T54379,Alopecia,Phase 2/3
+T61722,Alopecia,Phase 2
+T62151,Alopecia,Patented
+T62460,Alopecia,Phase 2
+T65941,Alopecia,Phase 2
+T67952,Alopecia,Terminated
+T86552,Alopecia,Terminated
+T00895,Alzheimer disease,Phase 2
+T01777,Alzheimer disease,Phase 2
+T01840,Alzheimer disease,Terminated
+T01973,Alzheimer disease,Phase 1/2
+T02001,Alzheimer disease,Phase 2
+T02551,Alzheimer disease,Phase 1
+T02562,Alzheimer disease,Phase 1
+T02719,Alzheimer disease,Phase 2
+T03644,Alzheimer disease,Phase 1
+T04902,Alzheimer disease,Phase 1
+T05880,Alzheimer disease,Patented
+T07173,Alzheimer disease,Phase 3
+T07303,Alzheimer disease,Phase 1/2
+T07400,Alzheimer disease,Phase 3
+T07806,Alzheimer disease,Phase 2
+T08014,Alzheimer disease,Phase 3
+T08133,Alzheimer disease,Phase 1
+T09130,Alzheimer disease,Terminated
+T10482,Alzheimer disease,Clinical trial
+T11072,Alzheimer disease,Phase 2
+T11448,Alzheimer disease,Phase 3
+T13644,Alzheimer disease,Terminated
+T15784,Alzheimer disease,Phase 2
+T15803,Alzheimer disease,Clinical trial
+T16633,Alzheimer disease,Terminated
+T16691,Alzheimer disease,Phase 3
+T16739,Alzheimer disease,Phase 2
+T17163,Alzheimer disease,Investigative
+T17852,Alzheimer disease,Phase 2
+T18204,Alzheimer disease,Phase 2
+T18477,Alzheimer disease,Phase 0
+T19433,Alzheimer disease,Phase 2
+T19567,Alzheimer disease,Phase 2
+T20333,Alzheimer disease,Phase 3
+T21689,Alzheimer disease,Phase 1/2
+T21960,Alzheimer disease,Phase 2
+T22285,Alzheimer disease,Terminated
+T23359,Alzheimer disease,Phase 1
+T23547,Alzheimer disease,Phase 2
+T24793,Alzheimer disease,Phase 3
+T24983,Alzheimer disease,Phase 1
+T25705,Alzheimer disease,Preclinical
+T26220,Alzheimer disease,Phase 2
+T26368,Alzheimer disease,Phase 2
+T27137,Alzheimer disease,Discontinued in Phase 3
+T27812,Alzheimer disease,Phase 3
+T28722,Alzheimer disease,Terminated
+T28893,Alzheimer disease,Phase 1
+T30082,Alzheimer disease,Approved
+T30418,Alzheimer disease,Phase 1
+T32060,Alzheimer disease,Phase 2
+T32984,Alzheimer disease,Phase 1
+T33584,Alzheimer disease,Terminated
+T34429,Alzheimer disease,Phase 3
+T34624,Alzheimer disease,Phase 2
+T36075,Alzheimer disease,Phase 2
+T36557,Alzheimer disease,Phase 2
+T37693,Alzheimer disease,Phase 1
+T38143,Alzheimer disease,Phase 3
+T38950,Alzheimer disease,Phase 1
+T39078,Alzheimer disease,Phase 2
+T40474,Alzheimer disease,Phase 1/2
+T40556,Alzheimer disease,Phase 1/2
+T41141,Alzheimer disease,Preclinical
+T42000,Alzheimer disease,Phase 1
+T42724,Alzheimer disease,Phase 2
+T42748,Alzheimer disease,Phase 1
+T44141,Alzheimer disease,Phase 2
+T45086,Alzheimer disease,Phase 2
+T45151,Alzheimer disease,Phase 1
+T45593,Alzheimer disease,Phase 3
+T45674,Alzheimer disease,Phase 2
+T45993,Alzheimer disease,Terminated
+T46185,Alzheimer disease,Terminated
+T46360,Alzheimer disease,Phase 3
+T47101,Alzheimer disease,Phase 1/2
+T47165,Alzheimer disease,Phase 1
+T48873,Alzheimer disease,Phase 3
+T50942,Alzheimer disease,Phase 1/2
+T51076,Alzheimer disease,Phase 1/2
+T51115,Alzheimer disease,Phase 3
+T53024,Alzheimer disease,Terminated
+T54128,Alzheimer disease,Approved
+T55352,Alzheimer disease,Phase 1
+T55729,Alzheimer disease,Phase 2
+T55781,Alzheimer disease,Phase 1/2
+T55860,Alzheimer disease,Phase 2
+T55936,Alzheimer disease,Phase 2
+T57680,Alzheimer disease,Phase 2
+T57700,Alzheimer disease,Phase 3
+T58454,Alzheimer disease,Phase 1/2
+T58902,Alzheimer disease,Phase 3
+T58921,Alzheimer disease,Approved
+T59102,Alzheimer disease,Phase 1/2
+T59679,Alzheimer disease,Phase 2
+T60529,Alzheimer disease,Phase 3
+T61657,Alzheimer disease,Phase 2/3
+T61746,Alzheimer disease,Patented
+T62151,Alzheimer disease,Approved
+T62276,Alzheimer disease,Terminated
+T62820,Alzheimer disease,Phase 2
+T62974,Alzheimer disease,Terminated
+T63414,Alzheimer disease,Phase 1/2
+T63967,Alzheimer disease,Phase 2
+T64765,Alzheimer disease,Phase 2
+T64830,Alzheimer disease,Terminated
+T65200,Alzheimer disease,Phase 2
+T65864,Alzheimer disease,Phase 2
+T66161,Alzheimer disease,Phase 2
+T66665,Alzheimer disease,Phase 3
+T67162,Alzheimer disease,Approved
+T67684,Alzheimer disease,Terminated
+T69494,Alzheimer disease,Approved
+T69912,Alzheimer disease,Phase 1
+T70967,Alzheimer disease,Discontinued in Phase 2
+T70977,Alzheimer disease,Discontinued in Phase 1
+T72458,Alzheimer disease,Phase 2
+T73724,Alzheimer disease,Discontinued in Phase 2
+T73992,Alzheimer disease,Phase 3
+T74312,Alzheimer disease,Phase 3
+T74456,Alzheimer disease,Terminated
+T75440,Alzheimer disease,Phase 1
+T75797,Alzheimer disease,Clinical trial
+T75907,Alzheimer disease,Phase 1
+T76233,Alzheimer disease,Phase 2
+T76414,Alzheimer disease,Terminated
+T77365,Alzheimer disease,Discontinued in Phase 3
+T77913,Alzheimer disease,Phase 1
+T78111,Alzheimer disease,Discontinued in Phase 2
+T78429,Alzheimer disease,Phase 2
+T78709,Alzheimer disease,Phase 2
+T79031,Alzheimer disease,Phase 3
+T79062,Alzheimer disease,Phase 1
+T79798,Alzheimer disease,Phase 2
+T79961,Alzheimer disease,Terminated
+T80782,Alzheimer disease,Phase 1/2
+T80896,Alzheimer disease,Phase 1/2
+T80975,Alzheimer disease,Phase 1/2
+T82543,Alzheimer disease,Discontinued in Phase 2
+T83011,Alzheimer disease,Phase 2
+T83813,Alzheimer disease,Phase 2
+T83875,Alzheimer disease,Phase 2
+T84703,Alzheimer disease,Phase 1/2
+T85435,Alzheimer disease,Phase 2
+T85670,Alzheimer disease,Phase 2
+T86052,Alzheimer disease,Phase 1
+T86679,Alzheimer disease,Discontinued in Phase 3
+T87024,Alzheimer disease,Approved
+T87946,Alzheimer disease,Discontinued in Phase 1
+T88318,Alzheimer disease,Phase 2
+T88537,Alzheimer disease,Phase 2
+T88752,Alzheimer disease,Terminated
+T89034,Alzheimer disease,Phase 2/3
+T89534,Alzheimer disease,Phase 3
+T89988,Alzheimer disease,Investigative
+T90782,Alzheimer disease,Phase 1
+T90848,Alzheimer disease,Phase 2/3
+T91331,Alzheimer disease,Phase 1/2
+T94085,Alzheimer disease,Phase 2/3
+T94479,Alzheimer disease,Phase 1
+T96144,Alzheimer disease,Phase 3
+T97613,Alzheimer disease,Phase 2
+T97917,Alzheimer disease,Preclinical
+T99340,Alzheimer disease,Phase 1
+T99347,Alzheimer disease,Phase 1
+T99799,Alzheimer disease,Phase 3
+T99840,Alzheimer disease,Phase 2
+T99935,Alzheimer disease,Terminated
+T49814,Amoebiasis,Approved
+T74891,Amoebiasis,Investigative
+T23389,Amyloidosis,Approved
+T37742,Amyloidosis,Phase 1
+T69707,Amyloidosis,Approved
+T87024,Amyloidosis,Phase 1
+T02246,Anemia,Phase 2
+T06011,Anemia,Phase 1
+T07958,Anemia,Phase 2
+T12091,Anemia,Phase 2
+T22995,Anemia,Phase 2
+T30356,Anemia,Phase 2/3
+T32578,Anemia,Approved
+T48940,Anemia,Phase 1
+T49493,Anemia,Phase 2/3
+T53904,Anemia,Phase 2
+T65197,Anemia,Approved
+T85574,Anemia,Discontinued in Phase 2
+T86264,Anemia,Phase 1
+T02777,Angina pectoris,Approved
+T04389,Angina pectoris,Terminated
+T06042,Angina pectoris,Approved
+T06046,Angina pectoris,Phase 2
+T07663,Angina pectoris,Discontinued in Phase 2
+T13491,Angina pectoris,Approved
+T14602,Angina pectoris,Investigative
+T17569,Angina pectoris,Approved
+T19693,Angina pectoris,Phase 2
+T20251,Angina pectoris,Terminated
+T21324,Angina pectoris,Discontinued in Preregistration
+T28076,Angina pectoris,Phase 3
+T29303,Angina pectoris,Approved
+T31424,Angina pectoris,Discontinued in Phase 3
+T31946,Angina pectoris,Terminated
+T39716,Angina pectoris,Phase 1
+T44068,Angina pectoris,Terminated
+T45993,Angina pectoris,Approved
+T50688,Angina pectoris,Approved
+T51115,Angina pectoris,Terminated
+T51408,Angina pectoris,Approved
+T54644,Angina pectoris,Investigative
+T57680,Angina pectoris,Approved
+T59328,Angina pectoris,Approved
+T63803,Angina pectoris,Discontinued in Phase 1/2
+T67952,Angina pectoris,Approved
+T71398,Angina pectoris,Approved
+T75888,Angina pectoris,Approved
+T76198,Angina pectoris,Phase 2
+T76937,Angina pectoris,Approved
+T78356,Angina pectoris,Phase 3
+T82028,Angina pectoris,Phase 3
+T82266,Angina pectoris,Approved
+T83797,Angina pectoris,Phase 3
+T84631,Angina pectoris,Discontinued in Phase 3
+T92138,Angina pectoris,Phase 3
+T92403,Angina pectoris,Discontinued in Phase 2
+T94033,Angina pectoris,Phase 2
+T99727,Angina pectoris,Approved
+T22350,Angiosarcoma,Phase 3
+T22839,Anterior uveitis,Application submitted
+T40332,Anterior uveitis,Application submitted
+T27999,Anthrax,Approved
+T30956,Anthrax,Approved
+T96321,Anthrax,Preclinical
+T00895,Anxiety disorder,Approved
+T02719,Anxiety disorder,Discontinued in Phase 3
+T05849,Anxiety disorder,Phase 2
+T07806,Anxiety disorder,Terminated
+T08910,Anxiety disorder,Discontinued in Phase 1
+T09572,Anxiety disorder,Preclinical
+T11011,Anxiety disorder,Terminated
+T11754,Anxiety disorder,Phase 2
+T16691,Anxiety disorder,Phase 2
+T18299,Anxiety disorder,Investigative
+T23499,Anxiety disorder,Discontinued in Phase 1
+T23547,Anxiety disorder,Phase 2
+T27376,Anxiety disorder,Terminated
+T27812,Anxiety disorder,Approved
+T28722,Anxiety disorder,Approved
+T30374,Anxiety disorder,Phase 2
+T31204,Anxiety disorder,Discontinued in Phase 3
+T32060,Anxiety disorder,Approved
+T38338,Anxiety disorder,Discontinued in Phase 3
+T40016,Anxiety disorder,Terminated
+T42446,Anxiety disorder,Investigative
+T45262,Anxiety disorder,Phase 2/3
+T46360,Anxiety disorder,Terminated
+T47094,Anxiety disorder,Phase 2
+T51487,Anxiety disorder,Approved
+T52790,Anxiety disorder,Discontinued in Phase 3
+T52921,Anxiety disorder,Investigative
+T54128,Anxiety disorder,Approved
+T58992,Anxiety disorder,Phase 2
+T59881,Anxiety disorder,Phase 2
+T62184,Anxiety disorder,Phase 2
+T62292,Anxiety disorder,Phase 2
+T62820,Anxiety disorder,Discontinued in Phase 3
+T63967,Anxiety disorder,Discontinued in Phase 2
+T64382,Anxiety disorder,Approved
+T64765,Anxiety disorder,Terminated
+T66237,Anxiety disorder,Phase 2
+T67054,Anxiety disorder,Terminated
+T67162,Anxiety disorder,Phase 1
+T69494,Anxiety disorder,Approved
+T75440,Anxiety disorder,Approved
+T75984,Anxiety disorder,Phase 2
+T77913,Anxiety disorder,Approved
+T78709,Anxiety disorder,Approved
+T79232,Anxiety disorder,Phase 2
+T80387,Anxiety disorder,Discontinued in Phase 1
+T83813,Anxiety disorder,Phase 1
+T83875,Anxiety disorder,Discontinued in Phase 2
+T84160,Anxiety disorder,Phase 3
+T84486,Anxiety disorder,Phase 2
+T85605,Anxiety disorder,Approved
+T89515,Anxiety disorder,Approved
+T90391,Anxiety disorder,Phase 2
+T97613,Anxiety disorder,Phase 2
+T99347,Anxiety disorder,Phase 2
+T99402,Anxiety disorder,Investigative
+T56545,Aortic valve stenosis,Phase 1
+T51146,Appendicitis,Approved
+T46937,Arterial thrombosis,Phase 3
+T50688,Arterial thrombosis,Terminated
+T99732,Arthropathy,Phase 2
+T64382,Ascariasis,Approved
+T16601,Ascites,Phase 1
+T73189,Aspergillosis,Terminated
+T73726,Aspergillosis,Approved
+T00140,Asthma,Approved
+T00239,Asthma,Phase 2
+T01777,Asthma,Terminated
+T02001,Asthma,Phase 3
+T02703,Asthma,Phase 2
+T02752,Asthma,Discontinued in Phase 1
+T03346,Asthma,Phase 3
+T03403,Asthma,Discontinued in Phase 1
+T03410,Asthma,Phase 1
+T03500,Asthma,Phase 1
+T03963,Asthma,Phase 2
+T05409,Asthma,Phase 2
+T06446,Asthma,Investigative
+T06841,Asthma,Phase 3
+T06955,Asthma,Phase 2
+T07663,Asthma,Terminated
+T07861,Asthma,Phase 2
+T08391,Asthma,Phase 2
+T09130,Asthma,Investigative
+T10191,Asthma,Phase 2
+T10249,Asthma,Phase 3
+T10265,Asthma,Phase 3
+T10491,Asthma,Discontinued in Phase 2
+T10965,Asthma,Phase 3
+T11309,Asthma,Discontinued in Phase 1
+T11388,Asthma,Investigative
+T11451,Asthma,Phase 2
+T12119,Asthma,Discontinued in Phase 2
+T14558,Asthma,Discontinued in Phase 2
+T14834,Asthma,Terminated
+T14912,Asthma,Terminated
+T15377,Asthma,Phase 2
+T15556,Asthma,Phase 2
+T18477,Asthma,Approved
+T18876,Asthma,Phase 2
+T19760,Asthma,Phase 2/3
+T20178,Asthma,Phase 3
+T20709,Asthma,Approved
+T20796,Asthma,Phase 1/2
+T21324,Asthma,Discontinued in Phase 2
+T21865,Asthma,Phase 2
+T21960,Asthma,Discontinued in Phase 2
+T22095,Asthma,Phase 2
+T23172,Asthma,Phase 2
+T23547,Asthma,Discontinued in Phase 2
+T23714,Asthma,Terminated
+T23797,Asthma,Phase 2
+T26500,Asthma,Phase 1
+T27602,Asthma,Discontinued in Phase 1
+T29143,Asthma,Phase 3
+T29649,Asthma,Phase 2
+T29683,Asthma,Investigative
+T29879,Asthma,Discontinued in Phase 1
+T30563,Asthma,Terminated
+T30803,Asthma,Investigative
+T30823,Asthma,Terminated
+T31479,Asthma,Discontinued in Phase 2
+T33754,Asthma,Phase 2
+T33846,Asthma,Phase 2
+T34318,Asthma,Approved
+T34429,Asthma,Phase 2
+T34624,Asthma,Phase 2
+T37308,Asthma,Phase 2
+T39921,Asthma,Phase 2
+T40016,Asthma,Approved
+T40459,Asthma,Phase 1
+T41141,Asthma,Investigative
+T43415,Asthma,Phase 2
+T43739,Asthma,Discontinued in Phase 2
+T43902,Asthma,Phase 1
+T44068,Asthma,Approved
+T44141,Asthma,Discontinued in Phase 2
+T44589,Asthma,Phase 2
+T46185,Asthma,Approved
+T46482,Asthma,Phase 2
+T46642,Asthma,Discontinued in Phase 3
+T46658,Asthma,Phase 2
+T47094,Asthma,Discontinued in Phase 2
+T47768,Asthma,Terminated
+T47941,Asthma,Approved
+T49072,Asthma,Phase 1
+T51408,Asthma,Approved
+T52522,Asthma,Approved
+T52790,Asthma,Discontinued in Phase 2
+T53378,Asthma,Phase 1/2
+T53669,Asthma,Phase 1
+T55860,Asthma,Phase 2
+T56923,Asthma,Phase 2
+T59626,Asthma,Discontinued in Phase 2
+T60526,Asthma,Phase 3
+T61722,Asthma,Phase 3
+T61744,Asthma,Approved
+T61746,Asthma,Investigative
+T62431,Asthma,Phase 1
+T62460,Asthma,Phase 2
+T63180,Asthma,Phase 1
+T63184,Asthma,Phase 1
+T63229,Asthma,Phase 2
+T66011,Asthma,Investigative
+T66538,Asthma,Phase 2
+T66665,Asthma,Phase 2/3
+T67063,Asthma,Terminated
+T67079,Asthma,Phase 2
+T67162,Asthma,Approved
+T67684,Asthma,Approved
+T67849,Asthma,Phase 2
+T67952,Asthma,Discontinued in Phase 1
+T68066,Asthma,Approved
+T68290,Asthma,Investigative
+T68782,Asthma,Phase 3
+T69619,Asthma,Investigative
+T70518,Asthma,Phase 2
+T70888,Asthma,Discontinued in Phase 3
+T71192,Asthma,Approved
+T71230,Asthma,Phase 2
+T71377,Asthma,Phase 1
+T72458,Asthma,Discontinued in Phase 2
+T72835,Asthma,Phase 3
+T72841,Asthma,Phase 3
+T72957,Asthma,Discontinued in Phase 2
+T73476,Asthma,Phase 1
+T74238,Asthma,Phase 2
+T76198,Asthma,Phase 2
+T77913,Asthma,Phase 2
+T78111,Asthma,Phase 2
+T78244,Asthma,Discontinued in Phase 2
+T78356,Asthma,Phase 2
+T78585,Asthma,Approved
+T78874,Asthma,Phase 2
+T78932,Asthma,Phase 2
+T79422,Asthma,Phase 2
+T79961,Asthma,Approved
+T81905,Asthma,Approved
+T82266,Asthma,Phase 2
+T82577,Asthma,Phase 2
+T83145,Asthma,Terminated
+T83193,Asthma,Phase 1
+T84634,Asthma,Investigative
+T84726,Asthma,Terminated
+T85467,Asthma,Discontinued in Phase 1
+T85857,Asthma,Approved
+T86130,Asthma,Phase 2
+T86679,Asthma,Phase 1
+T87023,Asthma,Phase 3
+T88452,Asthma,Approved
+T88714,Asthma,Discontinued in Phase 2
+T88975,Asthma,Approved
+T89950,Asthma,Discontinued in Phase 2
+T90828,Asthma,Approved
+T92138,Asthma,Discontinued in Phase 2
+T93566,Asthma,Discontinued in Phase 2
+T94033,Asthma,Terminated
+T95379,Asthma,Phase 3
+T95400,Asthma,Approved
+T95913,Asthma,Phase 2
+T96144,Asthma,Phase 1
+T97587,Asthma,Phase 2
+T99840,Asthma,Discontinued in Phase 2
+T99954,Asthma,Discontinued in Preregistration
+T95241,Ataxic disorder,Phase 1/2
+T89534,Atrophy,Preclinical
+T02551,Attention deficit hyperactivity disorder,Phase 1
+T07806,Attention deficit hyperactivity disorder,Phase 3
+T11448,Attention deficit hyperactivity disorder,Approved
+T15117,Attention deficit hyperactivity disorder,Phase 2
+T16691,Attention deficit hyperactivity disorder,Patented
+T20709,Attention deficit hyperactivity disorder,Investigative
+T21945,Attention deficit hyperactivity disorder,Approved
+T24983,Attention deficit hyperactivity disorder,Phase 1
+T27812,Attention deficit hyperactivity disorder,Approved
+T29500,Attention deficit hyperactivity disorder,Approved
+T31204,Attention deficit hyperactivity disorder,Phase 4
+T31424,Attention deficit hyperactivity disorder,Approved
+T32060,Attention deficit hyperactivity disorder,Phase 1
+T34429,Attention deficit hyperactivity disorder,Discontinued in Phase 1
+T37693,Attention deficit hyperactivity disorder,Approved
+T42748,Attention deficit hyperactivity disorder,Approved
+T54128,Attention deficit hyperactivity disorder,Phase 2
+T55959,Attention deficit hyperactivity disorder,Approved
+T61484,Attention deficit hyperactivity disorder,Phase 3
+T63967,Attention deficit hyperactivity disorder,Phase 2
+T64765,Attention deficit hyperactivity disorder,Phase 2
+T67162,Attention deficit hyperactivity disorder,Approved
+T77913,Attention deficit hyperactivity disorder,Phase 1
+T78111,Attention deficit hyperactivity disorder,Phase 1/2
+T78709,Attention deficit hyperactivity disorder,Phase 3
+T79062,Attention deficit hyperactivity disorder,Phase 1
+T79961,Attention deficit hyperactivity disorder,Investigative
+T83813,Attention deficit hyperactivity disorder,Phase 3
+T84631,Attention deficit hyperactivity disorder,Phase 2
+T87670,Attention deficit hyperactivity disorder,Approved
+T93788,Attention deficit hyperactivity disorder,Approved
+T99524,Attention deficit hyperactivity disorder,Approved
+T26368,Autism spectrum disorder,Phase 1
+T31391,Autism spectrum disorder,Phase 2
+T42446,Autism spectrum disorder,Phase 2
+T53904,Autism spectrum disorder,Phase 2
+T59881,Autism spectrum disorder,Approved
+T61484,Autism spectrum disorder,Phase 3
+T62390,Autism spectrum disorder,Phase 2
+T66237,Autism spectrum disorder,Approved
+T69494,Autism spectrum disorder,Phase 2
+T79232,Autism spectrum disorder,Approved
+T84486,Autism spectrum disorder,Approved
+T99347,Autism spectrum disorder,Phase 2
+T03573,Autoimmune disease,Phase 1
+T08306,Autoimmune disease,Phase 1
+T11451,Autoimmune disease,Phase 1
+T25005,Autoimmune disease,Phase 1
+T25307,Autoimmune disease,Phase 1
+T39977,Autoimmune disease,Investigative
+T41963,Autoimmune disease,Phase 1
+T46482,Autoimmune disease,Phase 1
+T68290,Autoimmune disease,Phase 2
+T94718,Autoimmune disease,Phase 1
+T63217,Autosomal Recessive Ichthyosis,Phase 2
+T82943,Autosomal dominant polycystic kidney disease,Phase 1
+T03573,B-cell lymphoma,Phase 1/2
+T08391,B-cell lymphoma,Phase 2
+T10877,B-cell lymphoma,Phase 1/2
+T14755,B-cell lymphoma,Phase 1
+T23172,B-cell lymphoma,Phase 2
+T25005,B-cell lymphoma,Phase 2
+T25265,B-cell lymphoma,Phase 1
+T37539,B-cell lymphoma,Phase 1/2
+T56365,B-cell lymphoma,Phase 2/3
+T60345,B-cell lymphoma,Phase 1
+T60636,B-cell lymphoma,Phase 2
+T62431,B-cell lymphoma,Phase 2
+T62460,B-cell lymphoma,Phase 2
+T63083,B-cell lymphoma,Phase 1/2
+T67805,B-cell lymphoma,Phase 1/2
+T67849,B-cell lymphoma,Phase 1
+T71377,B-cell lymphoma,Phase 1/2
+T73215,B-cell lymphoma,Phase 1/2
+T77664,B-cell lymphoma,Discontinued in Phase 2
+T88023,B-cell lymphoma,Phase 1/2
+T89697,B-cell lymphoma,Phase 1
+T93923,B-cell lymphoma,Phase 1/2
+T95913,B-cell lymphoma,Phase 1
+T97766,B-cell lymphoma,Phase 1
+T02228,Bacterial infection,Investigative
+T02702,Bacterial infection,Phase 3
+T03410,Bacterial infection,Phase 2
+T06569,Bacterial infection,Approved
+T09826,Bacterial infection,Approved
+T10362,Bacterial infection,Terminated
+T10897,Bacterial infection,Approved
+T12187,Bacterial infection,Approved
+T14582,Bacterial infection,Approved
+T16987,Bacterial infection,Approved
+T17345,Bacterial infection,Phase 3
+T19244,Bacterial infection,Approved
+T20401,Bacterial infection,Approved
+T21112,Bacterial infection,Phase 3
+T22348,Bacterial infection,Approved
+T23036,Bacterial infection,Phase 2
+T24634,Bacterial infection,Approved
+T25258,Bacterial infection,Phase 1
+T27198,Bacterial infection,Phase 1
+T27445,Bacterial infection,Approved
+T27999,Bacterial infection,Phase 1
+T29303,Bacterial infection,Approved
+T29649,Bacterial infection,Phase 1
+T30520,Bacterial infection,Phase 3
+T30653,Bacterial infection,Approved
+T30803,Bacterial infection,Investigative
+T31992,Bacterial infection,Approved
+T32862,Bacterial infection,Approved
+T33193,Bacterial infection,Approved
+T34596,Bacterial infection,Investigative
+T34743,Bacterial infection,Approved
+T38179,Bacterial infection,Approved
+T39716,Bacterial infection,Approved
+T40126,Bacterial infection,Preclinical
+T40696,Bacterial infection,Approved
+T41201,Bacterial infection,Approved
+T41820,Bacterial infection,Terminated
+T42521,Bacterial infection,Phase 3
+T43920,Bacterial infection,Approved
+T47077,Bacterial infection,Phase 3
+T48472,Bacterial infection,Approved
+T51666,Bacterial infection,Approved
+T52227,Bacterial infection,Approved
+T52534,Bacterial infection,Phase 2
+T53378,Bacterial infection,Approved
+T53601,Bacterial infection,Approved
+T58093,Bacterial infection,Phase 2
+T62094,Bacterial infection,Approved
+T62276,Bacterial infection,Approved
+T63140,Bacterial infection,Approved
+T64410,Bacterial infection,Approved
+T66040,Bacterial infection,Approved
+T67162,Bacterial infection,Discontinued in Phase 3
+T67801,Bacterial infection,Phase 1/2
+T69494,Bacterial infection,Approved
+T71905,Bacterial infection,Approved
+T72065,Bacterial infection,Approved
+T72657,Bacterial infection,Approved
+T73215,Bacterial infection,Phase 2
+T74225,Bacterial infection,Discontinued in Phase 2
+T75273,Bacterial infection,Phase 3
+T76855,Bacterial infection,Phase 1
+T78937,Bacterial infection,Approved
+T79001,Bacterial infection,Terminated
+T79068,Bacterial infection,Phase 2
+T82349,Bacterial infection,Approved
+T82723,Bacterial infection,Investigative
+T82913,Bacterial infection,Phase 1
+T83011,Bacterial infection,Preclinical
+T83335,Bacterial infection,Phase 3
+T84972,Bacterial infection,Approved
+T88240,Bacterial infection,Approved
+T88338,Bacterial infection,Approved
+T94309,Bacterial infection,Approved
+T95400,Bacterial infection,Approved
+T95913,Bacterial infection,Investigative
+T96144,Bacterial infection,Approved
+T96215,Bacterial infection,Approved
+T98179,Bacterial infection,Terminated
+T99912,Bacterial infection,Preclinical
+T31946,Basal cell carcinoma,Phase 1/2
+T63934,Basal cell carcinoma,Phase 1
+T65755,Basal cell carcinoma,Phase 2
+T66505,Basal cell carcinoma,Approved
+T69189,Basal cell carcinoma,Phase 2
+T77664,Basal cell carcinoma,Phase 1
+T45598,Behcet disease,Phase 2
+T54132,Behcet disease,Approved
+T86192,Behcet disease,Approved
+T30418,Biliary tract cancer,Phase 3
+T40474,Biliary tract cancer,Phase 2
+T56697,Biliary tract cancer,Phase 2
+T78874,Biliary tract cancer,Phase 2
+T99948,Biliary tract cancer,Phase 2
+T02551,Bipolar disorder,Approved
+T12119,Bipolar disorder,Phase 2
+T18779,Bipolar disorder,Phase 2/3
+T24983,Bipolar disorder,Phase 1
+T29303,Bipolar disorder,Discontinued in Phase 3
+T32060,Bipolar disorder,Phase 1
+T34123,Bipolar disorder,Approved
+T42748,Bipolar disorder,Phase 1
+T45993,Bipolar disorder,Phase 1
+T55012,Bipolar disorder,Phase 2
+T55959,Bipolar disorder,Phase 4
+T60693,Bipolar disorder,Phase 1
+T61698,Bipolar disorder,Phase 2/3
+T62820,Bipolar disorder,Phase 1
+T64382,Bipolar disorder,Approved
+T67162,Bipolar disorder,Approved
+T77913,Bipolar disorder,Phase 1
+T78709,Bipolar disorder,Phase 1
+T79062,Bipolar disorder,Phase 1
+T82266,Bipolar disorder,Phase 2a
+T85605,Bipolar disorder,Phase 2
+T06575,Bladder cancer,Phase 2
+T09826,Bladder cancer,Clinical trial
+T11211,Bladder cancer,Investigative
+T11253,Bladder cancer,Investigative
+T13260,Bladder cancer,Discontinued in Phase 2
+T14597,Bladder cancer,Phase 1/2
+T15739,Bladder cancer,Phase 2
+T17345,Bladder cancer,Phase 2
+T17687,Bladder cancer,Approved
+T19579,Bladder cancer,Phase 1/2
+T30418,Bladder cancer,Phase 1
+T31621,Bladder cancer,Phase 1
+T35591,Bladder cancer,Phase 3
+T43189,Bladder cancer,Discontinued in Phase 3
+T45598,Bladder cancer,Phase 1
+T46482,Bladder cancer,Investigative
+T47101,Bladder cancer,Phase 2
+T47863,Bladder cancer,Phase 3
+T48429,Bladder cancer,Phase 2
+T58454,Bladder cancer,Phase 2
+T63178,Bladder cancer,Phase 1
+T63934,Bladder cancer,Phase 2
+T63966,Bladder cancer,Phase 2
+T68517,Bladder cancer,Phase 2
+T73342,Bladder cancer,Phase 2
+T75243,Bladder cancer,Phase 1/2
+T77190,Bladder cancer,Phase 1
+T78114,Bladder cancer,Phase 1/2
+T82494,Bladder cancer,Phase 1/2
+T86836,Bladder cancer,Phase 3
+T88304,Bladder cancer,Phase 2
+T91331,Bladder cancer,Phase 2
+T95913,Bladder cancer,Phase 2
+T96144,Bladder cancer,Approved
+T97071,Bladder cancer,Phase 1/2
+T99948,Bladder cancer,Phase 3
+T49814,Blastomycosis,Approved
+T11843,Bleeding disorder,Approved
+T19414,Bleeding disorder,Approved
+T20297,Bleeding disorder,Approved
+T43332,Bleeding disorder,Phase 3
+T45299,Bleeding disorder,Approved
+T72702,Bleeding disorder,Phase 2
+T83369,Bleeding disorder,Approved
+T84631,Bleeding disorder,Phase 3
+T88182,Bleeding disorder,Approved
+T89034,Bleeding disorder,Approved
+T94033,Bleeding disorder,Approved
+T11388,Bone cancer,Patented
+T41141,Bone cancer,Patented
+T61746,Bone cancer,Patented
+T68290,Bone cancer,Patented
+T77236,Bone cancer,Patented
+T93653,Bone cancer,Patented
+T06011,Brain cancer,Phase 2
+T21123,Brain cancer,Phase 2
+T23714,Brain cancer,Discontinued in Phase 2
+T29130,Brain cancer,Phase 1/2
+T30081,Brain cancer,Discontinued in Phase 3
+T34867,Brain cancer,Phase 3
+T37434,Brain cancer,Phase 1
+T40459,Brain cancer,Phase 3
+T41003,Brain cancer,Phase 2
+T44771,Brain cancer,Phase 2/3
+T45758,Brain cancer,Phase 1
+T46084,Brain cancer,Phase 1
+T51748,Brain cancer,Phase 2
+T52450,Brain cancer,Discontinued in Phase 3
+T59328,Brain cancer,Phase 3
+T62166,Brain cancer,Phase 2
+T64969,Brain cancer,Phase 1/2
+T64969,Brain cancer,Phase 1
+T68251,Brain cancer,Discontinued in Phase 3
+T71479,Brain cancer,Phase 1/2
+T73475,Brain cancer,Discontinued in Phase 3
+T77009,Brain cancer,Approved
+T85943,Brain cancer,Phase 1
+T86052,Brain cancer,Phase 1
+T86254,Brain cancer,Phase 1
+T86836,Brain cancer,Approved
+T89534,Brain cancer,Phase 1
+T89697,Brain cancer,Phase 1
+T75440,Brain disease,Phase 2
+T79961,Brain disease,Approved (orphan drug)
+T01110,Breast cancer,Phase 2
+T01358,Breast cancer,Phase 2
+T05031,Breast cancer,Phase 3
+T06569,Breast cancer,Phase 2
+T07191,Breast cancer,Phase 1
+T07303,Breast cancer,Phase 2
+T08391,Breast cancer,Phase 2
+T09058,Breast cancer,Terminated
+T09130,Breast cancer,Phase 1
+T09826,Breast cancer,Phase 3
+T11211,Breast cancer,Approved
+T11241,Breast cancer,Preclinical
+T11253,Breast cancer,Investigative
+T11822,Breast cancer,Terminated
+T12108,Breast cancer,Preclinical
+T13176,Breast cancer,Phase 1
+T13201,Breast cancer,Phase 2
+T13260,Breast cancer,Approved
+T14342,Breast cancer,Phase 2
+T14597,Breast cancer,Approved
+T15000,Breast cancer,Phase 1
+T16347,Breast cancer,Phase 1
+T16601,Breast cancer,Phase 2
+T16987,Breast cancer,Phase 2
+T17629,Breast cancer,Approved
+T17687,Breast cancer,Phase 1/2
+T17758,Breast cancer,Phase 2
+T18477,Breast cancer,Phase 2
+T18779,Breast cancer,Phase 2
+T18950,Breast cancer,Approved
+T18972,Breast cancer,Phase 2
+T19160,Breast cancer,Clinical trial
+T20401,Breast cancer,Phase 2
+T20761,Breast cancer,Phase 3
+T21890,Breast cancer,Approved
+T21960,Breast cancer,Phase 3
+T22350,Breast cancer,Phase 1
+T22939,Breast cancer,Approved
+T23003,Breast cancer,Phase 2
+T23547,Breast cancer,Phase 3
+T25265,Breast cancer,Investigative
+T25739,Breast cancer,Phase 1
+T26851,Breast cancer,Phase 2
+T30803,Breast cancer,Approved
+T31309,Breast cancer,Approved
+T31902,Breast cancer,Phase 1/2
+T31992,Breast cancer,Phase 2
+T32984,Breast cancer,Phase 2
+T33489,Breast cancer,Phase 2
+T33629,Breast cancer,Phase 2
+T34429,Breast cancer,Phase 3
+T34867,Breast cancer,Approved
+T35265,Breast cancer,Preclinical
+T35423,Breast cancer,Phase 1
+T39031,Breast cancer,Phase 2
+T39996,Breast cancer,Preclinical
+T40016,Breast cancer,Phase 2
+T40111,Breast cancer,Approved
+T40160,Breast cancer,Phase 2
+T40474,Breast cancer,Phase 2
+T42157,Breast cancer,Phase 1
+T43189,Breast cancer,Approved
+T43920,Breast cancer,Phase 2
+T44141,Breast cancer,Phase 3
+T46456,Breast cancer,Phase 1
+T46521,Breast cancer,Phase 2
+T47101,Breast cancer,Phase 1/2
+T47863,Breast cancer,Phase 1
+T48069,Breast cancer,Phase 2
+T48945,Breast cancer,Phase 2
+T49898,Breast cancer,Phase 2
+T50261,Breast cancer,Investigative
+T51426,Breast cancer,Phase 3
+T51672,Breast cancer,Phase 3
+T51908,Breast cancer,Preclinical
+T52227,Breast cancer,Phase 3
+T53251,Breast cancer,Preclinical
+T53378,Breast cancer,Phase 2
+T53524,Breast cancer,Patented
+T55860,Breast cancer,Phase 3
+T58449,Breast cancer,Phase 1/2
+T58454,Breast cancer,Phase 1/2
+T58772,Breast cancer,Phase 1/2
+T59328,Breast cancer,Approved
+T59631,Breast cancer,Phase 3
+T59955,Breast cancer,Phase 2
+T60345,Breast cancer,Phase 1/2
+T60631,Breast cancer,Phase 2
+T60930,Breast cancer,Phase 2
+T61518,Breast cancer,Phase 1
+T61683,Breast cancer,Phase 1
+T62739,Breast cancer,Investigative
+T63175,Breast cancer,Phase 1
+T63505,Breast cancer,Approved
+T64567,Breast cancer,Phase 2
+T65755,Breast cancer,Phase 3
+T66030,Breast cancer,Approved
+T67162,Breast cancer,Withdrawn from market
+T67619,Breast cancer,Approved
+T67849,Breast cancer,Phase 3
+T68517,Breast cancer,Phase 2
+T68536,Breast cancer,Approved
+T68547,Breast cancer,Phase 3
+T68887,Breast cancer,Phase 1
+T70176,Breast cancer,Phase 1
+T70508,Breast cancer,Phase 1
+T71266,Breast cancer,Approved
+T71374,Breast cancer,Phase 2
+T71536,Breast cancer,Phase 2
+T72458,Breast cancer,Phase 3
+T72835,Breast cancer,Phase 1
+T73184,Breast cancer,Preclinical
+T75041,Breast cancer,Approved
+T75243,Breast cancer,Phase 2
+T75498,Breast cancer,Phase 2
+T78874,Breast cancer,Phase 2
+T80002,Breast cancer,Phase 1
+T80276,Breast cancer,Approved
+T80896,Breast cancer,Approved
+T80975,Breast cancer,Approved
+T81905,Breast cancer,Discontinued in Phase 2
+T82383,Breast cancer,Phase 2
+T82393,Breast cancer,Phase 1/2
+T82665,Breast cancer,Phase 2
+T83059,Breast cancer,Phase 2
+T84621,Breast cancer,Approved
+T85435,Breast cancer,Discontinued in Phase 1/2
+T85544,Breast cancer,Phase 1/2
+T85733,Breast cancer,Approved
+T85799,Breast cancer,Approved
+T85943,Breast cancer,Approved
+T86052,Breast cancer,Phase 2
+T86350,Breast cancer,Phase 2
+T86734,Breast cancer,Phase 2
+T86836,Breast cancer,Approved
+T87075,Breast cancer,Phase 2
+T87108,Breast cancer,Phase 1/2
+T87946,Breast cancer,Phase 1
+T88505,Breast cancer,Phase 2
+T89041,Breast cancer,Phase 2
+T89361,Breast cancer,Approved
+T89515,Breast cancer,Approved
+T89534,Breast cancer,Approved
+T90572,Breast cancer,Phase 2
+T91331,Breast cancer,Phase 2
+T92144,Breast cancer,Phase 1
+T92494,Breast cancer,Approved
+T94718,Breast cancer,Phase 1
+T95289,Breast cancer,Phase 1
+T95385,Breast cancer,Phase 2
+T95899,Breast cancer,Phase 3
+T95913,Breast cancer,Phase 3
+T96079,Breast cancer,Phase 3
+T96144,Breast cancer,Approved
+T96623,Breast cancer,Phase 1
+T96788,Breast cancer,Phase 3
+T96892,Breast cancer,Phase 1
+T99816,Breast cancer,Phase 1
+T99840,Breast cancer,Phase 3
+T99912,Breast cancer,Preclinical
+T99948,Breast cancer,Phase 3
+T08735,Bronchiectasis,Approved
+T40332,Bronchiectasis,Phase 2
+T70490,Bronchiectasis,Phase 2
+T93955,Bronchiectasis,Approved
+T22839,Bronchitis,Approved
+T47941,Bronchitis,Discontinued in Phase 3
+T61744,Bronchitis,Discontinued in Phase 3
+T72657,Bronchitis,Approved
+T98917,Bronchitis,Approved
+T46360,Bulimia nervosa,Phase 2
+T78709,Bulimia nervosa,Phase 2
+T55922,Burn and burn infection,Discontinued in Phase 2
+T60366,Burn and burn infection,Discontinued in Phase 2
+T82349,Burn and burn infection,Phase 3
+T11211,Cachexia,Discontinued in Phase 1
+T17163,Cachexia,Investigative
+T52522,Cachexia,Phase 2
+T53389,Cachexia,Investigative
+T59604,Cachexia,Investigative
+T72458,Cachexia,Investigative
+T72841,Cachexia,Terminated
+T41239,Calcific uremic arteriolopathy,Phase 3
+T00140,Carcinoid syndrome,Phase 2
+T51593,Carcinoid syndrome,Approved
+T67162,Carcinoid syndrome,Phase 2
+T81905,Carcinoid syndrome,Terminated
+T85605,Carcinoid syndrome,Terminated
+T06011,Cardiac arrest,Preclinical
+T25637,Cardiac arrest,Preclinical
+T35940,Cardiac arrest,Investigative
+T61746,Cardiac arrest,Preclinical
+T76414,Cardiac arrest,Phase 1
+T89055,Cardiac arrest,Investigative
+T06182,Cardiomyopathy,Phase 1
+T86462,Cardiomyopathy,Phase 3
+T00890,Cardiovascular disease,Phase 2
+T02246,Cardiovascular disease,Phase 1
+T02703,Cardiovascular disease,Phase 2
+T03403,Cardiovascular disease,Phase 3
+T05114,Cardiovascular disease,Investigative
+T05409,Cardiovascular disease,Phase 1
+T07663,Cardiovascular disease,Discontinued in Phase 2
+T11211,Cardiovascular disease,Phase 4
+T12427,Cardiovascular disease,Approved
+T12499,Cardiovascular disease,Phase 1
+T13712,Cardiovascular disease,Phase 3
+T13852,Cardiovascular disease,Phase 1
+T15117,Cardiovascular disease,Withdrawn from market
+T15334,Cardiovascular disease,Phase 3
+T19414,Cardiovascular disease,Discontinued in Phase 2
+T23355,Cardiovascular disease,Discontinued in Phase 3
+T23499,Cardiovascular disease,Approved
+T24836,Cardiovascular disease,Discontinued in Phase 1
+T29303,Cardiovascular disease,Terminated
+T30081,Cardiovascular disease,Phase 1
+T30085,Cardiovascular disease,Phase 3
+T31479,Cardiovascular disease,Phase 1
+T32060,Cardiovascular disease,Phase 1
+T32780,Cardiovascular disease,Phase 1
+T33754,Cardiovascular disease,Approved
+T36075,Cardiovascular disease,Phase 3
+T38810,Cardiovascular disease,Phase 3
+T42000,Cardiovascular disease,Phase 2
+T44282,Cardiovascular disease,Phase 1
+T45993,Cardiovascular disease,Terminated
+T46185,Cardiovascular disease,Terminated
+T46642,Cardiovascular disease,Discontinued in Phase 2
+T46937,Cardiovascular disease,Phase 2
+T48470,Cardiovascular disease,Phase 1
+T49493,Cardiovascular disease,Phase 1/2
+T49630,Cardiovascular disease,Phase 2
+T50688,Cardiovascular disease,Discontinued in Phase 3
+T51666,Cardiovascular disease,Investigative
+T52189,Cardiovascular disease,Phase 3
+T52522,Cardiovascular disease,Terminated
+T52671,Cardiovascular disease,Phase 2
+T52953,Cardiovascular disease,Phase 1
+T53139,Cardiovascular disease,Phase 2
+T53585,Cardiovascular disease,Approved
+T56545,Cardiovascular disease,Phase 2
+T60708,Cardiovascular disease,Discontinued in Phase 3
+T61622,Cardiovascular disease,Phase 1
+T62206,Cardiovascular disease,Phase 2
+T63168,Cardiovascular disease,Phase 1
+T63484,Cardiovascular disease,Phase 4
+T63505,Cardiovascular disease,Phase 1
+T67022,Cardiovascular disease,Phase 2
+T68290,Cardiovascular disease,Discontinued in Phase 1
+T69912,Cardiovascular disease,Phase 1
+T70071,Cardiovascular disease,Phase 1
+T71167,Cardiovascular disease,Phase 1
+T72168,Cardiovascular disease,Phase 2
+T72478,Cardiovascular disease,Phase 2
+T73694,Cardiovascular disease,Phase 1
+T73696,Cardiovascular disease,Phase 1
+T73712,Cardiovascular disease,Approved
+T73992,Cardiovascular disease,Clinical trial
+T76198,Cardiovascular disease,Terminated
+T79798,Cardiovascular disease,Discontinued in Phase 2
+T80975,Cardiovascular disease,Phase 2
+T82266,Cardiovascular disease,Phase 2
+T82577,Cardiovascular disease,Approved
+T84316,Cardiovascular disease,Phase 3
+T85943,Cardiovascular disease,Phase 1
+T86591,Cardiovascular disease,Phase 3
+T86652,Cardiovascular disease,Phase 2
+T88185,Cardiovascular disease,Phase 2
+T88975,Cardiovascular disease,Discontinued in Phase 1
+T89213,Cardiovascular disease,Discontinued in Phase 2
+T92463,Cardiovascular disease,Phase 1
+T92777,Cardiovascular disease,Phase 3
+T92828,Cardiovascular disease,Approved
+T94033,Cardiovascular disease,Phase 2
+T95558,Cardiovascular disease,Phase 2
+T95913,Cardiovascular disease,Terminated
+T98913,Cardiovascular disease,Phase 2
+T43920,Cas mediated disorder,Patented
+T09130,Cataract,Approved
+T44068,Central and peripheral nervous disease,Approved
+T79961,Central and peripheral nervous disease,Approved
+T00902,Central nervous system disease,Terminated
+T15439,Central nervous system disease,Preclinical
+T32060,Central nervous system disease,Investigative
+T32855,Central nervous system disease,Terminated
+T34429,Central nervous system disease,Investigative
+T36557,Central nervous system disease,Investigative
+T40276,Central nervous system disease,Phase 1
+T43189,Central nervous system disease,Investigative
+T45593,Central nervous system disease,Investigative
+T46360,Central nervous system disease,Phase 1
+T52921,Central nervous system disease,Investigative
+T64765,Central nervous system disease,Patented
+T67619,Central nervous system disease,Phase 1
+T76685,Central nervous system disease,Investigative
+T77796,Central nervous system disease,Approved
+T83011,Central nervous system disease,Investigative
+T95913,Central nervous system disease,Phase 1
+T99347,Central nervous system disease,Investigative
+T06273,Cerebrovascular disease,Phase 3
+T23499,Cerebrovascular disease,Discontinued in Phase 2
+T68039,Cerebrovascular disease,Terminated
+T03006,Cervical cancer,Approved
+T15000,Cervical cancer,Phase 2
+T15739,Cervical cancer,Phase 1
+T18779,Cervical cancer,Phase 1/2
+T40874,Cervical cancer,Phase 2
+T50461,Cervical cancer,Phase 2
+T59631,Cervical cancer,Phase 3
+T71164,Cervical cancer,Phase 1/2
+T72702,Cervical cancer,Approved
+T84894,Cervical cancer,Phase 3
+T85072,Cervical cancer,Phase 2
+T85943,Cervical cancer,Phase 1/2
+T87108,Cervical cancer,Phase 1/2
+T97071,Cervical cancer,Phase 1/2
+T85733,Chemoprotection,Approved
+T96144,Chemoprotection,Approved
+T51426,Cholelithiasis,Approved
+T69189,Chondrosarcoma,Discontinued in Phase 2
+T90628,Choroidal dystrophy,Phase 3
+T90628,Choroidal dystrophy,Phase 1/2
+T00033,Chronic kidney disease,Phase 1/2
+T06320,Chronic kidney disease,Phase 2
+T34234,Chronic kidney disease,Approved
+T57680,Chronic kidney disease,Phase 2
+T63160,Chronic kidney disease,Phase 1
+T64597,Chronic kidney disease,Phase 1
+T72168,Chronic kidney disease,Approved
+T79157,Chronic kidney disease,Phase 1/2
+T92403,Chronic kidney disease,Phase 2
+T30846,Chronic myelomonocytic leukaemia,Phase 1
+T31309,Chronic myelomonocytic leukaemia,Phase 1
+T47107,Chronic myelomonocytic leukaemia,Phase 2
+T66505,Chronic myelomonocytic leukaemia,Approved
+T69189,Chronic myelomonocytic leukaemia,Approved
+T74312,Chronic myelomonocytic leukaemia,Phase 2
+T75243,Chronic myelomonocytic leukaemia,Approved
+T96723,Chronic myelomonocytic leukaemia,Phase 1
+T00140,Chronic obstructive pulmonary disease,Discontinued in Phase 2
+T00884,Chronic obstructive pulmonary disease,Phase 2
+T01840,Chronic obstructive pulmonary disease,Phase 1
+T02001,Chronic obstructive pulmonary disease,Phase 2
+T03500,Chronic obstructive pulmonary disease,Discontinued in Phase 2
+T05114,Chronic obstructive pulmonary disease,Phase 2
+T05351,Chronic obstructive pulmonary disease,Phase 2
+T06093,Chronic obstructive pulmonary disease,Investigative
+T06182,Chronic obstructive pulmonary disease,Phase 1
+T06671,Chronic obstructive pulmonary disease,Phase 1
+T07663,Chronic obstructive pulmonary disease,Phase 2
+T09130,Chronic obstructive pulmonary disease,Approved
+T09960,Chronic obstructive pulmonary disease,Phase 3
+T10265,Chronic obstructive pulmonary disease,Phase 2
+T11211,Chronic obstructive pulmonary disease,Approved
+T11309,Chronic obstructive pulmonary disease,Preclinical
+T11388,Chronic obstructive pulmonary disease,Patented
+T12189,Chronic obstructive pulmonary disease,Discontinued in Phase 2
+T12541,Chronic obstructive pulmonary disease,Phase 1
+T14731,Chronic obstructive pulmonary disease,Phase 2
+T16016,Chronic obstructive pulmonary disease,Discontinued in Phase 2
+T21865,Chronic obstructive pulmonary disease,Phase 2
+T22655,Chronic obstructive pulmonary disease,Phase 2
+T22839,Chronic obstructive pulmonary disease,Terminated
+T23471,Chronic obstructive pulmonary disease,Phase 2
+T23797,Chronic obstructive pulmonary disease,Phase 3
+T25663,Chronic obstructive pulmonary disease,Approved
+T28265,Chronic obstructive pulmonary disease,Phase 1
+T28893,Chronic obstructive pulmonary disease,Approved
+T29143,Chronic obstructive pulmonary disease,Phase 2
+T29683,Chronic obstructive pulmonary disease,Discontinued in Phase 2
+T33754,Chronic obstructive pulmonary disease,Discontinued in Phase 2
+T34624,Chronic obstructive pulmonary disease,Phase 2
+T35734,Chronic obstructive pulmonary disease,Phase 1
+T40016,Chronic obstructive pulmonary disease,Approved
+T40332,Chronic obstructive pulmonary disease,Phase 2
+T40800,Chronic obstructive pulmonary disease,Approved
+T41141,Chronic obstructive pulmonary disease,Patented
+T45598,Chronic obstructive pulmonary disease,Phase 2
+T46360,Chronic obstructive pulmonary disease,Phase 1
+T46871,Chronic obstructive pulmonary disease,Phase 2
+T47094,Chronic obstructive pulmonary disease,Discontinued in Phase 2
+T47941,Chronic obstructive pulmonary disease,Phase 3
+T51282,Chronic obstructive pulmonary disease,Investigative
+T51408,Chronic obstructive pulmonary disease,Approved
+T52522,Chronic obstructive pulmonary disease,Approved
+T52790,Chronic obstructive pulmonary disease,Discontinued in Phase 2
+T55012,Chronic obstructive pulmonary disease,Terminated
+T55654,Chronic obstructive pulmonary disease,Phase 2
+T56923,Chronic obstructive pulmonary disease,Phase 2
+T57585,Chronic obstructive pulmonary disease,Phase 2
+T60708,Chronic obstructive pulmonary disease,Phase 1
+T61722,Chronic obstructive pulmonary disease,Phase 2
+T61744,Chronic obstructive pulmonary disease,Phase 2
+T61746,Chronic obstructive pulmonary disease,Patented
+T62206,Chronic obstructive pulmonary disease,Phase 3
+T62431,Chronic obstructive pulmonary disease,Phase 1
+T62841,Chronic obstructive pulmonary disease,Patented
+T63229,Chronic obstructive pulmonary disease,Phase 3
+T63414,Chronic obstructive pulmonary disease,Phase 2
+T63484,Chronic obstructive pulmonary disease,Approved
+T65864,Chronic obstructive pulmonary disease,Phase 1
+T67162,Chronic obstructive pulmonary disease,Discontinued in Phase 3
+T67684,Chronic obstructive pulmonary disease,Approved
+T67942,Chronic obstructive pulmonary disease,Preclinical
+T67952,Chronic obstructive pulmonary disease,Discontinued in Preregistration
+T68290,Chronic obstructive pulmonary disease,Patented
+T72171,Chronic obstructive pulmonary disease,Phase 3
+T72835,Chronic obstructive pulmonary disease,Phase 2a
+T72957,Chronic obstructive pulmonary disease,Discontinued in Phase 1
+T73476,Chronic obstructive pulmonary disease,Phase 2
+T77236,Chronic obstructive pulmonary disease,Patented
+T77365,Chronic obstructive pulmonary disease,Phase 2
+T78585,Chronic obstructive pulmonary disease,Phase 3
+T79961,Chronic obstructive pulmonary disease,Approved
+T82393,Chronic obstructive pulmonary disease,Preclinical
+T84316,Chronic obstructive pulmonary disease,Approved
+T85857,Chronic obstructive pulmonary disease,Phase 2
+T85943,Chronic obstructive pulmonary disease,Phase 1
+T86364,Chronic obstructive pulmonary disease,Phase 2
+T86385,Chronic obstructive pulmonary disease,Phase 2
+T86552,Chronic obstructive pulmonary disease,Investigative
+T89988,Chronic obstructive pulmonary disease,Phase 2
+T90828,Chronic obstructive pulmonary disease,Phase 3
+T03661,Chronic pain,Preregistration
+T05409,Chronic pain,Phase 1
+T07173,Chronic pain,Patented
+T12119,Chronic pain,Phase 2
+T47768,Chronic pain,Approved
+T51076,Chronic pain,Patented
+T51487,Chronic pain,Approved
+T58992,Chronic pain,Phase 3
+T59328,Chronic pain,Phase 2
+T60693,Chronic pain,Phase 2
+T62974,Chronic pain,Phase 2
+T62974,Chronic pain,Phase 1
+T66665,Chronic pain,Approved
+T74312,Chronic pain,Phase 2
+T80975,Chronic pain,Phase 2
+T83193,Chronic pain,Phase 1
+T84703,Chronic pain,Patented
+T85670,Chronic pain,Phase 3
+T96788,Chronic pain,Phase 2
+T76093,Chronic tympanic membrane perforation,Phase 1
+T48268,Circadian rhythm sleep disorder,Terminated
+T97613,Circadian rhythm sleep disorder,Terminated
+T46040,Clotting disorder,IND submitted
+T01840,Coagulation defect,Phase 2
+T10383,Coagulation defect,Clinical trial
+T11843,Coagulation defect,Approved
+T14602,Coagulation defect,Approved
+T15803,Coagulation defect,Phase 2
+T19368,Coagulation defect,Clinical trial
+T27602,Coagulation defect,Phase 2
+T41141,Coagulation defect,Clinical trial
+T73476,Coagulation defect,Approved
+T84631,Coagulation defect,Approved
+T94033,Coagulation defect,Approved
+T73726,Coccidioidomycosis,Phase 1
+T05387,Coeliac disease,Phase 2
+T32240,Coeliac disease,Phase 2
+T68290,Coeliac disease,Phase 1
+T86161,Coeliac disease,Phase 2
+T09538,Colon cancer,Withdrawn from market
+T14731,Colon cancer,Discontinued in Phase 2
+T16514,Colon cancer,Phase 2
+T31391,Colon cancer,Preclinical
+T35792,Colon cancer,Preclinical
+T47863,Colon cancer,Phase 1/2
+T52227,Colon cancer,Approved
+T52969,Colon cancer,Discontinued in Phase 2
+T53524,Colon cancer,Patented
+T53764,Colon cancer,Preclinical
+T59328,Colon cancer,Phase 2
+T60631,Colon cancer,Phase 1/2
+T99948,Colon cancer,Phase 3
+T05031,Colorectal cancer,Phase 1/2
+T07173,Colorectal cancer,Phase 2
+T07663,Colorectal cancer,Phase 3
+T09826,Colorectal cancer,Approved
+T10362,Colorectal cancer,Terminated
+T10822,Colorectal cancer,Preclinical
+T11451,Colorectal cancer,Phase 3
+T13127,Colorectal cancer,Phase 1/2
+T14143,Colorectal cancer,Phase 3
+T14597,Colorectal cancer,Phase 2
+T14731,Colorectal cancer,Discontinued in Phase 2
+T15739,Colorectal cancer,Phase 1/2
+T16340,Colorectal cancer,Phase 3
+T16601,Colorectal cancer,Phase 2
+T18779,Colorectal cancer,Phase 2
+T18972,Colorectal cancer,Phase 1/2
+T19579,Colorectal cancer,Phase 1/2
+T20761,Colorectal cancer,Approved
+T21960,Colorectal cancer,Phase 2
+T23003,Colorectal cancer,Phase 2
+T25637,Colorectal cancer,Phase 2
+T26851,Colorectal cancer,Phase 1/2
+T29130,Colorectal cancer,Phase 3
+T29815,Colorectal cancer,Phase 2
+T31946,Colorectal cancer,Approved
+T35289,Colorectal cancer,Phase 1
+T35486,Colorectal cancer,Phase 2
+T37434,Colorectal cancer,Phase 1
+T40010,Colorectal cancer,Phase 2
+T40474,Colorectal cancer,Phase 1/2
+T43332,Colorectal cancer,Discontinued in Phase 2
+T43718,Colorectal cancer,Phase 1
+T43739,Colorectal cancer,Phase 2
+T45968,Colorectal cancer,Phase 2
+T45993,Colorectal cancer,Discontinued in Phase 3
+T47101,Colorectal cancer,Approved
+T47107,Colorectal cancer,Phase 1
+T47381,Colorectal cancer,Phase 1
+T47863,Colorectal cancer,Discontinued in Phase 2
+T48069,Colorectal cancer,Phase 1
+T48429,Colorectal cancer,Phase 1/2
+T48945,Colorectal cancer,Investigative
+T51076,Colorectal cancer,Phase 2
+T51223,Colorectal cancer,Phase 2
+T51407,Colorectal cancer,Phase 1/2
+T51666,Colorectal cancer,Investigative
+T51693,Colorectal cancer,Phase 2
+T52227,Colorectal cancer,Approved
+T52624,Colorectal cancer,Approved
+T53524,Colorectal cancer,Patented
+T54156,Colorectal cancer,Terminated
+T55273,Colorectal cancer,Phase 1
+T55293,Colorectal cancer,Phase 2
+T56418,Colorectal cancer,Phase 2
+T57001,Colorectal cancer,Phase 1/2
+T59328,Colorectal cancer,Approved
+T59631,Colorectal cancer,Phase 3
+T60345,Colorectal cancer,Phase 1
+T60529,Colorectal cancer,Discontinued in Phase 2
+T63934,Colorectal cancer,Phase 2
+T63966,Colorectal cancer,Phase 1/2
+T65755,Colorectal cancer,Phase 2
+T67103,Colorectal cancer,Phase 2
+T67619,Colorectal cancer,Phase 3
+T67849,Colorectal cancer,Phase 1/2
+T68547,Colorectal cancer,Phase 2
+T69128,Colorectal cancer,Phase 2
+T70067,Colorectal cancer,Phase 2
+T71164,Colorectal cancer,Phase 1
+T71266,Colorectal cancer,Phase 2
+T74002,Colorectal cancer,Phase 2
+T74312,Colorectal cancer,Approved
+T75890,Colorectal cancer,Investigative
+T76685,Colorectal cancer,Phase 2
+T78114,Colorectal cancer,Discontinued in Phase 1
+T79162,Colorectal cancer,Phase 1
+T79249,Colorectal cancer,Investigative
+T80276,Colorectal cancer,Phase 1/2
+T80975,Colorectal cancer,Approved
+T81774,Colorectal cancer,Phase 2
+T84703,Colorectal cancer,Phase 2
+T85554,Colorectal cancer,Phase 2
+T86350,Colorectal cancer,Phase 2
+T86428,Colorectal cancer,Terminated
+T86528,Colorectal cancer,Phase 1/2
+T86748,Colorectal cancer,Phase 2
+T86836,Colorectal cancer,Approved
+T89697,Colorectal cancer,Phase 1
+T91696,Colorectal cancer,Phase 2
+T94085,Colorectal cancer,Investigative
+T95913,Colorectal cancer,Phase 1/2
+T96144,Colorectal cancer,Phase 2
+T96721,Colorectal cancer,Phase 3
+T97136,Colorectal cancer,Phase 2
+T97766,Colorectal cancer,Phase 1/2
+T99160,Colorectal cancer,Phase 2
+T99948,Colorectal cancer,Phase 1
+T31479,Contact dermatitis,Phase 2
+T68066,Contact dermatitis,Approved
+T01777,Coronavirus infection,Preclinical
+T04902,Coronavirus infection,Preclinical
+T06273,Coronavirus infection,Preclinical
+T12475,Coronavirus infection,Preclinical
+T41141,Coronavirus infection,Patented
+T51565,Coronavirus infection,Phase 2
+T65414,Coronavirus infection,Approved
+T68706,Coronavirus infection,Preclinical
+T84894,Coronavirus infection,Phase 2
+T86385,Coronavirus infection,Preclinical
+T17140,Cough,Phase 3
+T29303,Cough,Phase 2
+T33754,Cough,Approved
+T39716,Cough,Approved
+T46360,Cough,Approved
+T47094,Cough,Phase 2
+T47768,Cough,Approved
+T47941,Cough,Approved
+T58992,Cough,Phase 1
+T74166,Cough,Approved
+T79961,Cough,Approved
+T83193,Cough,Investigative
+T02001,Crohn disease,Phase 2
+T06841,Crohn disease,Phase 3
+T07403,Crohn disease,Approved
+T10265,Crohn disease,Phase 2
+T13251,Crohn disease,Phase 2
+T13852,Crohn disease,Phase 2
+T14065,Crohn disease,Approved
+T16486,Crohn disease,Discontinued in Phase 2
+T17003,Crohn disease,Phase 3
+T19334,Crohn disease,Phase 1
+T19556,Crohn disease,Phase 2
+T20178,Crohn disease,Phase 2
+T22655,Crohn disease,Phase 2
+T22839,Crohn disease,Phase 3
+T23172,Crohn disease,Phase 1
+T25307,Crohn disease,Phase 1
+T26203,Crohn disease,Phase 2
+T30635,Crohn disease,Phase 2
+T32578,Crohn disease,Phase 2
+T35212,Crohn disease,Phase 2
+T35289,Crohn disease,Phase 2
+T37693,Crohn disease,Phase 2
+T40111,Crohn disease,Phase 4
+T40332,Crohn disease,Phase 3
+T45758,Crohn disease,Phase 1
+T46526,Crohn disease,Phase 2
+T49814,Crohn disease,Approved
+T54156,Crohn disease,Phase 2
+T57011,Crohn disease,Phase 2
+T61744,Crohn disease,Phase 2
+T62460,Crohn disease,Phase 2
+T68290,Crohn disease,Phase 1
+T70888,Crohn disease,Phase 1
+T83103,Crohn disease,Phase 2
+T85435,Crohn disease,Phase 2
+T86130,Crohn disease,Phase 3
+T93661,Crohn disease,Phase 3
+T94695,Crohn disease,Phase 3
+T95385,Crohn disease,Discontinued in Phase 2
+T97587,Crohn disease,Approved
+T97713,Crohn disease,Phase 4
+T97873,Crohn disease,Phase 3
+T97947,Crohn disease,Phase 3
+T13852,Cutaneous lupus erythematosus,Phase 2
+T32578,Cutaneous lupus erythematosus,Phase 3
+T55398,Cutaneous lupus erythematosus,Phase 1
+T62431,Cutaneous lupus erythematosus,Phase 2
+T62460,Cutaneous lupus erythematosus,Phase 2
+T63226,Cutaneous lupus erythematosus,Phase 3
+T93440,Cutaneous lupus erythematosus,Phase 3
+T99340,Cutaneous lupus erythematosus,Phase 2
+T01840,Cystic fibrosis,Terminated
+T02779,Cystic fibrosis,Phase 3
+T11211,Cystic fibrosis,Discontinued in Phase 2
+T20178,Cystic fibrosis,Phase 2
+T20297,Cystic fibrosis,Phase 2
+T22348,Cystic fibrosis,Phase 2
+T22415,Cystic fibrosis,Phase 2
+T22839,Cystic fibrosis,Terminated
+T28265,Cystic fibrosis,Phase 1
+T29303,Cystic fibrosis,Phase 1/2
+T34743,Cystic fibrosis,Phase 2
+T40332,Cystic fibrosis,Phase 2
+T40696,Cystic fibrosis,Phase 2
+T46360,Cystic fibrosis,Phase 1
+T52173,Cystic fibrosis,Phase 2
+T52227,Cystic fibrosis,Phase 2
+T55654,Cystic fibrosis,Approved
+T56923,Cystic fibrosis,Phase 2
+T57585,Cystic fibrosis,Discontinued in Phase 2
+T58184,Cystic fibrosis,Phase 2
+T59626,Cystic fibrosis,Discontinued in Phase 2
+T61484,Cystic fibrosis,Phase 3
+T61746,Cystic fibrosis,Preclinical
+T72252,Cystic fibrosis,Clinical trial
+T83145,Cystic fibrosis,Terminated
+T86836,Cystic fibrosis,Approved
+T86918,Cystic fibrosis,Phase 3
+T87350,Cystic fibrosis,Phase 1
+T93515,Cystic fibrosis,Phase 2
+T93903,Cystic fibrosis,Clinical trial
+T94309,Cystic fibrosis,Phase 3
+T97621,Cystic fibrosis,Approved
+T50942,Cystitis,Terminated
+T51487,Cystitis,Approved
+T88240,Cystitis,Approved
+T07507,Deafness,Phase 1/2
+T68039,Deep vein thrombosis,Terminated
+T73476,Deep vein thrombosis,Approved
+T84631,Deep vein thrombosis,Approved
+T62501,Delayed methotrexate clearance,Approved
+T01777,Dementia,Investigative
+T07400,Dementia,Phase 3
+T11072,Dementia,Phase 2
+T11448,Dementia,Investigative
+T22118,Dementia,Phase 2
+T28893,Dementia,Phase 1
+T30082,Dementia,Phase 1/2
+T43760,Dementia,Phase 1
+T46245,Dementia,Phase 2
+T55959,Dementia,Phase 3
+T58920,Dementia,Discontinued in Phase 2
+T59045,Dementia,Phase 2
+T63967,Dementia,Discontinued in Phase 2
+T64765,Dementia,Phase 2
+T69494,Dementia,Terminated
+T69685,Dementia,Investigative
+T78709,Dementia,Phase 2
+T82266,Dementia,Phase 2
+T83011,Dementia,Approved
+T84160,Dementia,Investigative
+T97613,Dementia,Phase 2
+T19414,Dengue fever,Preclinical
+T92777,Dengue fever,Phase 1/2
+T00156,Depression,Phase 2
+T01777,Depression,Discontinued in Phase 3
+T08910,Depression,Approved
+T09572,Depression,Preclinical
+T11448,Depression,Phase 1
+T21945,Depression,Approved
+T23499,Depression,Discontinued in Phase 1
+T27376,Depression,Approved
+T27812,Depression,Approved
+T28722,Depression,Approved
+T29683,Depression,Terminated
+T31204,Depression,Approved
+T32060,Depression,Phase 3
+T34429,Depression,Phase 2
+T40016,Depression,Phase 2
+T42446,Depression,Approved
+T42748,Depression,Approved
+T45262,Depression,Phase 2
+T47094,Depression,Approved
+T51487,Depression,Approved
+T52790,Depression,Discontinued in Phase 3
+T52921,Depression,Phase 2
+T54128,Depression,Approved
+T58589,Depression,Investigative
+T58716,Depression,Discontinued in Phase 1
+T59929,Depression,Approved
+T62151,Depression,Approved
+T64382,Depression,Approved
+T65197,Depression,Phase 2
+T67162,Depression,Approved
+T69494,Depression,Phase 3
+T75984,Depression,Approved
+T77913,Depression,Approved
+T78709,Depression,Approved
+T79961,Depression,Withdrawn from market
+T80387,Depression,Approved
+T83011,Depression,Approved
+T83813,Depression,Approved
+T83875,Depression,Approved
+T85605,Depression,Phase 3
+T89697,Depression,Approved
+T91558,Depression,Phase 2
+T99935,Depression,Discontinued in Phase 1
+T34287,Dermatitis herpetiformis,Approved
+T88240,Dermatitis herpetiformis,Approved
+T87119,Dermatophytosis,Approved
+T93344,Dermatophytosis,Approved
+T63187,Desmoid tumour,Phase 1
+T82795,Desmoid tumour,Phase 1
+T99840,Desmoid tumour,Approved
+T38529,Diabetic foot ulcer,Approved
+T44068,Diabetic foot ulcer,Phase 1/2
+T44479,Diabetic foot ulcer,Phase 3
+T44682,Diabetic foot ulcer,Phase 2
+T49639,Diabetic foot ulcer,Phase 1
+T52624,Diabetic foot ulcer,Approved
+T53904,Diabetic foot ulcer,Phase 1
+T57680,Diabetic foot ulcer,Approved
+T59328,Diabetic foot ulcer,Approved
+T62094,Diabetic foot ulcer,Phase 2
+T63966,Diabetic foot ulcer,Discontinued in Phase 2
+T67801,Diabetic foot ulcer,Phase 3
+T76198,Diabetic foot ulcer,Approved
+T77365,Diabetic foot ulcer,Phase 2
+T78111,Diabetic foot ulcer,Phase 1/2
+T83797,Diabetic foot ulcer,Phase 3
+T87350,Diabetic foot ulcer,Phase 3
+T88318,Diabetic foot ulcer,Phase 2
+T91894,Diabetic foot ulcer,Phase 3
+T05849,Diagnostic imaging,Approved
+T13259,Diagnostic imaging,Approved
+T15117,Diagnostic imaging,Approved
+T22778,Diagnostic imaging,Phase 1
+T33275,Diagnostic imaging,Phase 2
+T53024,Diagnostic imaging,Approved
+T81905,Diagnostic imaging,Approved
+T87024,Diagnostic imaging,Approved
+T97071,Diagnostic imaging,Approved
+T01232,Diffuse large B-cell lymphoma,Phase 2
+T06273,Diffuse large B-cell lymphoma,Phase 1
+T08306,Diffuse large B-cell lymphoma,Approved
+T08391,Diffuse large B-cell lymphoma,Investigative
+T11451,Diffuse large B-cell lymphoma,Discontinued in Phase 1/2
+T14755,Diffuse large B-cell lymphoma,Terminated
+T23172,Diffuse large B-cell lymphoma,Investigative
+T25005,Diffuse large B-cell lymphoma,Phase 3
+T25265,Diffuse large B-cell lymphoma,Phase 1/2
+T27861,Diffuse large B-cell lymphoma,Phase 1
+T33976,Diffuse large B-cell lymphoma,Phase 1/2
+T37539,Diffuse large B-cell lymphoma,Phase 1/2
+T40276,Diffuse large B-cell lymphoma,Phase 3
+T41963,Diffuse large B-cell lymphoma,Phase 1/2
+T43115,Diffuse large B-cell lymphoma,Phase 1
+T44916,Diffuse large B-cell lymphoma,Phase 1/2
+T46482,Diffuse large B-cell lymphoma,Discontinued in Phase 1/2
+T47387,Diffuse large B-cell lymphoma,Phase 2
+T48703,Diffuse large B-cell lymphoma,Discontinued in Phase 1/2
+T51407,Diffuse large B-cell lymphoma,Phase 2
+T56365,Diffuse large B-cell lymphoma,Approved
+T56365,Diffuse large B-cell lymphoma,Phase 1/2
+T56418,Diffuse large B-cell lymphoma,Phase 1
+T59328,Diffuse large B-cell lymphoma,Investigative
+T59631,Diffuse large B-cell lymphoma,Phase 2
+T60345,Diffuse large B-cell lymphoma,Approved
+T62431,Diffuse large B-cell lymphoma,Phase 2
+T62460,Diffuse large B-cell lymphoma,Investigative
+T63204,Diffuse large B-cell lymphoma,Phase 2
+T65755,Diffuse large B-cell lymphoma,Phase 2
+T67619,Diffuse large B-cell lymphoma,Phase 3
+T67849,Diffuse large B-cell lymphoma,Phase 2/3
+T68547,Diffuse large B-cell lymphoma,Phase 1/2
+T73215,Diffuse large B-cell lymphoma,Approved
+T74312,Diffuse large B-cell lymphoma,Phase 2
+T87871,Diffuse large B-cell lymphoma,Phase 2/3
+T88304,Diffuse large B-cell lymphoma,Phase 1
+T88483,Diffuse large B-cell lymphoma,Phase 1
+T95913,Diffuse large B-cell lymphoma,Phase 3
+T96144,Diffuse large B-cell lymphoma,Phase 3
+T97111,Diffuse large B-cell lymphoma,Phase 2
+T97766,Diffuse large B-cell lymphoma,Phase 2
+T99948,Diffuse large B-cell lymphoma,Phase 2
+T99989,Diffuse large B-cell lymphoma,Phase 2/3
+T08583,Disseminated intravascular coagulation,Discontinued in Phase 3
+T05849,Duodenal ulcer,Phase 3
+T13201,Duodenal ulcer,Withdrawn from market
+T20401,Duodenal ulcer,Withdrawn from market
+T26220,Duodenal ulcer,Investigative
+T30985,Duodenal ulcer,Withdrawn from market
+T92687,Duodenal ulcer,Phase 2
+T97141,Duodenal ulcer,Phase 2
+T00494,Dyslipidemia,Investigative
+T00890,Dyslipidemia,Phase 2
+T15334,Dyslipidemia,Discontinued in Phase 1
+T28893,Dyslipidemia,Phase 1
+T36557,Dyslipidemia,Phase 1
+T43760,Dyslipidemia,Phase 1
+T46628,Dyslipidemia,Phase 2
+T53585,Dyslipidemia,Approved
+T68782,Dyslipidemia,Discontinued in Phase 3
+T86591,Dyslipidemia,Phase 2
+T88185,Dyslipidemia,Phase 2
+T88697,Dyslipidemia,Phase 2
+T95558,Dyslipidemia,Phase 2
+T89534,Dyspareunia,Approved
+T05849,Dyspepsia,Terminated
+T28330,Dyspepsia,Terminated
+T36075,Dyspepsia,Phase 2
+T59679,Dyspepsia,Withdrawn from market
+T62306,Dyspepsia,Preclinical
+T53811,Dysplasia,Phase 3
+T85072,Dysplasia,Phase 3
+T87024,Dystrophic epidermolysis bullosa,Phase 1/2
+T37952,Eczema,Phase 2
+T40016,Eczema,Phase 2
+T43415,Eczema,Phase 2
+T47094,Eczema,Phase 1
+T22839,Emphysema,Terminated
+T28265,Emphysema,Approved
+T47941,Emphysema,Discontinued in Phase 3
+T61744,Emphysema,Discontinued in Phase 3
+T82146,Emphysema,Phase 2
+T18477,Encephalopathy,Phase 1
+T40954,Encephalopathy,Phase 2
+T56365,Encephalopathy,Phase 2
+T92828,Encephalopathy,Phase 3
+T93440,Encephalopathy,Phase 3
+T52227,Endocarditis,Approved
+T96144,Endocarditis,Terminated
+T22032,Endocrine disease,Investigative
+T77796,Endocrine disease,Investigative
+T02551,Endometrial cancer,Phase 2
+T03513,Endometrial cancer,Phase 2
+T15739,Endometrial cancer,Phase 1
+T22939,Endometrial cancer,Phase 2
+T47101,Endometrial cancer,Phase 2
+T52624,Endometrial cancer,Phase 2
+T56697,Endometrial cancer,Phase 2
+T59631,Endometrial cancer,Approved
+T67162,Endometrial cancer,Phase 2
+T71536,Endometrial cancer,Phase 2
+T75243,Endometrial cancer,Phase 2
+T83386,Endometrial cancer,Phase 1
+T85943,Endometrial cancer,Phase 1/2
+T86836,Endometrial cancer,Phase 2
+T87108,Endometrial cancer,Phase 1
+T91331,Endometrial cancer,Phase 2
+T95913,Endometrial cancer,Phase 2
+T06421,Endometriosis,Phase 1
+T09092,Endometriosis,Phase 2
+T12475,Endometriosis,Approved
+T13260,Endometriosis,Phase 2
+T17140,Endometriosis,Phase 1
+T22939,Endometriosis,Phase 3
+T33489,Endometriosis,Phase 2
+T37693,Endometriosis,Patented
+T38529,Endometriosis,Phase 1
+T60529,Endometriosis,Investigative
+T66665,Endometriosis,Terminated
+T89534,Endometriosis,Phase 3
+T64382,Enterobiasis,Approved
+T54055,Enthesopathy,Phase 3
+T66237,Enuresis,Approved
+T24373,Enzyme deficiency,Approved
+T29736,Epidermolysis bullosa,Phase 1
+T96876,Epidermolysis bullosa,Phase 3
+T58741,Epileptic encephalopathy,Phase 2
+T78709,Episode,Discontinued in Phase 2
+T09826,Esophageal cancer,Phase 2
+T12475,Esophageal cancer,Discontinued in Phase 1
+T15739,Esophageal cancer,Phase 1
+T18779,Esophageal cancer,Phase 1/2
+T20178,Esophageal cancer,Phase 3
+T47863,Esophageal cancer,Phase 1/2
+T56697,Esophageal cancer,Phase 2
+T59328,Esophageal cancer,Discontinued in Phase 2
+T59631,Esophageal cancer,Phase 3
+T65883,Esophageal cancer,Phase 2
+T82277,Esophageal cancer,Phase 1/2
+T83193,Esophagus sensitivity,Discontinued in Phase 2
+T78111,Essential hypertension,Approved
+T16739,Ewing sarcoma,Phase 1
+T34867,Ewing sarcoma,Phase 1
+T79051,Ewing sarcoma,Phase 1
+T93121,Ewing sarcoma,Phase 1
+T89534,Eye disorder,Discontinued in Phase 2
+T00750,Fallopian tube cancer,Phase 2
+T05938,Fallopian tube cancer,Phase 1
+T06273,Fallopian tube cancer,Approved
+T15739,Fallopian tube cancer,Phase 1
+T20761,Fallopian tube cancer,Phase 1
+T22350,Fallopian tube cancer,Phase 2
+T26226,Fallopian tube cancer,Phase 1
+T55273,Fallopian tube cancer,Phase 1
+T85943,Fallopian tube cancer,Phase 1/2
+T87108,Fallopian tube cancer,Phase 1
+T95385,Fallopian tube cancer,Phase 2
+T21945,Fatigue,Phase 2
+T10092,Female infertility,Phase 1
+T12475,Female infertility,Phase 3
+T68334,Female infertility,Approved
+T79473,Female infertility,Approved
+T89534,Female infertility,Approved
+T60529,Fever,Withdrawn from market
+T00039,Fibrosis,Phase 2
+T20761,Fibrosis,Patented
+T21307,Fibrosis,Investigative
+T29036,Fibrosis,Phase 2
+T29741,Fibrosis,Phase 2
+T32137,Fibrosis,Phase 2
+T40474,Fibrosis,Phase 1/2
+T53389,Fibrosis,Terminated
+T59550,Fibrosis,Phase 1
+T63512,Fibrosis,Patented
+T67162,Fibrosis,Phase 3
+T92640,Fibrosis,Phase 2
+T95923,Fibrosis,Phase 2
+T98269,Fibrosis,Phase 2
+T19433,Flatworm infection,Approved
+T06671,Follicular lymphoma,Phase 1
+T08306,Follicular lymphoma,Phase 2
+T25005,Follicular lymphoma,Phase 3
+T25265,Follicular lymphoma,Approved
+T31309,Follicular lymphoma,Phase 1
+T34123,Follicular lymphoma,Phase 1
+T37539,Follicular lymphoma,Phase 1/2
+T56365,Follicular lymphoma,Phase 2/3
+T59631,Follicular lymphoma,Phase 2
+T60345,Follicular lymphoma,Approved
+T65755,Follicular lymphoma,Phase 3
+T66693,Follicular lymphoma,Clinical trial
+T67849,Follicular lymphoma,Approved
+T73097,Follicular lymphoma,Preregistration
+T73215,Follicular lymphoma,Approved
+T80276,Follicular lymphoma,Approved
+T95913,Follicular lymphoma,Approved
+T96144,Follicular lymphoma,Phase 3
+T99948,Follicular lymphoma,Phase 1
+T99989,Follicular lymphoma,Approved
+T28893,Frontotemporal dementia,Phase 1
+T45182,Frontotemporal dementia,Phase 1/2
+T46360,Frontotemporal dementia,Phase 1
+T63233,Frontotemporal dementia,Phase 3
+T00140,Fungal infection,Phase 2
+T01318,Fungal infection,Approved
+T14558,Fungal infection,Approved
+T16514,Fungal infection,Preclinical
+T16731,Fungal infection,Preclinical
+T20331,Fungal infection,Terminated
+T20474,Fungal infection,Phase 2
+T22348,Fungal infection,Terminated
+T32862,Fungal infection,Approved
+T33491,Fungal infection,Terminated
+T40785,Fungal infection,Phase 3
+T41820,Fungal infection,Phase 2
+T48940,Fungal infection,Approved
+T56923,Fungal infection,Approved
+T66350,Fungal infection,Approved
+T67046,Fungal infection,Preclinical
+T67282,Fungal infection,Phase 1
+T69189,Fungal infection,Approved
+T73189,Fungal infection,Approved
+T73726,Fungal infection,Approved
+T78173,Fungal infection,Approved
+T79534,Fungal infection,Discontinued in Phase 2
+T82349,Fungal infection,Terminated
+T83145,Fungal infection,Phase 2
+T86836,Fungal infection,Preclinical
+T95410,Fungal infection,Phase 2
+T30985,Gastric ulcer,Discontinued in Phase 1
+T62841,Gastric ulcer,Patented
+T79961,Gastritis,Approved
+T09826,Gastrointestinal stromal tumour,Phase 1
+T43415,Gastrointestinal stromal tumour,Phase 3
+T53524,Gastrointestinal stromal tumour,Approved
+T57700,Gastrointestinal stromal tumour,Approved
+T63231,Gastrointestinal stromal tumour,Phase 3
+T65429,Gastrointestinal stromal tumour,Phase 1
+T80975,Gastrointestinal stromal tumour,Approved
+T85943,Gastrointestinal stromal tumour,Phase 3
+T17852,Genitourinary disease,Phase 2
+T63195,Giant axonal neuropathy,Phase 1/2
+T00523,Gout,Phase 2
+T00884,Gout,Withdrawn from market
+T05089,Gout,Approved
+T05196,Gout,Approved
+T11288,Gout,Approved
+T22583,Gout,Discontinued in Phase 3
+T26623,Gout,Discontinued in Phase 3
+T40954,Gout,Phase 2
+T56923,Gout,Withdrawn from market
+T58921,Gout,Phase 2/3
+T60529,Gout,Withdrawn from market
+T63200,Gout,Phase 1/2
+T66665,Gout,Withdrawn from market
+T70680,Gout,Approved
+T73712,Gout,Withdrawn from market
+T78198,Gout,Phase 2
+T86057,Gout,Phase 3
+T86591,Gout,Phase 1
+T99954,Gout,Phase 3
+T06093,Graft-versus-host disease,Approved
+T11947,Graft-versus-host disease,Phase 3
+T30081,Graft-versus-host disease,Preregistration
+T35040,Graft-versus-host disease,Phase 2/3
+T40663,Graft-versus-host disease,Phase 3
+T44682,Graft-versus-host disease,Phase 2
+T50445,Graft-versus-host disease,Phase 1
+T68039,Graft-versus-host disease,Terminated
+T82494,Graft-versus-host disease,Phase 2
+T38179,Gram-negative bacterial infection,Phase 1
+T71905,Gram-negative bacterial infection,Phase 1
+T85944,Gram-negative bacterial infection,Terminated
+T05114,Gram-positive bacterial infection,Phase 2
+T12499,Gram-positive bacterial infection,Investigative
+T16514,Gram-positive bacterial infection,Investigative
+T22348,Gram-positive bacterial infection,Approved
+T24634,Gram-positive bacterial infection,Investigative
+T34743,Gram-positive bacterial infection,Approved
+T38179,Gram-positive bacterial infection,Discontinued in Phase 3
+T38284,Gram-positive bacterial infection,Investigative
+T40696,Gram-positive bacterial infection,Approved
+T47101,Gram-positive bacterial infection,Investigative
+T47941,Gram-positive bacterial infection,Phase 2
+T52227,Gram-positive bacterial infection,Approved
+T53524,Gram-positive bacterial infection,Investigative
+T53601,Gram-positive bacterial infection,Approved
+T59102,Gram-positive bacterial infection,Investigative
+T59328,Gram-positive bacterial infection,Investigative
+T64410,Gram-positive bacterial infection,Phase 2
+T71905,Gram-positive bacterial infection,Phase 2
+T75440,Gram-positive bacterial infection,Investigative
+T85943,Gram-positive bacterial infection,Investigative
+T88240,Gram-positive bacterial infection,Approved
+T88338,Gram-positive bacterial infection,Phase 2
+T89515,Gram-positive bacterial infection,Investigative
+T65755,Gynecologic cancer,Phase 2
+T14597,Head and neck cancer,Phase 2
+T15739,Head and neck cancer,Phase 2
+T15783,Head and neck cancer,Phase 1/2
+T19579,Head and neck cancer,Phase 1
+T26623,Head and neck cancer,Discontinued in Phase 2
+T26851,Head and neck cancer,Phase 2
+T28484,Head and neck cancer,Phase 2
+T30938,Head and neck cancer,Phase 2
+T35486,Head and neck cancer,Phase 2
+T40111,Head and neck cancer,Phase 2
+T40474,Head and neck cancer,Phase 1
+T41560,Head and neck cancer,Phase 1/2
+T45598,Head and neck cancer,Terminated
+T47863,Head and neck cancer,Phase 2/3
+T48429,Head and neck cancer,Phase 1/2
+T51693,Head and neck cancer,Phase 2
+T55922,Head and neck cancer,Terminated
+T59328,Head and neck cancer,Phase 3
+T60366,Head and neck cancer,Investigative
+T62449,Head and neck cancer,Phase 1
+T63178,Head and neck cancer,Phase 1
+T75243,Head and neck cancer,Phase 2
+T80975,Head and neck cancer,Phase 1
+T82494,Head and neck cancer,Phase 1/2
+T85554,Head and neck cancer,Phase 2
+T86052,Head and neck cancer,Phase 1/2
+T86350,Head and neck cancer,Phase 2
+T86836,Head and neck cancer,Discontinued in Phase 2
+T87946,Head and neck cancer,Phase 2
+T89697,Head and neck cancer,Phase 1
+T95913,Head and neck cancer,Phase 2
+T99338,Head and neck cancer,Phase 2
+T99948,Head and neck cancer,Phase 3
+T22977,Head injury,Terminated
+T16117,Headache,Phase 2
+T47768,Headache,Phase 1
+T51487,Headache,Approved
+T52921,Headache,Phase 1
+T77913,Headache,Approved
+T81183,Headache,Approved
+T85605,Headache,Approved
+T82051,Hearing disorder,Investigative
+T05409,Heart disease,Terminated
+T23499,Heart disease,Terminated
+T28076,Heart disease,Phase 3
+T40474,Heart disease,Phase 3
+T63505,Heart disease,Phase 2
+T71230,Heart disease,Phase 2
+T79473,Heart disease,Terminated
+T89213,Heart disease,Preclinical
+T01777,Heart failure,Discontinued in Phase 3
+T03917,Heart failure,Approved
+T04394,Heart failure,Phase 1
+T04773,Heart failure,Phase 3
+T05114,Heart failure,Phase 1
+T05409,Heart failure,Approved
+T06182,Heart failure,Phase 2
+T11211,Heart failure,Phase 1
+T12966,Heart failure,Approved
+T15377,Heart failure,Phase 2
+T17852,Heart failure,Phase 2
+T19693,Heart failure,Approved
+T21945,Heart failure,Phase 2
+T23471,Heart failure,Phase 1
+T30085,Heart failure,Approved
+T32578,Heart failure,Phase 3
+T33245,Heart failure,Phase 2
+T33754,Heart failure,Approved
+T36053,Heart failure,Approved
+T40800,Heart failure,Approved
+T40954,Heart failure,Phase 2/3
+T44068,Heart failure,Approved
+T45993,Heart failure,Preclinical
+T46185,Heart failure,Discontinued in Phase 2
+T52921,Heart failure,Phase 2
+T54771,Heart failure,Phase 2
+T57680,Heart failure,Phase 2
+T58772,Heart failure,Phase 2
+T61581,Heart failure,Phase 2
+T64213,Heart failure,Phase 2
+T65074,Heart failure,Phase 1
+T65198,Heart failure,Phase 3
+T65783,Heart failure,Phase 1
+T66237,Heart failure,Phase 3
+T66426,Heart failure,Phase 2
+T67162,Heart failure,Approved
+T71230,Heart failure,Approved
+T72168,Heart failure,Approved
+T74456,Heart failure,Phase 2
+T74937,Heart failure,Phase 2
+T75888,Heart failure,Terminated
+T82577,Heart failure,Approved
+T85523,Heart failure,Phase 3
+T86591,Heart failure,Discontinued in Phase 2
+T88975,Heart failure,Approved
+T92072,Heart failure,Phase 3
+T92328,Heart failure,Discontinued in Phase 2
+T51666,Helicobacter infection,Investigative
+T92687,Helicobacter infection,Approved
+T24836,Hemangioma,Approved
+T05152,Hepatitis virus infection,Approved
+T14342,Hepatitis virus infection,Approved
+T14597,Hepatitis virus infection,Patented
+T23547,Hepatitis virus infection,Phase 2
+T40111,Hepatitis virus infection,Approved
+T40492,Hepatitis virus infection,Approved
+T45598,Hepatitis virus infection,Phase 2
+T53903,Hepatitis virus infection,Discontinued in Phase 1/2
+T56518,Hepatitis virus infection,Approved
+T59328,Hepatitis virus infection,Patented
+T71501,Hepatitis virus infection,Approved
+T80896,Hepatitis virus infection,Phase 3
+T81443,Hepatitis virus infection,Phase 1
+T16340,Hidradenitis suppurativa,Phase 2
+T21307,Hidradenitis suppurativa,Phase 2
+T56923,Hidradenitis suppurativa,Phase 2
+T60708,Hidradenitis suppurativa,Phase 2
+T62460,Hidradenitis suppurativa,Phase 2
+T27265,Hirsutism,Phase 3
+T01110,Hodgkin lymphoma,Phase 2
+T01232,Hodgkin lymphoma,Phase 2
+T02262,Hodgkin lymphoma,Phase 2
+T03313,Hodgkin lymphoma,Phase 1
+T56365,Hodgkin lymphoma,Phase 0
+T59001,Hodgkin lymphoma,Phase 2
+T59631,Hodgkin lymphoma,Approved
+T62449,Hodgkin lymphoma,Phase 1
+T64213,Hodgkin lymphoma,Phase 2
+T69707,Hodgkin lymphoma,Phase 2
+T76233,Hodgkin lymphoma,Phase 2
+T78318,Hodgkin lymphoma,Phase 2
+T78692,Hodgkin lymphoma,Phase 2
+T86836,Hodgkin lymphoma,Approved
+T88023,Hodgkin lymphoma,Approved
+T71398,Hydrocephalus,Approved
+T67162,Hyperaemia,Approved
+T84621,Hyperaldosteronism,Investigative
+T40800,Hyperhidrosis,Approved
+T38810,Hyperlipidemia,Phase 2
+T86591,Hyperlipidemia,Approved
+T01777,Hypertension,Approved
+T03917,Hypertension,Phase 2
+T05409,Hypertension,Phase 3
+T06046,Hypertension,Phase 2
+T06182,Hypertension,Phase 1
+T07663,Hypertension,Approved
+T09909,Hypertension,Approved
+T10965,Hypertension,Phase 2/3
+T15117,Hypertension,Approved
+T15377,Hypertension,Discontinued in Phase 1
+T17140,Hypertension,Phase 1
+T22118,Hypertension,Approved
+T23499,Hypertension,Phase 2
+T25663,Hypertension,Terminated
+T29500,Hypertension,Approved
+T30834,Hypertension,Discontinued in Phase 1
+T31424,Hypertension,Approved
+T31956,Hypertension,Phase 2
+T32060,Hypertension,Discontinued in Phase 2
+T32247,Hypertension,Terminated
+T35734,Hypertension,Phase 2
+T41580,Hypertension,Withdrawn from market
+T43920,Hypertension,Approved
+T44068,Hypertension,Approved
+T45287,Hypertension,Phase 2
+T45993,Hypertension,Approved
+T47094,Hypertension,Phase 2
+T48873,Hypertension,Approved
+T49526,Hypertension,Approved
+T51408,Hypertension,Approved
+T52173,Hypertension,Approved
+T52522,Hypertension,Phase 2
+T53381,Hypertension,Approved
+T55302,Hypertension,Investigative
+T57680,Hypertension,Approved
+T59056,Hypertension,Phase 2
+T59174,Hypertension,Terminated
+T61581,Hypertension,Discontinued in Phase 1
+T61622,Hypertension,Approved
+T62151,Hypertension,Approved
+T63201,Hypertension,Phase 2
+T64795,Hypertension,Approved
+T67102,Hypertension,Terminated
+T67162,Hypertension,Approved
+T67952,Hypertension,Approved
+T68315,Hypertension,Phase 2
+T68967,Hypertension,Phase 1/2
+T69619,Hypertension,Approved
+T70071,Hypertension,Terminated
+T71230,Hypertension,Phase 2
+T72038,Hypertension,Phase 2
+T72168,Hypertension,Approved
+T72835,Hypertension,Phase 2/3
+T74456,Hypertension,Approved
+T74654,Hypertension,Approved
+T75984,Hypertension,Approved
+T76685,Hypertension,Discontinued in Phase 1
+T77365,Hypertension,Phase 3
+T78709,Hypertension,Approved
+T79232,Hypertension,Approved
+T79961,Hypertension,Approved
+T81183,Hypertension,Approved
+T82266,Hypertension,Approved
+T82577,Hypertension,Approved
+T82624,Hypertension,Approved
+T83011,Hypertension,Approved
+T84316,Hypertension,Approved
+T84886,Hypertension,Approved
+T85574,Hypertension,Phase 2
+T86679,Hypertension,Phase 2
+T89213,Hypertension,Preclinical
+T92072,Hypertension,Discontinued in Phase 2
+T92609,Hypertension,Approved
+T92828,Hypertension,Phase 2
+T93878,Hypertension,Approved
+T99954,Hypertension,Discontinued in Phase 2
+T35842,Hypoactive sexual desire dysfunction,Approved
+T72458,Hypoactive sexual desire dysfunction,Approved
+T78709,Hypoactive sexual desire dysfunction,Phase 2
+T01777,Hypotension,Approved
+T05409,Hypotension,Phase 2
+T06046,Hypotension,Phase 2
+T07400,Hypotension,Phase 2/3
+T23499,Hypotension,Phase 3
+T27602,Hypotension,Terminated
+T49493,Hypotension,Discontinued in Phase 3
+T67162,Hypotension,Approved
+T70967,Hypotension,Approved
+T74456,Hypotension,Discontinued in Phase 2
+T82577,Hypotension,Phase 1
+T06020,Idiopathic inflammatory myopathy,Phase 2
+T01232,Immunodeficiency,Phase 1/2
+T03661,Immunodeficiency,Phase 3
+T93662,Immunodeficiency,Approved
+T06955,Immunoproliferative disorder,Phase 1
+T56365,Immunoproliferative disorder,Phase 1
+T88023,Immunoproliferative disorder,Phase 1/2
+T21112,Impetigo,Approved
+T22348,Impetigo,Approved
+T40696,Impetigo,Approved
+T53601,Impetigo,Approved
+T75273,Impetigo,Approved
+T19414,Injury,Phase 3
+T78111,Insecticide,Approved
+T11072,Insomnia,Phase 2
+T20401,Insomnia,Approved
+T27376,Insomnia,Approved
+T27812,Insomnia,Phase 3
+T28722,Insomnia,Approved
+T32060,Insomnia,Phase 3
+T37693,Insomnia,Approved
+T48268,Insomnia,Approved
+T51426,Insomnia,Clinical trial
+T51487,Insomnia,Approved
+T54128,Insomnia,Approved
+T54644,Insomnia,Preclinical
+T57392,Insomnia,Approved
+T64795,Insomnia,Phase 2
+T67162,Insomnia,Approved
+T69485,Insomnia,Approved
+T73482,Insomnia,Phase 2
+T75440,Insomnia,Approved
+T75498,Insomnia,Approved
+T76685,Insomnia,Approved
+T77913,Insomnia,Approved
+T78709,Insomnia,Phase 2
+T80387,Insomnia,Approved
+T85605,Insomnia,Phase 3
+T86671,Insomnia,Approved
+T97613,Insomnia,Approved
+T79232,Intermittent explosive disorder,Phase 1/2
+T23348,Intracranial embolism,Phase 2
+T80896,Irregularities,Withdrawn from market
+T89534,Irregularities,Withdrawn from market
+T09130,Irritable bowel syndrome,Approved
+T28893,Irritable bowel syndrome,Approved
+T29683,Irritable bowel syndrome,Discontinued in Phase 2
+T31204,Irritable bowel syndrome,Investigative
+T33754,Irritable bowel syndrome,Phase 2
+T36075,Irritable bowel syndrome,Phase 2
+T45083,Irritable bowel syndrome,Phase 2
+T45262,Irritable bowel syndrome,Discontinued in Phase 2
+T45993,Irritable bowel syndrome,Phase 2
+T47094,Irritable bowel syndrome,Discontinued in Phase 2
+T47768,Irritable bowel syndrome,Approved
+T51408,Irritable bowel syndrome,Terminated
+T52790,Irritable bowel syndrome,Phase 3
+T52921,Irritable bowel syndrome,Preclinical
+T56556,Irritable bowel syndrome,Approved
+T59679,Irritable bowel syndrome,Approved
+T60693,Irritable bowel syndrome,Phase 3
+T61744,Irritable bowel syndrome,Phase 2
+T62306,Irritable bowel syndrome,Phase 1
+T63967,Irritable bowel syndrome,Phase 2
+T64382,Irritable bowel syndrome,Phase 2
+T64591,Irritable bowel syndrome,Approved
+T75440,Irritable bowel syndrome,Phase 2
+T77400,Irritable bowel syndrome,Phase 2
+T79961,Irritable bowel syndrome,Approved
+T82266,Irritable bowel syndrome,Phase 3
+T83145,Irritable bowel syndrome,Approved
+T84133,Irritable bowel syndrome,Phase 2
+T84160,Irritable bowel syndrome,Phase 4
+T85605,Irritable bowel syndrome,Phase 4
+T92403,Irritable bowel syndrome,Approved
+T97947,Irritable bowel syndrome,Approved
+T99816,Irritable bowel syndrome,Phase 2
+T98269,Irritant contact dermatitis,Patented
+T15784,Ischemia,Phase 2
+T29303,Ischemia,Terminated
+T36059,Ischemia,Investigative
+T37693,Ischemia,Discontinued in Phase 2
+T45074,Ischemia,Terminated
+T59328,Ischemia,Approved
+T63505,Ischemia,Approved
+T76685,Ischemia,Discontinued in Phase 2
+T85943,Ischemia,Approved
+T92144,Ischemia,Investigative
+T99566,Ischemia,Phase 3
+T27770,Ischemic heart disease,Phase 3
+T47164,Ischemic heart disease,Investigative
+T49049,Ischemic heart disease,Investigative
+T58992,Ischemic heart disease,Investigative
+T05904,Itching,Investigative
+T67162,Itching,Approved
+T54055,Joint lubricant,Approved
+T03403,Joint pain,Approved
+T78709,Juvenile idiopathic arthritis,Phase 3
+T93440,Juvenile idiopathic arthritis,Phase 3
+T13726,Kaposi sarcoma,Approved
+T21112,Kaposi sarcoma,Approved
+T46456,Kaposi sarcoma,Approved
+T52450,Kaposi sarcoma,Discontinued in Phase 3
+T60077,Kaposi sarcoma,Approved
+T61657,Kaposi sarcoma,Approved
+T68251,Kaposi sarcoma,Discontinued in Phase 3
+T73475,Kaposi sarcoma,Discontinued in Phase 3
+T73756,Kaposi sarcoma,Phase 2
+T82146,Kaposi sarcoma,Approved
+T86836,Kaposi sarcoma,Approved
+T96079,Kaposi sarcoma,Preclinical
+T11822,Kinetoplastids,Investigative
+T46456,Kinetoplastids,Investigative
+T99616,Kinetoplastids,Investigative
+T09092,Knee osteoarthritis,Phase 2
+T40016,Knee osteoarthritis,Phase 3
+T53139,Knee osteoarthritis,Phase 2
+T66665,Knee osteoarthritis,Approved
+T83193,Knee osteoarthritis,Phase 3
+T74066,Leiomyosarcoma,Phase 2/3
+T85943,Leiomyosarcoma,Phase 3
+T08326,Leishmaniasis,Phase 1
+T31479,Leishmaniasis,Approved
+T97257,Lesion,Discontinued in Phase 2
+T00176,Liposarcoma,Phase 1
+T14602,Liposarcoma,Phase 3
+T15739,Liposarcoma,Phase 1
+T51407,Liposarcoma,Phase 3
+T85799,Liposarcoma,Phase 1
+T08391,Liver cancer,Investigative
+T10828,Liver cancer,Phase 1
+T25307,Liver cancer,Preclinical
+T31299,Liver cancer,Phase 1
+T35040,Liver cancer,Phase 2
+T37434,Liver cancer,Phase 1
+T41171,Liver cancer,Phase 1
+T43206,Liver cancer,Preclinical
+T47863,Liver cancer,Phase 1/2
+T48069,Liver cancer,Phase 2
+T49493,Liver cancer,Terminated
+T51803,Liver cancer,Phase 1
+T54379,Liver cancer,Phase 1
+T59631,Liver cancer,Phase 3
+T63986,Liver cancer,Phase 1
+T74002,Liver cancer,Phase 3
+T80975,Liver cancer,Phase 3
+T86052,Liver cancer,Phase 1/2
+T86836,Liver cancer,Approved
+T90989,Liver cancer,Phase 1/2
+T96144,Liver cancer,Phase 3
+T11754,Liver disease,Phase 2
+T16156,Liver disease,Phase 3
+T30085,Liver disease,Phase 3
+T40474,Liver disease,Phase 1
+T49571,Liver disease,Phase 2
+T79232,Localisation,Approved
+T09826,Lung cancer,Approved
+T11253,Lung cancer,Investigative
+T11451,Lung cancer,Phase 1
+T12097,Lung cancer,Phase 1/2
+T14597,Lung cancer,Approved
+T15797,Lung cancer,Preclinical
+T16601,Lung cancer,Phase 3
+T18779,Lung cancer,Phase 2/3
+T20474,Lung cancer,Phase 3
+T20761,Lung cancer,Phase 3
+T22350,Lung cancer,Phase 1
+T29960,Lung cancer,Phase 1
+T31391,Lung cancer,Preclinical
+T33765,Lung cancer,Phase 2
+T35486,Lung cancer,Phase 2
+T38284,Lung cancer,Phase 2
+T42854,Lung cancer,Phase 1/2
+T49493,Lung cancer,Phase 3
+T50461,Lung cancer,Phase 2
+T52450,Lung cancer,Approved
+T52624,Lung cancer,Phase 3
+T53024,Lung cancer,Phase 1/2
+T53524,Lung cancer,Phase 1
+T53764,Lung cancer,Preclinical
+T56418,Lung cancer,Approved
+T57700,Lung cancer,Phase 2
+T59328,Lung cancer,Approved
+T61698,Lung cancer,Phase 2/3
+T64969,Lung cancer,Phase 1/2
+T65868,Lung cancer,Investigative
+T68251,Lung cancer,Approved
+T68517,Lung cancer,Phase 2
+T71164,Lung cancer,Phase 2
+T73475,Lung cancer,Approved
+T75243,Lung cancer,Phase 2
+T78114,Lung cancer,Phase 1/2
+T80975,Lung cancer,Phase 2
+T82083,Lung cancer,Discontinued in Phase 3
+T82277,Lung cancer,Phase 1/2
+T84397,Lung cancer,Investigative
+T87108,Lung cancer,Phase 1/2
+T89697,Lung cancer,Phase 3
+T90782,Lung cancer,Discontinued in Phase 3
+T92689,Lung cancer,Discontinued in Phase 3
+T93515,Lung cancer,Discontinued in Phase 3
+T95899,Lung cancer,Phase 3
+T96144,Lung cancer,Phase 2
+T75243,Lymphangioleiomyomatosis,Phase 1
+T01232,Lymphoma,Phase 2
+T02318,Lymphoma,Discontinued in Phase 1
+T02532,Lymphoma,Phase 2
+T02551,Lymphoma,Phase 1/2
+T03513,Lymphoma,Phase 1/2
+T05090,Lymphoma,Phase 1/2
+T06955,Lymphoma,Phase 1
+T07173,Lymphoma,Phase 1
+T07394,Lymphoma,Phase 1
+T09826,Lymphoma,Phase 1
+T10191,Lymphoma,Phase 3
+T11822,Lymphoma,Phase 2
+T13127,Lymphoma,Phase 1
+T14597,Lymphoma,Phase 2
+T14676,Lymphoma,Phase 3
+T14755,Lymphoma,Phase 2
+T16739,Lymphoma,Phase 2
+T16769,Lymphoma,Phase 2
+T17687,Lymphoma,Phase 4
+T20761,Lymphoma,Phase 3
+T20891,Lymphoma,Phase 1
+T27861,Lymphoma,Phase 1
+T28484,Lymphoma,Phase 1
+T30418,Lymphoma,Phase 1
+T33636,Lymphoma,Phase 1
+T35173,Lymphoma,Phase 1/2
+T37539,Lymphoma,Phase 1/2
+T37952,Lymphoma,Phase 1/2
+T40276,Lymphoma,Phase 3
+T40694,Lymphoma,Investigative
+T43115,Lymphoma,Phase 1
+T44458,Lymphoma,Phase 1
+T45196,Lymphoma,Phase 1
+T47387,Lymphoma,Investigative
+T49453,Lymphoma,Phase 1
+T51191,Lymphoma,Phase 1/2
+T54582,Lymphoma,Phase 1
+T55398,Lymphoma,Phase 1
+T55610,Lymphoma,Phase 4
+T55860,Lymphoma,Phase 1
+T56365,Lymphoma,Phase 2
+T56418,Lymphoma,Investigative
+T58238,Lymphoma,Phase 2
+T58298,Lymphoma,Phase 1
+T59001,Lymphoma,Phase 1/2
+T59328,Lymphoma,Phase 2
+T59631,Lymphoma,Phase 1
+T61683,Lymphoma,Phase 1/2
+T61698,Lymphoma,Phase 2
+T62449,Lymphoma,Phase 1
+T64567,Lymphoma,Phase 2
+T64987,Lymphoma,Phase 1
+T65236,Lymphoma,Phase 1/2
+T65755,Lymphoma,Phase 1/2
+T66266,Lymphoma,Phase 1
+T66693,Lymphoma,Phase 1/2
+T67162,Lymphoma,Phase 1/2
+T67619,Lymphoma,Phase 2
+T67849,Lymphoma,Phase 1/2
+T68536,Lymphoma,Phase 1
+T68547,Lymphoma,Phase 1/2
+T70176,Lymphoma,Phase 1
+T71167,Lymphoma,Phase 1
+T71205,Lymphoma,Phase 1/2
+T71266,Lymphoma,Phase 2
+T71377,Lymphoma,Phase 1
+T73215,Lymphoma,Phase 3
+T75243,Lymphoma,Phase 1
+T76233,Lymphoma,Phase 1
+T76396,Lymphoma,Phase 1
+T81892,Lymphoma,Phase 2
+T83797,Lymphoma,Phase 1
+T84780,Lymphoma,Phase 2
+T85435,Lymphoma,Investigative
+T85554,Lymphoma,Phase 1
+T88023,Lymphoma,Phase 2
+T89697,Lymphoma,Phase 1
+T89873,Lymphoma,Phase 1/2
+T91894,Lymphoma,Phase 2
+T92057,Lymphoma,Phase 2
+T93923,Lymphoma,Phase 1
+T94718,Lymphoma,Phase 1
+T95913,Lymphoma,Phase 1
+T96144,Lymphoma,Phase 1
+T97008,Lymphoma,Phase 1
+T97136,Lymphoma,Phase 1/2
+T97155,Lymphoma,Phase 1
+T97766,Lymphoma,Phase 1
+T99160,Lymphoma,Phase 1/2
+T99338,Lymphoma,Phase 1
+T99566,Lymphoma,Phase 2
+T99704,Lymphoma,Phase 1
+T99948,Lymphoma,Phase 1/2
+T20761,Macular degeneration,Patented
+T26851,Macular degeneration,Phase 2
+T31946,Macular degeneration,Phase 2
+T52624,Macular degeneration,Phase 2
+T60708,Macular degeneration,Approved
+T60708,Macular degeneration,Phase 2
+T63966,Macular degeneration,Phase 2
+T87024,Macular degeneration,Discontinued in Phase 2
+T96721,Macular degeneration,Phase 2
+T00140,Malaria,Investigative
+T00895,Malaria,Approved
+T01318,Malaria,Approved
+T01822,Malaria,Phase 2
+T02134,Malaria,Investigative
+T04079,Malaria,Phase 2
+T04820,Malaria,Investigative
+T06841,Malaria,Investigative
+T07289,Malaria,Approved
+T07569,Malaria,Approved
+T08884,Malaria,Phase 2
+T13251,Malaria,Investigative
+T14541,Malaria,Phase 3
+T17448,Malaria,Approved
+T20089,Malaria,Approved
+T20251,Malaria,Phase 2
+T20796,Malaria,Approved
+T21291,Malaria,Phase 1/2
+T23761,Malaria,Approved
+T28658,Malaria,Approved
+T31751,Malaria,Approved
+T32468,Malaria,Investigative
+T36059,Malaria,Phase 2
+T39610,Malaria,Approved
+T40800,Malaria,Approved
+T41963,Malaria,Patented
+T44614,Malaria,Terminated
+T46465,Malaria,Terminated
+T46482,Malaria,Approved
+T50547,Malaria,Terminated
+T51487,Malaria,Approved
+T53748,Malaria,Approved
+T54065,Malaria,Investigative
+T54128,Malaria,Approved
+T54940,Malaria,Terminated
+T57392,Malaria,Phase 1
+T60810,Malaria,Phase 1
+T68230,Malaria,Phase 3
+T72444,Malaria,Investigative
+T79068,Malaria,Terminated
+T82723,Malaria,Investigative
+T82841,Malaria,Phase 3
+T83011,Malaria,Approved
+T83386,Malaria,Approved
+T84581,Malaria,Investigative
+T86836,Malaria,Phase 3
+T88240,Malaria,Approved
+T89515,Malaria,Approved
+T95339,Malaria,Approved
+T96476,Malaria,Phase 1/2
+T96816,Malaria,Investigative
+T11211,Mammary tumour,Approved
+T00884,Melanoma,Phase 1
+T00938,Melanoma,Phase 1
+T06273,Melanoma,Phase 2
+T11451,Melanoma,Phase 3
+T13348,Melanoma,Investigative
+T14755,Melanoma,Investigative
+T14912,Melanoma,Phase 1
+T15000,Melanoma,Approved
+T15344,Melanoma,Phase 1
+T16538,Melanoma,Phase 3
+T18477,Melanoma,Phase 1
+T19579,Melanoma,Phase 3
+T22658,Melanoma,Phase 2
+T23003,Melanoma,Approved
+T23276,Melanoma,Phase 2
+T26220,Melanoma,Phase 3
+T26851,Melanoma,Phase 1/2
+T29339,Melanoma,Phase 1
+T31072,Melanoma,Phase 2
+T31309,Melanoma,Phase 3
+T34867,Melanoma,Phase 2
+T35940,Melanoma,Phase 3
+T37847,Melanoma,Phase 1
+T40474,Melanoma,Phase 1
+T42854,Melanoma,Discontinued in Phase 2
+T44068,Melanoma,Phase 1
+T44771,Melanoma,Phase 2/3
+T45674,Melanoma,Preclinical
+T45758,Melanoma,Phase 2
+T46128,Melanoma,Phase 3
+T46208,Melanoma,Phase 1
+T46360,Melanoma,Preclinical
+T46482,Melanoma,Phase 2
+T47387,Melanoma,Investigative
+T47415,Melanoma,Phase 3
+T47863,Melanoma,Phase 1
+T48703,Melanoma,Phase 1
+T51693,Melanoma,Phase 2
+T51883,Melanoma,Phase 1
+T52316,Melanoma,Phase 1
+T52522,Melanoma,Phase 1
+T56923,Melanoma,Phase 1
+T58970,Melanoma,Phase 2
+T59328,Melanoma,Phase 3
+T59631,Melanoma,Approved
+T60345,Melanoma,Phase 3
+T61698,Melanoma,Phase 2
+T63178,Melanoma,Phase 1
+T63934,Melanoma,Approved
+T65755,Melanoma,Phase 2
+T67363,Melanoma,Phase 1
+T67805,Melanoma,Investigative
+T68039,Melanoma,Discontinued in Phase 1
+T68547,Melanoma,Phase 2
+T72038,Melanoma,Phase 2
+T72269,Melanoma,Investigative
+T73756,Melanoma,Phase 2
+T74002,Melanoma,Approved
+T75256,Melanoma,Phase 3
+T77594,Melanoma,Phase 1
+T78114,Melanoma,Phase 1/2
+T80975,Melanoma,Phase 2
+T81443,Melanoma,Investigative
+T82078,Melanoma,Discontinued in Phase 1
+T82277,Melanoma,Phase 1
+T82494,Melanoma,Phase 1/2
+T86052,Melanoma,Phase 2
+T86748,Melanoma,Phase 2
+T86836,Melanoma,Approved
+T87075,Melanoma,Phase 1/2
+T88318,Melanoma,Phase 1
+T88505,Melanoma,Phase 1/2
+T88806,Melanoma,Phase 1
+T89055,Melanoma,Phase 3
+T89697,Melanoma,Phase 3
+T89988,Melanoma,Phase 1
+T90648,Melanoma,Phase 1
+T92828,Melanoma,Phase 1/2
+T93440,Melanoma,Terminated
+T93923,Melanoma,Phase 2
+T94718,Melanoma,Approved
+T95385,Melanoma,Phase 1/2
+T95913,Melanoma,Phase 1
+T96079,Melanoma,Phase 1/2
+T97035,Melanoma,Phase 3
+T97766,Melanoma,Phase 1
+T99031,Melanoma,Approved
+T99089,Melanoma,Approved
+T99338,Melanoma,Phase 1
+T99948,Melanoma,Phase 3
+T77158,Melioidosis,Phase 2
+T10670,Metabolic disorder,Investigative
+T14908,Metabolic disorder,Approved
+T20761,Metabolic disorder,Patented
+T31391,Metabolic disorder,Phase 3
+T35842,Metabolic disorder,Phase 1/2
+T36557,Metabolic disorder,Phase 1
+T38875,Metabolic disorder,Investigative
+T49040,Metabolic disorder,Phase 2
+T58921,Metabolic disorder,Preclinical
+T59604,Metabolic disorder,Preclinical
+T62841,Metabolic disorder,Patented
+T64765,Metabolic disorder,Investigative
+T65200,Metabolic disorder,Phase 2
+T71167,Metabolic disorder,Phase 1
+T72458,Metabolic disorder,Phase 1/2
+T76685,Metabolic disorder,Phase 1
+T84173,Metabolic disorder,Approved
+T86273,Metabolic disorder,Investigative
+T86591,Metabolic disorder,Preclinical
+T86652,Metabolic disorder,Phase 1
+T14597,Metastatic biliary tract neoplasms,Phase 2/3
+T59328,Metastatic biliary tract neoplasms,Phase 2/3
+T14597,Metastatic malignant neoplasm,Phase 1
+T49639,Metastatic malignant neoplasm,Phase 1
+T82383,Metastatic malignant neoplasm,Investigative
+T87108,Metastatic malignant neoplasm,Phase 1
+T92124,Metastatic malignant neoplasm,Phase 2
+T03403,Migraine,Approved
+T07806,Migraine,Approved
+T11072,Migraine,Approved
+T16117,Migraine,Phase 2
+T18876,Migraine,Phase 2
+T21945,Migraine,Approved
+T27812,Migraine,Approved
+T29303,Migraine,Approved
+T31204,Migraine,Discontinued in Phase 1
+T32060,Migraine,Discontinued in Phase 2
+T32262,Migraine,Approved
+T34949,Migraine,Approved
+T38338,Migraine,Approved
+T39716,Migraine,Approved
+T44068,Migraine,Approved
+T47094,Migraine,Phase 2
+T47768,Migraine,Phase 2
+T54644,Migraine,Approved
+T55285,Migraine,Discontinued in Phase 2
+T57392,Migraine,Investigative
+T58992,Migraine,Phase 1
+T62820,Migraine,Discontinued in Phase 2
+T66665,Migraine,Phase 2
+T67054,Migraine,Terminated
+T67162,Migraine,Approved
+T71192,Migraine,Discontinued in Phase 2
+T75984,Migraine,Terminated
+T78656,Migraine,Approved
+T78709,Migraine,Approved
+T83011,Migraine,Approved
+T83193,Migraine,Discontinued in Phase 1
+T83813,Migraine,Approved
+T85605,Migraine,Phase 1
+T89950,Migraine,Approved
+T92185,Migraine,Phase 2
+T99347,Migraine,Terminated
+T54128,Monitored anaesthesia care,Approved
+T02001,Mood disorder,Phase 1
+T02719,Mood disorder,Discontinued in Phase 2
+T07806,Mood disorder,Phase 1
+T10265,Mood disorder,Phase 1
+T11072,Mood disorder,Phase 2
+T21945,Mood disorder,Phase 3
+T27812,Mood disorder,Phase 3
+T32060,Mood disorder,Approved
+T40016,Mood disorder,Phase 2
+T42748,Mood disorder,Phase 3
+T45262,Mood disorder,Discontinued in Phase 2
+T46360,Mood disorder,Phase 3
+T47094,Mood disorder,Phase 2
+T51408,Mood disorder,Discontinued in Phase 3
+T55922,Mood disorder,Phase 2
+T55959,Mood disorder,Phase 3
+T61744,Mood disorder,Phase 1
+T62820,Mood disorder,Discontinued in Phase 2
+T63414,Mood disorder,Phase 1
+T63967,Mood disorder,Phase 1
+T65755,Mood disorder,Phase 3
+T68547,Mood disorder,Phase 3
+T72915,Mood disorder,Preclinical
+T77400,Mood disorder,Phase 1
+T78111,Mood disorder,Phase 2
+T78709,Mood disorder,Approved
+T83813,Mood disorder,Discontinued in Phase 2
+T83875,Mood disorder,Phase 2
+T84160,Mood disorder,Phase 3
+T92653,Mood disorder,Discontinued in Phase 1
+T99347,Mood disorder,Phase 2
+T47768,Movement disorder,Investigative
+T48873,Movement disorder,Phase 3
+T02318,Multiple myeloma,Phase 3
+T02551,Multiple myeloma,Phase 2
+T02677,Multiple myeloma,Phase 1
+T03513,Multiple myeloma,Phase 2
+T07279,Multiple myeloma,Phase 1/2
+T08391,Multiple myeloma,Terminated
+T10877,Multiple myeloma,Approved
+T12091,Multiple myeloma,Phase 2
+T12499,Multiple myeloma,Phase 2
+T12646,Multiple myeloma,Phase 1
+T13017,Multiple myeloma,Phase 2
+T14592,Multiple myeloma,Phase 1
+T14912,Multiple myeloma,Phase 1
+T16156,Multiple myeloma,Phase 2
+T17687,Multiple myeloma,Phase 1/2
+T17980,Multiple myeloma,Phase 2
+T18477,Multiple myeloma,Phase 2
+T18779,Multiple myeloma,Phase 1/2
+T20178,Multiple myeloma,Approved
+T21395,Multiple myeloma,Phase 1
+T22095,Multiple myeloma,Phase 1
+T22274,Multiple myeloma,Phase 1
+T23172,Multiple myeloma,Terminated
+T23519,Multiple myeloma,Approved
+T23666,Multiple myeloma,Phase 2
+T26203,Multiple myeloma,Phase 2
+T27602,Multiple myeloma,Approved
+T27861,Multiple myeloma,Phase 1
+T28484,Multiple myeloma,Phase 2
+T29130,Multiple myeloma,Phase 1/2
+T31309,Multiple myeloma,Phase 3
+T31621,Multiple myeloma,Investigative
+T31989,Multiple myeloma,Phase 1/2
+T32335,Multiple myeloma,Investigative
+T32578,Multiple myeloma,Phase 2
+T32720,Multiple myeloma,Phase 2
+T35289,Multiple myeloma,Phase 1
+T37539,Multiple myeloma,Phase 1/2
+T38284,Multiple myeloma,Phase 2
+T38950,Multiple myeloma,Phase 1
+T44589,Multiple myeloma,Phase 1/2
+T47101,Multiple myeloma,Phase 2
+T47387,Multiple myeloma,Investigative
+T48069,Multiple myeloma,Phase 1
+T48429,Multiple myeloma,Phase 1
+T51407,Multiple myeloma,Phase 3
+T51499,Multiple myeloma,Phase 1/2
+T51693,Multiple myeloma,Phase 2
+T52624,Multiple myeloma,Investigative
+T53472,Multiple myeloma,Phase 2
+T53524,Multiple myeloma,Phase 2
+T53585,Multiple myeloma,Phase 1/2
+T54379,Multiple myeloma,Phase 1
+T54902,Multiple myeloma,Phase 2
+T56365,Multiple myeloma,Phase 2
+T56697,Multiple myeloma,Phase 2
+T57361,Multiple myeloma,Approved
+T57700,Multiple myeloma,Phase 2
+T58998,Multiple myeloma,Phase 1
+T59001,Multiple myeloma,Phase 1
+T59102,Multiple myeloma,Phase 2
+T59631,Multiple myeloma,Phase 3
+T60345,Multiple myeloma,Approved
+T60631,Multiple myeloma,Phase 2
+T61683,Multiple myeloma,Phase 2
+T62184,Multiple myeloma,Approved
+T65755,Multiple myeloma,Phase 2
+T66693,Multiple myeloma,Approved
+T67162,Multiple myeloma,Phase 2
+T67619,Multiple myeloma,Phase 1
+T68547,Multiple myeloma,Approved
+T69707,Multiple myeloma,Approved
+T71205,Multiple myeloma,Phase 1/2
+T71928,Multiple myeloma,Phase 2
+T72835,Multiple myeloma,Phase 1
+T73097,Multiple myeloma,Phase 2
+T74312,Multiple myeloma,Phase 1
+T75243,Multiple myeloma,Approved
+T77350,Multiple myeloma,Phase 1
+T77515,Multiple myeloma,Phase 2
+T80782,Multiple myeloma,Phase 2
+T80975,Multiple myeloma,Phase 2
+T82277,Multiple myeloma,Phase 1/2
+T82383,Multiple myeloma,Phase 2
+T82494,Multiple myeloma,Phase 1/2
+T83011,Multiple myeloma,Discontinued in Phase 1
+T83145,Multiple myeloma,Discontinued in Phase 1
+T83797,Multiple myeloma,Phase 2
+T83875,Multiple myeloma,Discontinued in Phase 1
+T85435,Multiple myeloma,Phase 1
+T85943,Multiple myeloma,Phase 2
+T86052,Multiple myeloma,Phase 2
+T86271,Multiple myeloma,Terminated
+T86323,Multiple myeloma,Phase 1/2
+T86836,Multiple myeloma,Approved
+T88023,Multiple myeloma,Phase 1/2
+T90695,Multiple myeloma,Approved
+T91331,Multiple myeloma,Phase 1
+T93440,Multiple myeloma,Investigative
+T96079,Multiple myeloma,Approved
+T96721,Multiple myeloma,Investigative
+T97740,Multiple myeloma,Phase 3
+T98052,Multiple myeloma,Approved
+T99394,Multiple myeloma,Phase 1/2
+T99948,Multiple myeloma,Phase 1
+T00938,Multiple sclerosis,Phase 2
+T01232,Multiple sclerosis,Phase 1
+T01318,Multiple sclerosis,Approved
+T02001,Multiple sclerosis,Discontinued in Phase 2
+T02777,Multiple sclerosis,Discontinued in Phase 1
+T02808,Multiple sclerosis,Approved
+T03661,Multiple sclerosis,Phase 3
+T03963,Multiple sclerosis,Phase 2
+T05409,Multiple sclerosis,Phase 1
+T05643,Multiple sclerosis,Phase 2
+T06421,Multiple sclerosis,Approved
+T07403,Multiple sclerosis,Discontinued in Phase 1
+T08391,Multiple sclerosis,Phase 1
+T08856,Multiple sclerosis,Terminated
+T10265,Multiple sclerosis,Discontinued in Phase 2
+T11388,Multiple sclerosis,Patented
+T13852,Multiple sclerosis,Approved
+T14676,Multiple sclerosis,Phase 2
+T17248,Multiple sclerosis,Phase 2
+T20251,Multiple sclerosis,Phase 2
+T22839,Multiple sclerosis,Phase 3
+T22977,Multiple sclerosis,Preclinical
+T23471,Multiple sclerosis,Discontinued in Phase 1
+T25005,Multiple sclerosis,Phase 3
+T25307,Multiple sclerosis,Phase 1
+T29683,Multiple sclerosis,Phase 2
+T29879,Multiple sclerosis,Discontinued in Phase 1
+T30687,Multiple sclerosis,Phase 1
+T32282,Multiple sclerosis,Discontinued in Phase 2
+T33754,Multiple sclerosis,Phase 2
+T34123,Multiple sclerosis,Phase 2
+T35232,Multiple sclerosis,Phase 1
+T36059,Multiple sclerosis,Terminated
+T40016,Multiple sclerosis,Phase 3
+T40332,Multiple sclerosis,Phase 3
+T40787,Multiple sclerosis,Terminated
+T41141,Multiple sclerosis,Patented
+T42446,Multiple sclerosis,Approved
+T43415,Multiple sclerosis,Phase 3
+T45758,Multiple sclerosis,Phase 2
+T47941,Multiple sclerosis,Phase 2
+T49578,Multiple sclerosis,Phase 2
+T50089,Multiple sclerosis,Phase 1
+T50823,Multiple sclerosis,Phase 1
+T52450,Multiple sclerosis,Terminated
+T53585,Multiple sclerosis,Approved
+T54761,Multiple sclerosis,Phase 2
+T58921,Multiple sclerosis,Phase 2
+T61400,Multiple sclerosis,Approved
+T61698,Multiple sclerosis,Approved
+T61744,Multiple sclerosis,Discontinued in Phase 2
+T61746,Multiple sclerosis,Patented
+T62276,Multiple sclerosis,Phase 2
+T62841,Multiple sclerosis,Patented
+T67102,Multiple sclerosis,Clinical trial
+T67952,Multiple sclerosis,Approved
+T68251,Multiple sclerosis,Terminated
+T68290,Multiple sclerosis,Patented
+T70532,Multiple sclerosis,Phase 1
+T72957,Multiple sclerosis,Discontinued in Phase 1
+T73097,Multiple sclerosis,Phase 1/2
+T73215,Multiple sclerosis,Approved
+T76414,Multiple sclerosis,Phase 2
+T76630,Multiple sclerosis,Approved
+T77236,Multiple sclerosis,Patented
+T77365,Multiple sclerosis,Terminated
+T77664,Multiple sclerosis,Phase 3
+T78111,Multiple sclerosis,Phase 1
+T78892,Multiple sclerosis,Phase 2
+T82494,Multiple sclerosis,Phase 1/2
+T83145,Multiple sclerosis,Phase 3
+T83198,Multiple sclerosis,Preclinical
+T83611,Multiple sclerosis,Approved
+T85943,Multiple sclerosis,Phase 3
+T86130,Multiple sclerosis,Phase 2
+T86552,Multiple sclerosis,Investigative
+T86679,Multiple sclerosis,Terminated
+T86702,Multiple sclerosis,Terminated
+T87259,Multiple sclerosis,Phase 2
+T88505,Multiple sclerosis,Preclinical
+T89534,Multiple sclerosis,Phase 2
+T89988,Multiple sclerosis,Phase 2
+T92072,Multiple sclerosis,Terminated
+T94033,Multiple sclerosis,Approved
+T95498,Multiple sclerosis,Approved
+T96144,Multiple sclerosis,Phase 3
+T96627,Multiple sclerosis,Phase 3
+T97353,Multiple sclerosis,Phase 2
+T97587,Multiple sclerosis,Approved
+T97617,Multiple sclerosis,Approved
+T99313,Multiple sclerosis,Phase 2
+T02779,Muscular dystrophy,Phase 2
+T39321,Muscular dystrophy,Phase 1
+T62151,Muscular dystrophy,Patented
+T83011,Muscular dystrophy,Patented
+T87749,Muscular dystrophy,Phase 2
+T91894,Muscular dystrophy,Phase 2
+T02546,Musculoskeletal disorder,Phase 3
+T06020,Myasthenia gravis,Approved
+T06020,Myasthenia gravis,Phase 3
+T10877,Myasthenia gravis,Phase 2
+T30082,Myasthenia gravis,Approved
+T37308,Myasthenia gravis,Investigative
+T45758,Myasthenia gravis,Phase 2
+T49049,Myasthenia gravis,Approved
+T49049,Myasthenia gravis,Phase 3
+T60708,Myasthenia gravis,Approved
+T60708,Myasthenia gravis,Phase 3
+T65200,Myasthenia gravis,Phase 2
+T79961,Myasthenia gravis,Investigative
+T92828,Myasthenia gravis,Phase 3
+T10362,Mycobacterium infection,Terminated
+T14342,Mycobacterium infection,Phase 1
+T17003,Mycobacterium infection,Approved
+T24835,Mycobacterium infection,Preclinical
+T43025,Mycobacterium infection,Preclinical
+T48472,Mycobacterium infection,Phase 2
+T49814,Mycobacterium infection,Investigative
+T53242,Mycobacterium infection,Phase 3
+T59554,Mycobacterium infection,Phase 1
+T74203,Mycobacterium infection,Phase 2
+T79068,Mycobacterium infection,Approved
+T81503,Mycobacterium infection,Phase 1/2
+T82349,Mycobacterium infection,Phase 3
+T86836,Mycobacterium infection,Phase 1/2
+T06955,Mycosis fungoides,Approved
+T59001,Mycosis fungoides,Phase 2
+T88023,Mycosis fungoides,Phase 2
+T97766,Mycosis fungoides,Phase 1
+T00176,Myelodysplastic syndrome,Phase 1
+T00884,Myelodysplastic syndrome,Phase 1
+T01447,Myelodysplastic syndrome,Phase 3
+T06011,Myelodysplastic syndrome,Phase 1/2
+T06273,Myelodysplastic syndrome,Phase 3
+T08743,Myelodysplastic syndrome,Phase 2
+T09826,Myelodysplastic syndrome,Phase 2
+T10191,Myelodysplastic syndrome,Phase 3
+T10822,Myelodysplastic syndrome,Phase 1
+T10877,Myelodysplastic syndrome,Phase 1
+T12091,Myelodysplastic syndrome,Phase 2
+T12646,Myelodysplastic syndrome,Phase 1
+T13127,Myelodysplastic syndrome,Phase 3
+T15610,Myelodysplastic syndrome,Phase 2
+T15739,Myelodysplastic syndrome,Phase 1
+T16156,Myelodysplastic syndrome,Phase 2
+T16739,Myelodysplastic syndrome,Phase 2
+T18779,Myelodysplastic syndrome,Phase 1
+T21669,Myelodysplastic syndrome,Phase 2
+T23666,Myelodysplastic syndrome,Phase 2
+T28413,Myelodysplastic syndrome,Phase 2
+T30926,Myelodysplastic syndrome,Phase 2
+T31309,Myelodysplastic syndrome,Phase 1
+T34624,Myelodysplastic syndrome,Discontinued in Phase 1
+T34743,Myelodysplastic syndrome,Approved
+T35063,Myelodysplastic syndrome,Phase 2
+T35289,Myelodysplastic syndrome,Phase 1
+T36741,Myelodysplastic syndrome,Phase 1
+T38950,Myelodysplastic syndrome,Phase 2
+T40556,Myelodysplastic syndrome,Phase 1
+T40694,Myelodysplastic syndrome,Phase 3
+T47101,Myelodysplastic syndrome,Phase 2
+T51407,Myelodysplastic syndrome,Phase 1/2
+T53389,Myelodysplastic syndrome,Phase 1/2
+T53524,Myelodysplastic syndrome,Phase 2
+T55781,Myelodysplastic syndrome,Phase 1/2
+T56923,Myelodysplastic syndrome,Phase 1
+T57700,Myelodysplastic syndrome,Phase 2
+T58998,Myelodysplastic syndrome,Phase 1
+T59102,Myelodysplastic syndrome,Phase 2
+T59328,Myelodysplastic syndrome,Phase 2
+T60345,Myelodysplastic syndrome,Phase 1
+T60631,Myelodysplastic syndrome,Phase 2
+T60636,Myelodysplastic syndrome,Phase 2
+T61518,Myelodysplastic syndrome,Phase 1
+T65755,Myelodysplastic syndrome,Phase 2
+T66426,Myelodysplastic syndrome,Phase 1
+T67805,Myelodysplastic syndrome,Phase 2
+T69563,Myelodysplastic syndrome,Phase 1
+T71377,Myelodysplastic syndrome,Phase 1
+T73342,Myelodysplastic syndrome,Approved
+T76233,Myelodysplastic syndrome,Phase 3
+T79473,Myelodysplastic syndrome,Phase 2
+T80782,Myelodysplastic syndrome,Phase 2
+T80975,Myelodysplastic syndrome,Phase 2
+T82078,Myelodysplastic syndrome,Phase 2
+T82240,Myelodysplastic syndrome,Phase 1/2
+T82383,Myelodysplastic syndrome,Phase 2
+T82494,Myelodysplastic syndrome,Phase 1
+T82665,Myelodysplastic syndrome,Phase 1
+T86052,Myelodysplastic syndrome,Phase 2/3
+T86264,Myelodysplastic syndrome,Phase 1
+T86323,Myelodysplastic syndrome,Phase 1
+T86399,Myelodysplastic syndrome,Phase 1
+T86528,Myelodysplastic syndrome,Phase 2
+T86836,Myelodysplastic syndrome,Approved
+T87237,Myelodysplastic syndrome,Phase 1/2
+T88304,Myelodysplastic syndrome,Phase 3
+T92076,Myelodysplastic syndrome,Phase 3
+T92144,Myelodysplastic syndrome,Discontinued in Phase 1
+T92308,Myelodysplastic syndrome,Approved
+T93995,Myelodysplastic syndrome,Phase 3
+T94085,Myelodysplastic syndrome,Phase 1
+T95913,Myelodysplastic syndrome,Phase 3
+T96079,Myelodysplastic syndrome,Phase 2
+T96723,Myelodysplastic syndrome,Phase 1
+T96892,Myelodysplastic syndrome,Phase 1
+T97766,Myelodysplastic syndrome,Phase 3
+T98034,Myelodysplastic syndrome,Phase 1
+T99948,Myelodysplastic syndrome,Phase 1
+T04388,Myelopathy,Clinical trial
+T11911,Myelopathy,Clinical trial
+T34204,Myelopathy,Clinical trial
+T86271,Myelopathy,Clinical trial
+T93798,Myelopathy,Clinical trial
+T06011,Myeloproliferative neoplasm,Phase 2
+T08391,Myeloproliferative neoplasm,Approved
+T40556,Myeloproliferative neoplasm,Phase 3
+T44589,Myeloproliferative neoplasm,Phase 1/2
+T53389,Myeloproliferative neoplasm,Phase 2
+T58998,Myeloproliferative neoplasm,Phase 3
+T61518,Myeloproliferative neoplasm,Phase 1
+T96892,Myeloproliferative neoplasm,Phase 1
+T03403,Myocardial infarction,Approved
+T03691,Myocardial infarction,Discontinued in Phase 2
+T05114,Myocardial infarction,Phase 2
+T06046,Myocardial infarction,Phase 3
+T06273,Myocardial infarction,Investigative
+T15882,Myocardial infarction,Phase 2
+T16156,Myocardial infarction,Phase 1
+T17758,Myocardial infarction,Approved
+T22977,Myocardial infarction,Phase 2
+T23499,Myocardial infarction,Phase 2
+T36483,Myocardial infarction,Approved
+T40332,Myocardial infarction,Phase 2
+T46937,Myocardial infarction,Approved
+T53585,Myocardial infarction,Approved
+T59174,Myocardial infarction,Investigative
+T74456,Myocardial infarction,Phase 2
+T82028,Myocardial infarction,Investigative
+T84726,Myocardial infarction,Approved
+T86702,Myocardial infarction,Discontinued in Phase 2
+T89034,Myocardial infarction,Approved
+T94033,Myocardial infarction,Approved
+T95913,Myocardial infarction,Phase 1/2
+T99379,Myocardial infarction,Phase 1
+T42446,Narcolepsy,Approved
+T55959,Narcolepsy,Approved
+T64765,Narcolepsy,Phase 2
+T69485,Narcolepsy,Phase 2
+T69485,Narcolepsy,Phase 1
+T84457,Narcolepsy,Phase 2
+T99524,Narcolepsy,Approved
+T59631,Nasopharyngeal cancer,Approved in China
+T69494,Nervous system disease,Terminated
+T83145,Nervous system disease,Patented
+T27812,Neurobehavioral disorder,Phase 2
+T46360,Neurobehavioral disorder,Phase 2
+T00477,Neurodegenerative disorder,Investigative
+T14875,Neurodegenerative disorder,Preclinical
+T16691,Neurodegenerative disorder,Phase 1
+T20761,Neurodegenerative disorder,Patented
+T22285,Neurodegenerative disorder,Terminated
+T22977,Neurodegenerative disorder,Terminated
+T28722,Neurodegenerative disorder,Phase 2
+T30082,Neurodegenerative disorder,Investigative
+T31621,Neurodegenerative disorder,Discontinued in Phase 2
+T45593,Neurodegenerative disorder,Investigative
+T50942,Neurodegenerative disorder,Investigative
+T50973,Neurodegenerative disorder,Preclinical
+T52910,Neurodegenerative disorder,Preclinical
+T56588,Neurodegenerative disorder,Terminated
+T59679,Neurodegenerative disorder,Investigative
+T60631,Neurodegenerative disorder,Terminated
+T60693,Neurodegenerative disorder,Terminated
+T61746,Neurodegenerative disorder,Patented
+T62276,Neurodegenerative disorder,Terminated
+T63233,Neurodegenerative disorder,Phase 1
+T68039,Neurodegenerative disorder,Terminated
+T69494,Neurodegenerative disorder,Terminated
+T72595,Neurodegenerative disorder,Terminated
+T76024,Neurodegenerative disorder,Phase 1
+T76414,Neurodegenerative disorder,Terminated
+T77796,Neurodegenerative disorder,Discontinued in Phase 3
+T83011,Neurodegenerative disorder,Investigative
+T83145,Neurodegenerative disorder,Patented
+T84703,Neurodegenerative disorder,Investigative
+T85670,Neurodegenerative disorder,Phase 1/2
+T56365,Neuromyelitis optica,Phase 2
+T76024,Neuromyelitis optica,Phase 1
+T92828,Neuromyelitis optica,Phase 3
+T93440,Neuromyelitis optica,Phase 3
+T50942,Neurotrophic keratitis,Approved
+T19615,Neutropenia,Approved
+T73097,Neutropenia,Investigative
+T98913,Neutropenia,Approved
+T05387,Non-alcoholic fatty liver disease,Phase 2
+T16514,Non-alcoholic fatty liver disease,Phase 2
+T36557,Non-alcoholic fatty liver disease,Phase 3
+T38875,Non-alcoholic fatty liver disease,Phase 2
+T58921,Non-alcoholic fatty liver disease,Phase 2
+T86591,Non-alcoholic fatty liver disease,Phase 3
+T88697,Non-alcoholic fatty liver disease,Phase 2
+T99340,Non-alcoholic fatty liver disease,Investigative
+T06011,Non-small-cell lung cancer,Phase 2
+T07173,Non-small-cell lung cancer,Approved
+T09826,Non-small-cell lung cancer,Phase 3
+T15000,Non-small-cell lung cancer,Phase 1
+T16601,Non-small-cell lung cancer,Phase 3
+T17629,Non-small-cell lung cancer,Phase 3
+T18876,Non-small-cell lung cancer,Phase 1/2
+T20563,Non-small-cell lung cancer,Approved
+T22350,Non-small-cell lung cancer,Phase 1
+T23003,Non-small-cell lung cancer,Phase 2
+T23953,Non-small-cell lung cancer,Phase 1
+T25419,Non-small-cell lung cancer,Phase 2
+T25739,Non-small-cell lung cancer,Phase 2
+T31946,Non-small-cell lung cancer,Phase 2
+T40474,Non-small-cell lung cancer,Approved
+T40874,Non-small-cell lung cancer,Phase 3
+T50594,Non-small-cell lung cancer,Investigative
+T51076,Non-small-cell lung cancer,Approved
+T51883,Non-small-cell lung cancer,Phase 2
+T52624,Non-small-cell lung cancer,Phase 2
+T56418,Non-small-cell lung cancer,Approved
+T59328,Non-small-cell lung cancer,Approved
+T59480,Non-small-cell lung cancer,Approved
+T59631,Non-small-cell lung cancer,Phase 2
+T60345,Non-small-cell lung cancer,Phase 1
+T63178,Non-small-cell lung cancer,Phase 1
+T69128,Non-small-cell lung cancer,Approved
+T70176,Non-small-cell lung cancer,Phase 1
+T76233,Non-small-cell lung cancer,Phase 2
+T80975,Non-small-cell lung cancer,Phase 1/2
+T84703,Non-small-cell lung cancer,Approved
+T85507,Non-small-cell lung cancer,Phase 2
+T87108,Non-small-cell lung cancer,Phase 1/2
+T93923,Non-small-cell lung cancer,Phase 1/2
+T96721,Non-small-cell lung cancer,Phase 3
+T97071,Non-small-cell lung cancer,Phase 1
+T97766,Non-small-cell lung cancer,Phase 1
+T99948,Non-small-cell lung cancer,Approved
+T75888,Nutritional deficiency,Approved
+T01777,Obesity,Approved
+T02333,Obesity,Discontinued in Phase 2
+T02719,Obesity,Phase 2
+T05034,Obesity,Terminated
+T05849,Obesity,Preclinical
+T08922,Obesity,Discontinued in Phase 3
+T09572,Obesity,Phase 1
+T10362,Obesity,Phase 2
+T10445,Obesity,Discontinued in Phase 2
+T10670,Obesity,Discontinued in Phase 2
+T11448,Obesity,Investigative
+T14731,Obesity,Phase 2
+T16347,Obesity,Phase 1
+T16514,Obesity,Investigative
+T16688,Obesity,Phase 1
+T16691,Obesity,Phase 1
+T16769,Obesity,Phase 1
+T17163,Obesity,Investigative
+T17569,Obesity,Preclinical
+T20331,Obesity,Discontinued in Phase 3
+T20973,Obesity,Preclinical
+T21782,Obesity,Phase 3
+T21945,Obesity,Approved
+T23547,Obesity,Phase 3
+T24127,Obesity,Phase 2
+T26428,Obesity,Preclinical
+T27288,Obesity,Discontinued in Phase 2
+T27812,Obesity,Approved
+T27944,Obesity,Discontinued in Phase 2
+T28330,Obesity,Discontinued in Phase 2
+T28893,Obesity,Investigative
+T29500,Obesity,Approved
+T30383,Obesity,Phase 2
+T30653,Obesity,Approved
+T30834,Obesity,Discontinued in Phase 2
+T32247,Obesity,Phase 1
+T33245,Obesity,Phase 1
+T33491,Obesity,Investigative
+T35303,Obesity,Phase 1/2
+T36075,Obesity,Phase 3
+T36557,Obesity,Phase 2/3
+T38875,Obesity,Investigative
+T41515,Obesity,Phase 2
+T41750,Obesity,Phase 3
+T43920,Obesity,Phase 3
+T44068,Obesity,Phase 1
+T44919,Obesity,Phase 2
+T45228,Obesity,Patented
+T47215,Obesity,Terminated
+T47768,Obesity,Phase 1
+T49064,Obesity,Phase 3
+T49898,Obesity,Preclinical
+T51408,Obesity,Phase 2
+T52522,Obesity,Phase 1
+T52937,Obesity,Phase 2
+T55689,Obesity,Investigative
+T55959,Obesity,Approved
+T56269,Obesity,Phase 1
+T56625,Obesity,Discontinued in Phase 1
+T58921,Obesity,Investigative
+T58992,Obesity,Preclinical
+T59604,Obesity,Discontinued in Phase 1/2
+T60182,Obesity,Phase 3
+T60693,Obesity,Preclinical
+T61033,Obesity,Phase 1
+T62820,Obesity,Phase 2
+T63245,Obesity,Phase 1
+T64382,Obesity,Phase 3
+T64765,Obesity,Investigative
+T65200,Obesity,Phase 1
+T69146,Obesity,Phase 2
+T69494,Obesity,Approved
+T70176,Obesity,Preclinical
+T70680,Obesity,Phase 2
+T72458,Obesity,Approved
+T75596,Obesity,Phase 1
+T75888,Obesity,Investigative
+T76685,Obesity,Approved
+T76846,Obesity,Preclinical
+T77913,Obesity,Phase 2
+T81183,Obesity,Withdrawn from market
+T83011,Obesity,Investigative
+T83813,Obesity,Approved
+T84160,Obesity,Investigative
+T84560,Obesity,Phase 2
+T85605,Obesity,Withdrawn from market
+T87023,Obesity,Phase 1
+T87166,Obesity,Phase 1
+T88729,Obesity,Phase 2
+T89213,Obesity,Preclinical
+T90935,Obesity,Preclinical
+T94309,Obesity,Approved
+T97413,Obesity,Investigative
+T13348,Ocular cancer,Discontinued in Phase 2
+T38161,Ocular pain,Approved
+T56697,Oesophagogastric junction cancer,Phase 1/2
+T10362,Onchocerciasis,Phase 2
+T16047,Onchocerciasis,Approved
+T32972,Onchocerciasis,Phase 2
+T64382,Onchocerciasis,Approved
+T73482,Opioid use disorder,Phase 1
+T09937,Oral mucositis,Phase 1
+T33425,Oral mucositis,Investigative
+T38159,Oral mucositis,Phase 2/3
+T58454,Oral mucositis,Approved
+T62763,Oral mucositis,Discontinued in Phase 2
+T15117,Orthostatic hypotension,Approved
+T21945,Orthostatic hypotension,Phase 1
+T27812,Orthostatic hypotension,Phase 1
+T77365,Orthostatic hypotension,Approved
+T81183,Orthostatic hypotension,Approved
+T92072,Orthostatic hypotension,Approved
+T00140,Osteoarthritis,Discontinued in Phase 1
+T02703,Osteoarthritis,Phase 3
+T03403,Osteoarthritis,Approved
+T11388,Osteoarthritis,Preclinical
+T12119,Osteoarthritis,Phase 2
+T16340,Osteoarthritis,Phase 2
+T18876,Osteoarthritis,Investigative
+T20178,Osteoarthritis,Phase 2
+T23714,Osteoarthritis,Phase 2
+T34624,Osteoarthritis,Phase 2
+T41141,Osteoarthritis,Preclinical
+T42000,Osteoarthritis,Approved
+T51426,Osteoarthritis,Approved
+T54379,Osteoarthritis,Phase 2
+T58589,Osteoarthritis,Phase 1
+T60529,Osteoarthritis,Approved
+T61746,Osteoarthritis,Patented
+T63174,Osteoarthritis,Phase 1
+T66665,Osteoarthritis,Approved
+T68251,Osteoarthritis,Discontinued in Phase 3
+T68290,Osteoarthritis,Preclinical
+T73992,Osteoarthritis,Preregistration
+T78429,Osteoarthritis,Phase 2
+T79798,Osteoarthritis,Phase 2
+T80942,Osteoarthritis,Discontinued in Phase 1
+T83193,Osteoarthritis,Phase 1
+T85670,Osteoarthritis,Phase 3
+T86702,Osteoarthritis,Discontinued in Phase 2
+T93105,Osteoarthritis,Preregistration
+T97257,Osteoarthritis,Investigative
+T98896,Osteoarthritis,Phase 1
+T99204,Osteoarthritis,Preregistration
+T99840,Osteoarthritis,Preregistration
+T44479,Osteosarcoma,Phase 1/2
+T63505,Osteosarcoma,Phase 2
+T70977,Osteosarcoma,Phase 2
+T71164,Osteosarcoma,Phase 2
+T85529,Osteosarcoma,Phase 1/2
+T85943,Osteosarcoma,Phase 2
+T86836,Osteosarcoma,Phase 2
+T02228,Otitis externa,Phase 3
+T34596,Otitis externa,Phase 3
+T40016,Otitis externa,Phase 3
+T96144,Otitis externa,Approved
+T03403,Otitis media,Approved
+T22348,Otitis media,Phase 3
+T38179,Otitis media,Discontinued in Phase 3
+T89034,Otitis media,Clinical trial
+T95212,Otitis media,Approved
+T05938,Ovarian cancer,Phase 3
+T06273,Ovarian cancer,Approved
+T06671,Ovarian cancer,Phase 1
+T08133,Ovarian cancer,Phase 1
+T09826,Ovarian cancer,Approved
+T10988,Ovarian cancer,Phase 3
+T11253,Ovarian cancer,Investigative
+T14592,Ovarian cancer,Phase 3
+T14597,Ovarian cancer,Phase 1/2
+T15068,Ovarian cancer,Phase 2
+T15739,Ovarian cancer,Phase 2
+T16769,Ovarian cancer,Phase 1/2
+T17514,Ovarian cancer,Phase 1
+T18477,Ovarian cancer,Phase 1
+T20251,Ovarian cancer,Investigative
+T20474,Ovarian cancer,Phase 3
+T20761,Ovarian cancer,Phase 1
+T21960,Ovarian cancer,Phase 3
+T22350,Ovarian cancer,Phase 2
+T23003,Ovarian cancer,Phase 2
+T25258,Ovarian cancer,Discontinued in Phase 2
+T26226,Ovarian cancer,Phase 1
+T28484,Ovarian cancer,Phase 2
+T30418,Ovarian cancer,Phase 2
+T30495,Ovarian cancer,Phase 1
+T31072,Ovarian cancer,Phase 2
+T31309,Ovarian cancer,Phase 2
+T31946,Ovarian cancer,Phase 2
+T34867,Ovarian cancer,Approved
+T37434,Ovarian cancer,Phase 1
+T37693,Ovarian cancer,Investigative
+T38087,Ovarian cancer,Phase 2
+T39231,Ovarian cancer,Phase 2
+T40474,Ovarian cancer,Phase 2
+T40812,Ovarian cancer,Phase 2
+T42974,Ovarian cancer,Phase 3
+T43189,Ovarian cancer,Phase 3
+T43415,Ovarian cancer,Phase 3
+T44141,Ovarian cancer,Phase 3
+T45758,Ovarian cancer,Phase 1
+T47101,Ovarian cancer,Phase 2
+T51883,Ovarian cancer,Phase 2
+T52624,Ovarian cancer,Phase 2
+T54644,Ovarian cancer,Withdrawn from market
+T55273,Ovarian cancer,Phase 1
+T55860,Ovarian cancer,Phase 1
+T56697,Ovarian cancer,Phase 2
+T59631,Ovarian cancer,Phase 2
+T60345,Ovarian cancer,Phase 1/2
+T61698,Ovarian cancer,Phase 1/2
+T62449,Ovarian cancer,Phase 2
+T63164,Ovarian cancer,Phase 1
+T63204,Ovarian cancer,Phase 1/2
+T64721,Ovarian cancer,Phase 2
+T65116,Ovarian cancer,Phase 2
+T65755,Ovarian cancer,Phase 2
+T65868,Ovarian cancer,Investigative
+T66505,Ovarian cancer,Phase 1
+T67619,Ovarian cancer,Phase 1
+T67805,Ovarian cancer,Phase 1
+T68251,Ovarian cancer,Discontinued in Phase 3
+T68517,Ovarian cancer,Phase 2
+T68536,Ovarian cancer,Phase 2
+T68547,Ovarian cancer,Phase 2
+T69991,Ovarian cancer,Phase 2
+T70977,Ovarian cancer,Patented
+T71536,Ovarian cancer,Phase 3
+T72702,Ovarian cancer,Phase 2
+T74312,Ovarian cancer,Phase 2
+T76093,Ovarian cancer,Phase 1
+T76685,Ovarian cancer,Investigative
+T76910,Ovarian cancer,Patented
+T78319,Ovarian cancer,Phase 2
+T80975,Ovarian cancer,Phase 2
+T81830,Ovarian cancer,Phase 1
+T82277,Ovarian cancer,Phase 2
+T82383,Ovarian cancer,Phase 2
+T82494,Ovarian cancer,Phase 1/2
+T83059,Ovarian cancer,Phase 2
+T83192,Ovarian cancer,Phase 1/2
+T83386,Ovarian cancer,Approved
+T84726,Ovarian cancer,Phase 1
+T85529,Ovarian cancer,Phase 1/2
+T85554,Ovarian cancer,Phase 2
+T85943,Ovarian cancer,Phase 3
+T86014,Ovarian cancer,Phase 1/2
+T86052,Ovarian cancer,Phase 2
+T86552,Ovarian cancer,Phase 3
+T86836,Ovarian cancer,Approved
+T87108,Ovarian cancer,Phase 1/2
+T89697,Ovarian cancer,Phase 1
+T95371,Ovarian cancer,Phase 2
+T95385,Ovarian cancer,Phase 2
+T96144,Ovarian cancer,Phase 2
+T96299,Ovarian cancer,Phase 1
+T97553,Ovarian cancer,Phase 2
+T97766,Ovarian cancer,Phase 1/2
+T98798,Ovarian cancer,Phase 3
+T99948,Ovarian cancer,Phase 3
+T00140,Pain,Phase 1
+T00884,Pain,Approved
+T01777,Pain,Phase 2
+T02546,Pain,Investigative
+T02703,Pain,Phase 2
+T02728,Pain,Terminated
+T03403,Pain,Approved
+T05031,Pain,Phase 1
+T05409,Pain,Discontinued in Phase 2
+T07173,Pain,Preclinical
+T07806,Pain,Terminated
+T10822,Pain,Investigative
+T11211,Pain,Discontinued in Phase 2
+T11388,Pain,Phase 1
+T11448,Pain,Phase 2
+T11754,Pain,Phase 1
+T12119,Pain,Phase 2
+T14342,Pain,Investigative
+T15497,Pain,Discontinued in Phase 2
+T17140,Pain,Investigative
+T17569,Pain,Phase 1
+T18876,Pain,Phase 2
+T20251,Pain,Phase 2
+T20578,Pain,Discontinued in Phase 1
+T21945,Pain,Approved
+T22118,Pain,Discontinued in Phase 2
+T22658,Pain,Approved
+T23547,Pain,Approved
+T23714,Pain,Terminated
+T26220,Pain,Discontinued in Phase 2
+T26623,Pain,Investigative
+T27137,Pain,Preclinical
+T27812,Pain,Approved
+T28722,Pain,Discontinued in Phase 1
+T29303,Pain,Approved
+T29500,Pain,Approved
+T30082,Pain,Phase 1
+T30802,Pain,Discontinued in Phase 2
+T30985,Pain,Terminated
+T31424,Pain,Approved
+T32247,Pain,Phase 3
+T32348,Pain,Phase 2
+T34123,Pain,Terminated
+T34296,Pain,Clinical trial
+T34624,Pain,Phase 2
+T37693,Pain,Phase 2
+T38338,Pain,Approved
+T39523,Pain,Discontinued in Phase 1
+T39716,Pain,Approved
+T41580,Pain,Phase 2
+T41955,Pain,Phase 1
+T42446,Pain,Investigative
+T43115,Pain,Terminated
+T43739,Pain,Phase 2
+T45993,Pain,Discontinued in Phase 2
+T46360,Pain,Phase 1
+T47077,Pain,Discontinued in Phase 2
+T47094,Pain,Phase 2
+T47768,Pain,Approved
+T48069,Pain,Phase 1
+T49898,Pain,Investigative
+T50942,Pain,Investigative
+T51282,Pain,Investigative
+T52790,Pain,Terminated
+T52921,Pain,Discontinued in Phase 2
+T53381,Pain,Phase 2
+T53585,Pain,Approved
+T54128,Pain,Terminated
+T54132,Pain,Preclinical
+T54644,Pain,Phase 2
+T55094,Pain,Phase 1
+T56923,Pain,Approved
+T58496,Pain,Phase 2
+T58589,Pain,Investigative
+T58992,Pain,Approved
+T59122,Pain,Approved
+T59679,Pain,Investigative
+T60529,Pain,Approved
+T60693,Pain,Approved
+T62306,Pain,Phase 2
+T62841,Pain,Patented
+T63414,Pain,Phase 2
+T63512,Pain,Patented
+T63967,Pain,Discontinued in Phase 2
+T64765,Pain,Discontinued in Phase 2
+T65864,Pain,Investigative
+T65889,Pain,Phase 2
+T66665,Pain,Approved
+T67162,Pain,Approved
+T68290,Pain,Phase 1
+T68782,Pain,Investigative
+T69494,Pain,Approved
+T70067,Pain,Discontinued in Phase 2
+T73495,Pain,Phase 2
+T73676,Pain,Phase 3
+T74483,Pain,Preclinical
+T75243,Pain,Phase 1
+T75440,Pain,Terminated
+T76685,Pain,Discontinued in Phase 2
+T76904,Pain,Discontinued in Phase 2
+T76937,Pain,Investigative
+T77365,Pain,Discontinued in Phase 2
+T77796,Pain,Phase 3
+T77913,Pain,Discontinued in Phase 2
+T78111,Pain,Discontinued in Phase 1
+T78709,Pain,Terminated
+T79798,Pain,Phase 2
+T82266,Pain,Investigative
+T83193,Pain,Phase 3
+T83813,Pain,Approved
+T84040,Pain,Investigative
+T84316,Pain,Discontinued in Phase 2
+T85435,Pain,Phase 2
+T85467,Pain,Investigative
+T85670,Pain,Phase 3
+T89147,Pain,Phase 2
+T89534,Pain,Discontinued in Phase 3
+T91661,Pain,Terminated
+T92042,Pain,Phase 2
+T92609,Pain,Phase 2
+T93566,Pain,Discontinued in Phase 2
+T95913,Pain,Phase 1
+T95947,Pain,Investigative
+T99727,Pain,Phase 2
+T99799,Pain,Approved
+T03046,Pancreatic cancer,Phase 2
+T03917,Pancreatic cancer,Phase 2
+T07173,Pancreatic cancer,Phase 1
+T08391,Pancreatic cancer,Phase 3
+T09092,Pancreatic cancer,Phase 3
+T13075,Pancreatic cancer,Preclinical
+T13127,Pancreatic cancer,Phase 1/2
+T13741,Pancreatic cancer,Phase 2
+T14597,Pancreatic cancer,Phase 2
+T15068,Pancreatic cancer,Phase 1
+T15739,Pancreatic cancer,Phase 2
+T16601,Pancreatic cancer,Phase 2
+T18779,Pancreatic cancer,Phase 3
+T20210,Pancreatic cancer,Terminated
+T20333,Pancreatic cancer,Phase 2
+T23276,Pancreatic cancer,Phase 1
+T23953,Pancreatic cancer,Phase 2
+T25005,Pancreatic cancer,Phase 3
+T28330,Pancreatic cancer,Discontinued in Phase 2
+T29130,Pancreatic cancer,Phase 3
+T29815,Pancreatic cancer,Phase 2
+T30081,Pancreatic cancer,Phase 3
+T30418,Pancreatic cancer,Phase 3
+T31072,Pancreatic cancer,Phase 1
+T31309,Pancreatic cancer,Phase 3
+T32060,Pancreatic cancer,Phase 2
+T34867,Pancreatic cancer,Phase 3
+T35486,Pancreatic cancer,Phase 2
+T37434,Pancreatic cancer,Phase 1
+T38301,Pancreatic cancer,Phase 2
+T40694,Pancreatic cancer,Discontinued in Phase 1
+T43189,Pancreatic cancer,Discontinued in Phase 3
+T43415,Pancreatic cancer,Phase 3
+T44684,Pancreatic cancer,Phase 2
+T44771,Pancreatic cancer,Phase 2/3
+T45674,Pancreatic cancer,Preclinical
+T46360,Pancreatic cancer,Preclinical
+T46456,Pancreatic cancer,Phase 1
+T47381,Pancreatic cancer,Phase 1
+T47863,Pancreatic cancer,Phase 1/2
+T48069,Pancreatic cancer,Phase 2
+T48429,Pancreatic cancer,Phase 1
+T50444,Pancreatic cancer,Phase 2
+T52037,Pancreatic cancer,Phase 1/2
+T52389,Pancreatic cancer,Phase 2
+T52450,Pancreatic cancer,Phase 3
+T53389,Pancreatic cancer,Phase 1
+T53524,Pancreatic cancer,Patented
+T56362,Pancreatic cancer,Phase 1
+T56365,Pancreatic cancer,Phase 1
+T58970,Pancreatic cancer,Phase 1
+T59328,Pancreatic cancer,Phase 3
+T59463,Pancreatic cancer,Phase 2
+T59626,Pancreatic cancer,Discontinued in Phase 2
+T59631,Pancreatic cancer,Phase 1/2
+T60636,Pancreatic cancer,Phase 3
+T62449,Pancreatic cancer,Phase 2
+T62460,Pancreatic cancer,Phase 3
+T63966,Pancreatic cancer,Phase 2
+T64795,Pancreatic cancer,Approved
+T64969,Pancreatic cancer,Phase 1
+T65116,Pancreatic cancer,Phase 1
+T65883,Pancreatic cancer,Phase 2
+T66665,Pancreatic cancer,Discontinued in Phase 2
+T67162,Pancreatic cancer,Phase 2
+T67619,Pancreatic cancer,Phase 2
+T67805,Pancreatic cancer,Phase 1
+T68251,Pancreatic cancer,Phase 3
+T68536,Pancreatic cancer,Phase 3
+T71039,Pancreatic cancer,Phase 2
+T71164,Pancreatic cancer,Phase 1
+T72702,Pancreatic cancer,Phase 1
+T73215,Pancreatic cancer,Phase 1
+T73475,Pancreatic cancer,Phase 3
+T73756,Pancreatic cancer,Phase 1
+T74002,Pancreatic cancer,Phase 2
+T74363,Pancreatic cancer,Phase 3
+T75243,Pancreatic cancer,Phase 2
+T78277,Pancreatic cancer,Phase 1
+T82078,Pancreatic cancer,Phase 1/2
+T83797,Pancreatic cancer,Phase 2
+T85042,Pancreatic cancer,Phase 1/2
+T85943,Pancreatic cancer,Phase 3
+T86052,Pancreatic cancer,Phase 3
+T86350,Pancreatic cancer,Phase 2
+T86528,Pancreatic cancer,Phase 1/2
+T86836,Pancreatic cancer,Approved
+T87108,Pancreatic cancer,Phase 2
+T87109,Pancreatic cancer,Preclinical
+T88304,Pancreatic cancer,Phase 2
+T88656,Pancreatic cancer,Phase 2
+T89697,Pancreatic cancer,Phase 2
+T93662,Pancreatic cancer,Phase 2
+T95289,Pancreatic cancer,Phase 1
+T95616,Pancreatic cancer,Phase 1/2
+T96079,Pancreatic cancer,Phase 2
+T96144,Pancreatic cancer,Phase 2
+T96747,Pancreatic cancer,Phase 3
+T97257,Pancreatic cancer,Phase 1
+T98913,Pancreatic cancer,Phase 1
+T98917,Pancreatic cancer,Phase 3
+T99340,Pancreatic cancer,Phase 1/2
+T99566,Pancreatic cancer,Phase 2/3
+T99948,Pancreatic cancer,Phase 2
+T99989,Pancreatic cancer,Preclinical
+T05849,Pancreatic malfunction,Phase 2
+T28330,Pancreatic malfunction,Phase 2
+T39677,Pancreatic malfunction,Investigative
+T61484,Pancreatic malfunction,NDA filed
+T86918,Pancreatic malfunction,NDA filed
+T94309,Pancreatic malfunction,NDA filed
+T20178,Pancreatitis,Approved
+T20297,Pancreatitis,Approved
+T32060,Pancreatitis,Terminated
+T50973,Pancreatitis,Phase 1
+T55689,Pancreatitis,Clinical trial
+T61746,Pancreatitis,Patented
+T79961,Pancreatitis,Approved
+T28722,Panic disorder,Investigative
+T69494,Panic disorder,Phase 1
+T09538,Parasitic infection,Approved
+T98708,Parathyroid disease,Terminated
+T01777,Peptic ulcer,Discontinued in Preregistration
+T09130,Peptic ulcer,Approved
+T28893,Peptic ulcer,Approved
+T30985,Peptic ulcer,Approved
+T46185,Peptic ulcer,Approved
+T46360,Peptic ulcer,Discontinued in Phase 2
+T51666,Peptic ulcer,Approved
+T57361,Peptic ulcer,Approved
+T67684,Peptic ulcer,Approved
+T79961,Peptic ulcer,Approved
+T87831,Peptic ulcer,Phase 3
+T92687,Peptic ulcer,Approved
+T96413,Periodontal disease,Phase 2
+T96760,Periodontal disease,Phase 2
+T83797,Peripheral Ischemic Ulcers,Phase 2
+T05938,Peritoneal cancer,Phase 1
+T06273,Peritoneal cancer,Approved
+T22350,Peritoneal cancer,Phase 2
+T87108,Peritoneal cancer,Phase 2
+T95385,Peritoneal cancer,Phase 2
+T54128,Pervasive developmental disorder,Phase 2/3
+T04321,Phlegmy cough,Phase 3
+T40332,Phlegmy cough,Discontinued in Phase 3
+T99948,Pleomorphic sarcoma,Phase 2
+T87108,Pleural mesothelioma,Phase 1
+T96257,Pneumococcal infection,Phase 2
+T02702,Pneumonia,Phase 2
+T04321,Pneumonia,Phase 2
+T17345,Pneumonia,Phase 2
+T20178,Pneumonia,Phase 2
+T22348,Pneumonia,Approved
+T40696,Pneumonia,Phase 3
+T47077,Pneumonia,Phase 2
+T52534,Pneumonia,Phase 2
+T62094,Pneumonia,Approved
+T88338,Pneumonia,Approved
+T66237,Polyuria,Approved
+T01777,Post-traumatic stress disorder,Phase 3
+T32060,Post-traumatic stress disorder,Phase 3
+T59679,Post-traumatic stress disorder,Phase 2
+T69494,Post-traumatic stress disorder,Phase 2/3
+T74937,Post-traumatic stress disorder,Phase 2
+T78709,Post-traumatic stress disorder,Preclinical
+T79232,Post-traumatic stress disorder,Phase 2
+T92609,Post-traumatic stress disorder,Preclinical
+T52790,Postoperative ileus,Phase 1/2
+T59604,Postoperative ileus,Phase 1/2
+T03403,Postoperative inflammation,Approved
+T60529,Postoperative inflammation,Approved
+T29303,Postpartum haemorrhage,Approved
+T67162,Postpartum haemorrhage,Approved
+T84486,Postpartum haemorrhage,Approved
+T56365,Precursor B-lymphoblastic neoplasm,Phase 2
+T00176,Prostate cancer,Phase 1
+T01908,Prostate cancer,Phase 1
+T03634,Prostate cancer,Phase 1
+T05031,Prostate cancer,Phase 1
+T06273,Prostate cancer,Phase 2
+T07063,Prostate cancer,Phase 1
+T07303,Prostate cancer,Phase 2
+T07374,Prostate cancer,Phase 1
+T09058,Prostate cancer,Phase 3
+T11211,Prostate cancer,Approved
+T11253,Prostate cancer,Investigative
+T11451,Prostate cancer,Phase 3
+T12475,Prostate cancer,Approved
+T14597,Prostate cancer,Approved
+T14755,Prostate cancer,Phase 1
+T15000,Prostate cancer,Phase 2
+T15855,Prostate cancer,Phase 1/2
+T15894,Prostate cancer,Phase 1
+T18872,Prostate cancer,Phase 2
+T18950,Prostate cancer,Approved
+T18972,Prostate cancer,Phase 1
+T19229,Prostate cancer,Investigative
+T21334,Prostate cancer,Phase 3
+T23145,Prostate cancer,Phase 1/2
+T23499,Prostate cancer,Phase 2
+T23953,Prostate cancer,Phase 1/2
+T25265,Prostate cancer,Phase 1/2
+T25956,Prostate cancer,Phase 1
+T26203,Prostate cancer,Phase 2
+T26240,Prostate cancer,Approved
+T27265,Prostate cancer,Approved
+T29999,Prostate cancer,Phase 2
+T30081,Prostate cancer,Phase 1
+T30687,Prostate cancer,Phase 2
+T31309,Prostate cancer,Phase 2
+T33489,Prostate cancer,Phase 1
+T34234,Prostate cancer,Phase 2
+T34867,Prostate cancer,Phase 3
+T35465,Prostate cancer,Investigative
+T35486,Prostate cancer,Investigative
+T36935,Prostate cancer,Phase 3
+T37693,Prostate cancer,Patented
+T38431,Prostate cancer,Phase 3
+T39123,Prostate cancer,Discontinued in Phase 1
+T40556,Prostate cancer,Phase 1
+T40694,Prostate cancer,Phase 2
+T41963,Prostate cancer,Phase 1
+T42048,Prostate cancer,Phase 1
+T44916,Prostate cancer,Phase 1
+T45612,Prostate cancer,Phase 2
+T45674,Prostate cancer,Preclinical
+T46084,Prostate cancer,Phase 1
+T46360,Prostate cancer,Preclinical
+T46456,Prostate cancer,Phase 1
+T46521,Prostate cancer,Phase 1/2
+T46781,Prostate cancer,Phase 2
+T47610,Prostate cancer,Phase 1
+T47863,Prostate cancer,Phase 1/2
+T51407,Prostate cancer,Phase 1/2
+T52450,Prostate cancer,Discontinued in Phase 3
+T53524,Prostate cancer,Patented
+T54519,Prostate cancer,Phase 1
+T56362,Prostate cancer,Phase 1
+T56697,Prostate cancer,Phase 1/2
+T58998,Prostate cancer,Phase 2
+T59626,Prostate cancer,Discontinued in Phase 1
+T59631,Prostate cancer,Phase 2
+T60213,Prostate cancer,Investigative
+T60345,Prostate cancer,Phase 1/2
+T60857,Prostate cancer,Phase 1/2
+T60930,Prostate cancer,Phase 1/2
+T61698,Prostate cancer,Preclinical
+T62151,Prostate cancer,Patented
+T64682,Prostate cancer,Investigative
+T66252,Prostate cancer,Phase 1/2
+T66693,Prostate cancer,Phase 1
+T67363,Prostate cancer,Phase 2
+T67619,Prostate cancer,Phase 3
+T68251,Prostate cancer,Discontinued in Phase 3
+T68517,Prostate cancer,Phase 2
+T70201,Prostate cancer,Phase 1
+T71164,Prostate cancer,Phase 1
+T73475,Prostate cancer,Discontinued in Phase 3
+T74002,Prostate cancer,Phase 1
+T75243,Prostate cancer,Phase 2
+T76685,Prostate cancer,Patented
+T77365,Prostate cancer,Phase 2
+T77664,Prostate cancer,Preclinical
+T77764,Prostate cancer,Phase 2
+T78114,Prostate cancer,Phase 1/2
+T80011,Prostate cancer,Phase 2
+T80276,Prostate cancer,Phase 2
+T80896,Prostate cancer,Phase 2
+T81443,Prostate cancer,Phase 3
+T81735,Prostate cancer,Investigative
+T81774,Prostate cancer,Phase 2
+T82078,Prostate cancer,Phase 3
+T83011,Prostate cancer,Patented
+T83875,Prostate cancer,Patented
+T85529,Prostate cancer,Phase 1/2
+T85799,Prostate cancer,Phase 1
+T86052,Prostate cancer,Phase 1
+T86399,Prostate cancer,Phase 1
+T86836,Prostate cancer,Approved
+T87075,Prostate cancer,Phase 1
+T87675,Prostate cancer,Phase 2
+T87871,Prostate cancer,Phase 1
+T89041,Prostate cancer,Approved
+T89534,Prostate cancer,Phase 2
+T89697,Prostate cancer,Phase 2
+T90572,Prostate cancer,Phase 1/2
+T91286,Prostate cancer,Phase 1
+T92124,Prostate cancer,Phase 1
+T92609,Prostate cancer,Phase 3
+T93283,Prostate cancer,Phase 2
+T94444,Prostate cancer,Phase 2
+T95289,Prostate cancer,Phase 1
+T95899,Prostate cancer,Phase 3
+T95913,Prostate cancer,Investigative
+T96916,Prostate cancer,Phase 1/2
+T97071,Prostate cancer,Approved
+T97592,Prostate cancer,Phase 2
+T99566,Prostate cancer,Phase 2
+T99948,Prostate cancer,Phase 3
+T01777,Prostate disease,Discontinued in Phase 2
+T12475,Prostate disease,Phase 2
+T13260,Prostate disease,Discontinued in Phase 2
+T27265,Prostate disease,Phase 2
+T34234,Prostate disease,Phase 1
+T53381,Prostate disease,Discontinued in Phase 2
+T70309,Prostate disease,Phase 2
+T92609,Prostate disease,Discontinued in Phase 2
+T98917,Prostate disease,Approved
+T11211,Prostate hyperplasia,Phase 4
+T12475,Prostate hyperplasia,Discontinued in Phase 2
+T36935,Prostate hyperplasia,Phase 3
+T46521,Prostate hyperplasia,Phase 4
+T53381,Prostate hyperplasia,Approved
+T80896,Prostate hyperplasia,Phase 2
+T92609,Prostate hyperplasia,Approved
+T99935,Prostate hyperplasia,Terminated
+T00140,Pruritus,Discontinued in Phase 2
+T07173,Pruritus,Phase 2
+T10735,Pruritus,Phase 1
+T23172,Pruritus,Phase 1
+T24982,Pruritus,Approved
+T31479,Pruritus,Discontinued in Phase 2
+T47768,Pruritus,Approved
+T51076,Pruritus,Patented
+T60693,Pruritus,Approved
+T76059,Pruritus,Phase 2
+T77913,Pruritus,Approved
+T78567,Pruritus,Phase 1
+T84703,Pruritus,Patented
+T95446,Pruritus,Terminated
+T09538,Pseudoxanthoma elasticum,Phase 2
+T63194,Pseudoxanthoma elasticum,Phase 1/2
+T47941,Psoriasis,Approved
+T47941,Psoriasis,Phase 2
+T04894,Psoriatic arthritis,Phase 1
+T06093,Psoriatic arthritis,Phase 1
+T06542,Psoriatic arthritis,Phase 2
+T06841,Psoriatic arthritis,Phase 3
+T20178,Psoriatic arthritis,Phase 2
+T21307,Psoriatic arthritis,Phase 2
+T21865,Psoriatic arthritis,Phase 2
+T22095,Psoriatic arthritis,Phase 3
+T22839,Psoriatic arthritis,Phase 3
+T23761,Psoriatic arthritis,Phase 3
+T31072,Psoriatic arthritis,Phase 3
+T32578,Psoriatic arthritis,Phase 2
+T34867,Psoriatic arthritis,Phase 3
+T40332,Psoriatic arthritis,Phase 3
+T62460,Psoriatic arthritis,Phase 3
+T76914,Psoriatic arthritis,Phase 1
+T78932,Psoriatic arthritis,Phase 2
+T02551,Psychotic disorder,Discontinued in Phase 2
+T02719,Psychotic disorder,Phase 2
+T07806,Psychotic disorder,Approved
+T22118,Psychotic disorder,Phase 1/2
+T23547,Psychotic disorder,Terminated
+T24983,Psychotic disorder,Phase 2
+T29683,Psychotic disorder,Discontinued in Phase 1
+T31204,Psychotic disorder,Approved
+T32060,Psychotic disorder,Phase 1
+T46360,Psychotic disorder,Discontinued in Phase 3
+T62820,Psychotic disorder,Phase 2
+T67162,Psychotic disorder,Approved
+T69685,Psychotic disorder,Phase 2
+T75984,Psychotic disorder,Approved
+T76685,Psychotic disorder,Discontinued in Phase 2
+T78709,Psychotic disorder,Phase 2
+T78915,Psychotic disorder,Phase 2
+T83813,Psychotic disorder,Phase 2
+T85435,Psychotic disorder,Phase 4
+T85605,Psychotic disorder,Terminated
+T40332,Pulmonary disease,Investigative
+T53389,Pulmonary disease,Investigative
+T59626,Pulmonary disease,Phase 2
+T69619,Pulmonary disease,Investigative
+T03818,Pulmonary hypertension,Phase 2
+T06046,Pulmonary hypertension,Phase 1
+T12966,Pulmonary hypertension,Phase 2
+T23499,Pulmonary hypertension,Approved
+T67162,Pulmonary hypertension,Approved
+T99954,Pulmonary hypertension,Approved
+T13852,Pyoderma gangrenosum,Phase 2
+T16340,Pyoderma gangrenosum,Phase 2
+T22839,Pyoderma gangrenosum,Phase 3
+T40332,Pyoderma gangrenosum,Phase 3
+T77365,Radionuclide imaging,Approved
+T01232,Renal cell carcinoma,Phase 2
+T03500,Renal cell carcinoma,Phase 1
+T06421,Renal cell carcinoma,Approved
+T07303,Renal cell carcinoma,Approved
+T09092,Renal cell carcinoma,Phase 1
+T09826,Renal cell carcinoma,Phase 2
+T11451,Renal cell carcinoma,Phase 2
+T17986,Renal cell carcinoma,Phase 1
+T19579,Renal cell carcinoma,Phase 1/2
+T21123,Renal cell carcinoma,Phase 3
+T21960,Renal cell carcinoma,Phase 2
+T22350,Renal cell carcinoma,Phase 2
+T25265,Renal cell carcinoma,Phase 1
+T28484,Renal cell carcinoma,Phase 2
+T30563,Renal cell carcinoma,Phase 1
+T40474,Renal cell carcinoma,Phase 3
+T41003,Renal cell carcinoma,Phase 1
+T44141,Renal cell carcinoma,Phase 2
+T52624,Renal cell carcinoma,Approved
+T54156,Renal cell carcinoma,Phase 1
+T57700,Renal cell carcinoma,Approved
+T59102,Renal cell carcinoma,Approved
+T59328,Renal cell carcinoma,Approved
+T59626,Renal cell carcinoma,Phase 1
+T59631,Renal cell carcinoma,Phase 3
+T61698,Renal cell carcinoma,Approved
+T63966,Renal cell carcinoma,Approved
+T64567,Renal cell carcinoma,Phase 2
+T65755,Renal cell carcinoma,Phase 3
+T65889,Renal cell carcinoma,Phase 2a
+T67363,Renal cell carcinoma,Phase 2
+T67619,Renal cell carcinoma,Phase 2
+T67805,Renal cell carcinoma,Phase 1
+T68251,Renal cell carcinoma,Phase 1
+T68547,Renal cell carcinoma,Phase 3
+T75243,Renal cell carcinoma,Approved
+T75797,Renal cell carcinoma,Phase 3
+T76285,Renal cell carcinoma,Phase 2
+T80975,Renal cell carcinoma,Approved
+T83386,Renal cell carcinoma,Phase 2
+T84631,Renal cell carcinoma,BLA submitted
+T85554,Renal cell carcinoma,Phase 2
+T86734,Renal cell carcinoma,Phase 2
+T88806,Renal cell carcinoma,Phase 2
+T89697,Renal cell carcinoma,Phase 2
+T91331,Renal cell carcinoma,Phase 3
+T91435,Renal cell carcinoma,Phase 1/2
+T94718,Renal cell carcinoma,Phase 2
+T96079,Renal cell carcinoma,Phase 1/2
+T99948,Renal cell carcinoma,Phase 3
+T51038,Resorption of radiopaque agents,Approved
+T57680,Respiratory failure,Approved
+T71398,Respiratory failure,Approved
+T94781,Respiratory infection,Phase 2
+T03513,Restless legs syndrome,Phase 4
+T67162,Restless legs syndrome,Phase 3
+T76904,Restless legs syndrome,Phase 3
+T21782,Retina disorder,Discontinued in Phase 1
+T20761,Retinopathy,Approved
+T83904,Retinopathy,Investigative
+T07341,Reversal of the anticoagulant effects of dabigatran,Approved
+T88240,Rheumatic fever,Approved
+T00140,Rheumatoid arthritis,Phase 3
+T01110,Rheumatoid arthritis,Phase 2
+T01318,Rheumatoid arthritis,Approved
+T01575,Rheumatoid arthritis,Phase 2
+T01840,Rheumatoid arthritis,Terminated
+T02001,Rheumatoid arthritis,Phase 2
+T02318,Rheumatoid arthritis,Discontinued in Phase 2
+T02703,Rheumatoid arthritis,Discontinued in Phase 2
+T02808,Rheumatoid arthritis,Phase 2
+T03403,Rheumatoid arthritis,Approved
+T03573,Rheumatoid arthritis,Phase 1/2
+T06020,Rheumatoid arthritis,Phase 2
+T06093,Rheumatoid arthritis,Phase 2
+T06671,Rheumatoid arthritis,Discontinued in Phase 1
+T06841,Rheumatoid arthritis,Phase 2
+T07403,Rheumatoid arthritis,Discontinued in Phase 1
+T08391,Rheumatoid arthritis,Approved
+T08856,Rheumatoid arthritis,Phase 3
+T09092,Rheumatoid arthritis,Phase 2
+T09960,Rheumatoid arthritis,Discontinued in Phase 1
+T10191,Rheumatoid arthritis,Discontinued in Phase 2
+T10265,Rheumatoid arthritis,Phase 2
+T11164,Rheumatoid arthritis,Phase 3
+T11309,Rheumatoid arthritis,Preclinical
+T11388,Rheumatoid arthritis,Phase 1
+T13251,Rheumatoid arthritis,Phase 2
+T13852,Rheumatoid arthritis,Phase 2
+T14592,Rheumatoid arthritis,Phase 2
+T14676,Rheumatoid arthritis,Phase 2
+T14731,Rheumatoid arthritis,Phase 3
+T14755,Rheumatoid arthritis,Phase 1
+T14912,Rheumatoid arthritis,Investigative
+T15000,Rheumatoid arthritis,Investigative
+T15439,Rheumatoid arthritis,Discontinued in Phase 2
+T15783,Rheumatoid arthritis,Phase 2
+T16016,Rheumatoid arthritis,Phase 2
+T16340,Rheumatoid arthritis,Phase 2
+T16486,Rheumatoid arthritis,Discontinued in Phase 2
+T17345,Rheumatoid arthritis,Phase 2
+T18299,Rheumatoid arthritis,Phase 2
+T19229,Rheumatoid arthritis,Phase 1
+T19556,Rheumatoid arthritis,Investigative
+T20178,Rheumatoid arthritis,Approved
+T20761,Rheumatoid arthritis,Phase 2
+T21307,Rheumatoid arthritis,Phase 2
+T21334,Rheumatoid arthritis,Phase 2
+T22095,Rheumatoid arthritis,Phase 2
+T22839,Rheumatoid arthritis,Phase 3
+T23172,Rheumatoid arthritis,Approved
+T23347,Rheumatoid arthritis,Phase 1
+T23761,Rheumatoid arthritis,Phase 3
+T25005,Rheumatoid arthritis,Phase 2
+T25307,Rheumatoid arthritis,Preclinical
+T25317,Rheumatoid arthritis,Phase 2
+T26500,Rheumatoid arthritis,Phase 2
+T26623,Rheumatoid arthritis,Approved
+T28385,Rheumatoid arthritis,Phase 1
+T29754,Rheumatoid arthritis,Discontinued in Phase 2
+T30687,Rheumatoid arthritis,Phase 1
+T31479,Rheumatoid arthritis,Phase 2
+T31818,Rheumatoid arthritis,Phase 2
+T32240,Rheumatoid arthritis,Discontinued in Phase 1
+T32578,Rheumatoid arthritis,Phase 3
+T32938,Rheumatoid arthritis,Terminated
+T33846,Rheumatoid arthritis,Phase 2
+T34296,Rheumatoid arthritis,Phase 2
+T34624,Rheumatoid arthritis,Phase 2
+T35289,Rheumatoid arthritis,Discontinued in Phase 2
+T35465,Rheumatoid arthritis,Phase 1
+T36059,Rheumatoid arthritis,Phase 2
+T37693,Rheumatoid arthritis,Terminated
+T40016,Rheumatoid arthritis,Approved
+T40332,Rheumatoid arthritis,Phase 3
+T41141,Rheumatoid arthritis,Patented
+T41963,Rheumatoid arthritis,Phase 2
+T42000,Rheumatoid arthritis,Approved
+T43415,Rheumatoid arthritis,Approved
+T45758,Rheumatoid arthritis,Phase 2
+T46524,Rheumatoid arthritis,Phase 2
+T47818,Rheumatoid arthritis,Terminated
+T48703,Rheumatoid arthritis,Investigative
+T49049,Rheumatoid arthritis,Phase 2
+T50699,Rheumatoid arthritis,Phase 2
+T50912,Rheumatoid arthritis,Approved
+T52450,Rheumatoid arthritis,Phase 3
+T53585,Rheumatoid arthritis,Phase 3
+T54156,Rheumatoid arthritis,Phase 1
+T55012,Rheumatoid arthritis,Terminated
+T55398,Rheumatoid arthritis,Phase 2
+T55729,Rheumatoid arthritis,Phase 2
+T56365,Rheumatoid arthritis,Phase 1/2
+T56556,Rheumatoid arthritis,Approved
+T58238,Rheumatoid arthritis,Approved
+T58589,Rheumatoid arthritis,Phase 2
+T58992,Rheumatoid arthritis,Phase 2
+T59626,Rheumatoid arthritis,Discontinued in Phase 2
+T59631,Rheumatoid arthritis,Phase 2
+T60529,Rheumatoid arthritis,Approved
+T60708,Rheumatoid arthritis,Phase 2
+T61400,Rheumatoid arthritis,Phase 3
+T61698,Rheumatoid arthritis,Discontinued in Phase 1
+T61744,Rheumatoid arthritis,Phase 2
+T61746,Rheumatoid arthritis,Patented
+T62431,Rheumatoid arthritis,Phase 3
+T62460,Rheumatoid arthritis,Approved
+T63068,Rheumatoid arthritis,Approved
+T63207,Rheumatoid arthritis,Phase 1
+T63414,Rheumatoid arthritis,Phase 1
+T63484,Rheumatoid arthritis,Discontinued in Phase 2
+T65755,Rheumatoid arthritis,Phase 1
+T65864,Rheumatoid arthritis,Phase 2a
+T66665,Rheumatoid arthritis,Approved
+T67363,Rheumatoid arthritis,Phase 3
+T67849,Rheumatoid arthritis,Phase 3
+T68039,Rheumatoid arthritis,Terminated
+T68290,Rheumatoid arthritis,Patented
+T69085,Rheumatoid arthritis,Discontinued in Phase 2
+T72515,Rheumatoid arthritis,Approved
+T72841,Rheumatoid arthritis,Approved
+T72957,Rheumatoid arthritis,Discontinued in Phase 1
+T73097,Rheumatoid arthritis,Phase 2
+T73215,Rheumatoid arthritis,Phase 2
+T73992,Rheumatoid arthritis,Clinical trial
+T74002,Rheumatoid arthritis,Phase 2
+T74402,Rheumatoid arthritis,Phase 1
+T75440,Rheumatoid arthritis,Phase 2
+T77664,Rheumatoid arthritis,Discontinued in Phase 2
+T78111,Rheumatoid arthritis,Discontinued in Phase 1
+T78198,Rheumatoid arthritis,Discontinued in Phase 1
+T79798,Rheumatoid arthritis,Phase 2
+T80276,Rheumatoid arthritis,Investigative
+T80942,Rheumatoid arthritis,Terminated
+T82393,Rheumatoid arthritis,Phase 2
+T83145,Rheumatoid arthritis,Approved
+T83687,Rheumatoid arthritis,Phase 2
+T84581,Rheumatoid arthritis,Phase 3
+T85158,Rheumatoid arthritis,Phase 2
+T86130,Rheumatoid arthritis,Phase 2
+T86552,Rheumatoid arthritis,Investigative
+T86591,Rheumatoid arthritis,Preclinical
+T86702,Rheumatoid arthritis,Terminated
+T87946,Rheumatoid arthritis,Phase 2
+T89988,Rheumatoid arthritis,Phase 1
+T93440,Rheumatoid arthritis,Approved
+T93783,Rheumatoid arthritis,Approved
+T95385,Rheumatoid arthritis,Phase 1
+T95488,Rheumatoid arthritis,Phase 2
+T96837,Rheumatoid arthritis,Phase 1
+T97035,Rheumatoid arthritis,Investigative
+T97617,Rheumatoid arthritis,Phase 2
+T98269,Rheumatoid arthritis,Phase 2
+T99340,Rheumatoid arthritis,Phase 1
+T11822,Rosacea,Discontinued in Preregistration
+T31479,Rosacea,Approved
+T72657,Rosacea,Phase 2
+T09092,Sarcoidosis,Phase 2
+T20178,Sarcoidosis,Phase 1/2
+T22978,Sarcoidosis,Phase 3
+T27861,Sarcoidosis,Phase 2
+T47077,Sarcoidosis,Discontinued in Phase 2
+T59550,Sarcoidosis,Phase 2
+T65197,Sarcoidosis,Phase 2
+T96299,Sarcoidosis,Terminated
+T19579,Sarcoma,Phase 2
+T24587,Sarcoma,Phase 3
+T45993,Sarcoma,Phase 1
+T71164,Sarcoma,Phase 1
+T75243,Sarcoma,Phase 3
+T80975,Sarcoma,Phase 2
+T85529,Sarcoma,Phase 1/2
+T86748,Sarcoma,Phase 2
+T91894,Sarcoma,Phase 3
+T96079,Sarcoma,Phase 1/2
+T66023,Schistosomiasis,Approved
+T28893,Schizoaffective disorder,Phase 2
+T29683,Schizoaffective disorder,Discontinued in Phase 2b
+T32060,Schizoaffective disorder,Phase 2
+T50444,Schizoaffective disorder,Phase 2
+T67162,Schizoaffective disorder,Phase 2
+T02551,Schizophrenia,Phase 3
+T02719,Schizophrenia,Phase 3
+T07806,Schizophrenia,Approved
+T16486,Schizophrenia,Terminated
+T16691,Schizophrenia,Phase 3
+T17852,Schizophrenia,Phase 2
+T22118,Schizophrenia,Phase 3
+T24983,Schizophrenia,Approved
+T26623,Schizophrenia,Phase 1
+T27137,Schizophrenia,Discontinued in Phase 2
+T27812,Schizophrenia,Phase 3
+T27944,Schizophrenia,Discontinued in Phase 2
+T28893,Schizophrenia,Phase 2
+T29303,Schizophrenia,Phase 2
+T29683,Schizophrenia,Phase 2
+T32060,Schizophrenia,Approved
+T33124,Schizophrenia,Phase 1
+T33584,Schizophrenia,Discontinued in Phase 1
+T34429,Schizophrenia,Approved
+T39610,Schizophrenia,Approved
+T42446,Schizophrenia,Phase 2
+T42748,Schizophrenia,Phase 2
+T43760,Schizophrenia,Phase 1
+T45674,Schizophrenia,Phase 3
+T46360,Schizophrenia,Phase 3
+T46828,Schizophrenia,Preclinical
+T47094,Schizophrenia,Phase 1
+T50444,Schizophrenia,Phase 2
+T54128,Schizophrenia,Phase 2/3
+T56367,Schizophrenia,Phase 1
+T56923,Schizophrenia,Preclinical
+T62292,Schizophrenia,Discontinued in Phase 1
+T62820,Schizophrenia,Phase 1
+T63068,Schizophrenia,Approved
+T63967,Schizophrenia,Discontinued in Phase 2
+T64382,Schizophrenia,Phase 2
+T64591,Schizophrenia,Terminated
+T64765,Schizophrenia,Phase 3
+T64795,Schizophrenia,Approved
+T67162,Schizophrenia,Approved
+T69494,Schizophrenia,Approved
+T69685,Schizophrenia,Phase 3
+T72065,Schizophrenia,Phase 2
+T72841,Schizophrenia,Phase 4
+T75984,Schizophrenia,Phase 2
+T76685,Schizophrenia,Discontinued in Phase 1
+T76904,Schizophrenia,Preclinical
+T77365,Schizophrenia,Discontinued in Phase 2
+T77913,Schizophrenia,Phase 2
+T78111,Schizophrenia,Discontinued in Phase 2
+T78709,Schizophrenia,Phase 3
+T79062,Schizophrenia,Phase 2
+T79724,Schizophrenia,Preclinical
+T79961,Schizophrenia,Discontinued in Phase 1
+T82668,Schizophrenia,Preclinical
+T83813,Schizophrenia,Phase 3
+T84133,Schizophrenia,Phase 2
+T84160,Schizophrenia,Phase 1
+T85605,Schizophrenia,Approved
+T85799,Schizophrenia,Terminated
+T89361,Schizophrenia,Terminated
+T93662,Schizophrenia,Approved
+T99347,Schizophrenia,Phase 1
+T99524,Schizophrenia,Phase 3
+T06569,Seborrhoeic dermatitis,Approved
+T13201,Seborrhoeic dermatitis,Approved
+T16987,Seborrhoeic dermatitis,Approved
+T20401,Seborrhoeic dermatitis,Approved
+T43920,Seborrhoeic dermatitis,Approved
+T53378,Seborrhoeic dermatitis,Approved
+T60529,Seborrhoeic dermatitis,Approved
+T87975,Seborrhoeic dermatitis,Approved
+T02703,Sepsis,Phase 3
+T20178,Sepsis,Discontinued in Phase 3
+T20297,Sepsis,Discontinued in Phase 2
+T21960,Sepsis,Investigative
+T23212,Sepsis,Phase 2
+T23714,Sepsis,Phase 2
+T33754,Sepsis,Terminated
+T34743,Sepsis,Approved
+T40332,Sepsis,Investigative
+T44068,Sepsis,Approved
+T49814,Sepsis,Approved
+T50269,Sepsis,Terminated
+T52110,Sepsis,Discontinued in Phase 2
+T55285,Sepsis,Terminated
+T69912,Sepsis,Discontinued in Phase 3
+T78890,Sepsis,Phase 3
+T79232,Sepsis,Phase 2
+T80896,Sepsis,Phase 1
+T81443,Sepsis,Phase 3
+T83369,Sepsis,Discontinued in Phase 1
+T87023,Sepsis,Phase 2
+T87946,Sepsis,Discontinued in Phase 2
+T92072,Sepsis,Investigative
+T92138,Sepsis,Discontinued in Phase 1
+T92144,Sepsis,Investigative
+T01777,Sexual dysfunction,Discontinued in Phase 2
+T11448,Sexual dysfunction,Discontinued in Phase 2
+T21960,Sexual dysfunction,Preclinical
+T23547,Sexual dysfunction,Preclinical
+T34429,Sexual dysfunction,Preclinical
+T44141,Sexual dysfunction,Preclinical
+T55860,Sexual dysfunction,Preclinical
+T67162,Sexual dysfunction,Phase 2
+T72458,Sexual dysfunction,Phase 3
+T76846,Sexual dysfunction,Preclinical
+T99840,Sexual dysfunction,Preclinical
+T14342,Sexually transmitted infection,Phase 3
+T06955,Sezary syndrome,Approved
+T08029,Sickle-cell disorder,Phase 2
+T10965,Sickle-cell disorder,Phase 4
+T17852,Sickle-cell disorder,Phase 2
+T26470,Sickle-cell disorder,Phase 1/2
+T31458,Sickle-cell disorder,Phase 2/3
+T31825,Sickle-cell disorder,Phase 1
+T49493,Sickle-cell disorder,Approved
+T49689,Sickle-cell disorder,Phase 1
+T71369,Sickle-cell disorder,Phase 1
+T71398,Sickle-cell disorder,Phase 2
+T72835,Sickle-cell disorder,Phase 1
+T80886,Sickle-cell disorder,Phase 1
+T88304,Sickle-cell disorder,Phase 1
+T06020,Sjogren syndrome,Phase 2
+T14755,Sjogren syndrome,Phase 1
+T16144,Sjogren syndrome,Phase 2
+T35232,Sjogren syndrome,Phase 1
+T45758,Sjogren syndrome,Phase 2
+T67684,Sjogren syndrome,Approved
+T67849,Sjogren syndrome,Phase 2
+T68001,Sjogren syndrome,Phase 2
+T68290,Sjogren syndrome,Phase 2
+T83687,Sjogren syndrome,Phase 2
+T97873,Sjogren syndrome,Phase 1
+T22348,Skin and skin-structure infection,Phase 2
+T34743,Skin and skin-structure infection,Phase 3
+T72545,Skin and skin-structure infection,Phase 2
+T46482,Skin cancer,Approved
+T66505,Skin cancer,Phase 2
+T83011,Skin cancer,Patented
+T11451,Skin disease,Phase 2
+T68066,Skin disease,Approved
+T83145,Skin disease,Patented
+T86836,Skin disease,Phase 1
+T93711,Skin disease,Investigative
+T20251,Sleep-wake disorder,Phase 3
+T32060,Sleep-wake disorder,Phase 3
+T62292,Sleep-wake disorder,Phase 2
+T64765,Sleep-wake disorder,Phase 1
+T73482,Sleep-wake disorder,Terminated
+T77913,Sleep-wake disorder,Approved
+T79062,Sleep-wake disorder,Terminated
+T83813,Sleep-wake disorder,Phase 3
+T84457,Sleep-wake disorder,Phase 2
+T97613,Sleep-wake disorder,Terminated
+T27495,Smallpox,Approved
+T31479,Snakebite,Phase 2
+T11754,Social anxiety disorder,Phase 2
+T84457,Social anxiety disorder,Phase 3
+T00100,Solid tumour/cancer,Phase 1
+T00140,Solid tumour/cancer,Phase 2
+T00176,Solid tumour/cancer,Phase 3
+T00254,Solid tumour/cancer,Preclinical
+T00484,Solid tumour/cancer,Investigative
+T00749,Solid tumour/cancer,Phase 1/2
+T00884,Solid tumour/cancer,Phase 1
+T01003,Solid tumour/cancer,Investigative
+T01110,Solid tumour/cancer,Phase 2
+T01232,Solid tumour/cancer,Phase 1/2
+T01271,Solid tumour/cancer,Investigative
+T01521,Solid tumour/cancer,Preclinical
+T01840,Solid tumour/cancer,Terminated
+T01973,Solid tumour/cancer,Investigative
+T02134,Solid tumour/cancer,Investigative
+T02246,Solid tumour/cancer,Phase 1
+T02258,Solid tumour/cancer,Phase 3
+T02551,Solid tumour/cancer,Phase 1
+T02617,Solid tumour/cancer,Phase 1
+T02677,Solid tumour/cancer,Phase 3
+T02703,Solid tumour/cancer,Phase 3
+T03189,Solid tumour/cancer,Phase 1/2
+T03313,Solid tumour/cancer,Phase 1
+T03346,Solid tumour/cancer,Phase 2
+T03513,Solid tumour/cancer,Phase 1
+T03634,Solid tumour/cancer,Phase 1/2
+T03672,Solid tumour/cancer,Phase 1
+T03755,Solid tumour/cancer,Discontinued in Phase 2
+T03871,Solid tumour/cancer,Investigative
+T03917,Solid tumour/cancer,Phase 2
+T04084,Solid tumour/cancer,Investigative
+T04741,Solid tumour/cancer,Investigative
+T05031,Solid tumour/cancer,Phase 1
+T05090,Solid tumour/cancer,Phase 1
+T05849,Solid tumour/cancer,Phase 3
+T06011,Solid tumour/cancer,Phase 2
+T06037,Solid tumour/cancer,Investigative
+T06093,Solid tumour/cancer,Investigative
+T06128,Solid tumour/cancer,Phase 1/2
+T06273,Solid tumour/cancer,Phase 1/2
+T06475,Solid tumour/cancer,Phase 2
+T06569,Solid tumour/cancer,Phase 3
+T06841,Solid tumour/cancer,Phase 1
+T06869,Solid tumour/cancer,Phase 3
+T06955,Solid tumour/cancer,Phase 1/2
+T06958,Solid tumour/cancer,Phase 1/2
+T07173,Solid tumour/cancer,Approved
+T07279,Solid tumour/cancer,Phase 1
+T07303,Solid tumour/cancer,Phase 3
+T07394,Solid tumour/cancer,Phase 1/2
+T07893,Solid tumour/cancer,Phase 1
+T07931,Solid tumour/cancer,Phase 2
+T08133,Solid tumour/cancer,Phase 1
+T08326,Solid tumour/cancer,Investigative
+T08391,Solid tumour/cancer,Phase 3
+T08499,Solid tumour/cancer,Phase 1
+T09058,Solid tumour/cancer,Phase 2/3
+T09092,Solid tumour/cancer,Phase 1
+T09528,Solid tumour/cancer,Preclinical
+T09756,Solid tumour/cancer,Discontinued in Phase 1
+T09826,Solid tumour/cancer,Approved
+T09937,Solid tumour/cancer,Phase 2
+T09960,Solid tumour/cancer,Phase 1
+T10091,Solid tumour/cancer,Investigative
+T10191,Solid tumour/cancer,Investigative
+T10491,Solid tumour/cancer,Preclinical
+T10877,Solid tumour/cancer,Phase 1
+T10937,Solid tumour/cancer,Investigative
+T10965,Solid tumour/cancer,Discontinued in Phase 2
+T11069,Solid tumour/cancer,Phase 1
+T11211,Solid tumour/cancer,Investigative
+T11309,Solid tumour/cancer,Phase 1
+T11451,Solid tumour/cancer,Phase 2
+T11822,Solid tumour/cancer,Phase 2
+T12091,Solid tumour/cancer,Phase 1
+T12097,Solid tumour/cancer,Phase 1
+T12355,Solid tumour/cancer,Phase 1
+T12475,Solid tumour/cancer,Approved
+T12499,Solid tumour/cancer,Phase 2
+T12646,Solid tumour/cancer,Phase 1
+T13057,Solid tumour/cancer,Phase 1/2
+T13127,Solid tumour/cancer,Phase 1
+T13201,Solid tumour/cancer,Phase 3
+T13348,Solid tumour/cancer,Phase 1
+T13616,Solid tumour/cancer,Investigative
+T13629,Solid tumour/cancer,Patented
+T13741,Solid tumour/cancer,Phase 1
+T13852,Solid tumour/cancer,Terminated
+T14037,Solid tumour/cancer,Phase 1
+T14231,Solid tumour/cancer,Phase 1
+T14342,Solid tumour/cancer,Phase 1/2
+T14558,Solid tumour/cancer,Approved
+T14592,Solid tumour/cancer,Investigative
+T14597,Solid tumour/cancer,Phase 2
+T14731,Solid tumour/cancer,Investigative
+T14755,Solid tumour/cancer,Phase 1
+T14875,Solid tumour/cancer,Preclinical
+T14912,Solid tumour/cancer,Phase 2
+T14945,Solid tumour/cancer,Terminated
+T15000,Solid tumour/cancer,Phase 3
+T15023,Solid tumour/cancer,Phase 1
+T15068,Solid tumour/cancer,Phase 1
+T15344,Solid tumour/cancer,Phase 2
+T15497,Solid tumour/cancer,Clinical trial
+T15510,Solid tumour/cancer,Phase 1/2
+T15556,Solid tumour/cancer,Terminated
+T15700,Solid tumour/cancer,Investigative
+T15739,Solid tumour/cancer,Phase 2
+T15776,Solid tumour/cancer,Patented
+T15783,Solid tumour/cancer,Phase 1/2
+T15797,Solid tumour/cancer,Preclinical
+T15855,Solid tumour/cancer,Phase 1
+T16353,Solid tumour/cancer,Investigative
+T16422,Solid tumour/cancer,Phase 3
+T16514,Solid tumour/cancer,Phase 1
+T16601,Solid tumour/cancer,Phase 2
+T16739,Solid tumour/cancer,Phase 1
+T16769,Solid tumour/cancer,Phase 2
+T16784,Solid tumour/cancer,Phase 1/2
+T16808,Solid tumour/cancer,Phase 1
+T16868,Solid tumour/cancer,Phase 2
+T16987,Solid tumour/cancer,Phase 3
+T17048,Solid tumour/cancer,Phase 2
+T17067,Solid tumour/cancer,Preclinical
+T17163,Solid tumour/cancer,Investigative
+T17345,Solid tumour/cancer,Approved
+T17629,Solid tumour/cancer,Phase 1/2
+T17687,Solid tumour/cancer,Phase 2/3
+T17758,Solid tumour/cancer,Discontinued in Phase 1/2
+T17980,Solid tumour/cancer,Phase 1
+T17986,Solid tumour/cancer,Phase 1
+T18477,Solid tumour/cancer,Phase 2
+T18551,Solid tumour/cancer,Patented
+T18779,Solid tumour/cancer,Phase 2
+T18876,Solid tumour/cancer,Phase 1
+T18950,Solid tumour/cancer,Phase 2
+T18972,Solid tumour/cancer,Phase 1
+T19011,Solid tumour/cancer,Terminated
+T19229,Solid tumour/cancer,Phase 3
+T19334,Solid tumour/cancer,Phase 1
+T19579,Solid tumour/cancer,Phase 1/2
+T19852,Solid tumour/cancer,Phase 1
+T20103,Solid tumour/cancer,Preclinical
+T20178,Solid tumour/cancer,Phase 2
+T20185,Solid tumour/cancer,Phase 2
+T20297,Solid tumour/cancer,Discontinued in Phase 3
+T20333,Solid tumour/cancer,Phase 2
+T20401,Solid tumour/cancer,Phase 3
+T20575,Solid tumour/cancer,Phase 1
+T20593,Solid tumour/cancer,Phase 1
+T20710,Solid tumour/cancer,Phase 2
+T20761,Solid tumour/cancer,Phase 2
+T20891,Solid tumour/cancer,Investigative
+T20978,Solid tumour/cancer,Phase 1/2
+T21112,Solid tumour/cancer,Approved
+T21123,Solid tumour/cancer,Phase 1
+T21307,Solid tumour/cancer,Phase 1
+T21312,Solid tumour/cancer,Phase 1
+T21617,Solid tumour/cancer,Phase 1
+T21669,Solid tumour/cancer,Phase 3
+T21960,Solid tumour/cancer,Phase 1/2
+T22095,Solid tumour/cancer,Phase 1
+T22274,Solid tumour/cancer,Phase 1
+T22655,Solid tumour/cancer,Phase 1
+T22658,Solid tumour/cancer,Phase 2
+T22939,Solid tumour/cancer,Approved
+T22977,Solid tumour/cancer,Phase 2
+T23003,Solid tumour/cancer,Phase 3
+T23178,Solid tumour/cancer,Phase 1
+T23276,Solid tumour/cancer,Phase 1/2
+T23348,Solid tumour/cancer,Terminated
+T23499,Solid tumour/cancer,Discontinued in Phase 1
+T23666,Solid tumour/cancer,Phase 1
+T23673,Solid tumour/cancer,Phase 2
+T23714,Solid tumour/cancer,Investigative
+T23787,Solid tumour/cancer,Phase 1
+T23953,Solid tumour/cancer,Phase 1
+T25005,Solid tumour/cancer,Phase 2
+T25258,Solid tumour/cancer,Phase 1
+T25265,Solid tumour/cancer,Phase 2
+T25307,Solid tumour/cancer,Phase 2
+T25315,Solid tumour/cancer,Preclinical
+T25537,Solid tumour/cancer,Phase 1
+T25663,Solid tumour/cancer,Phase 2
+T25726,Solid tumour/cancer,Phase 2
+T25889,Solid tumour/cancer,Investigative
+T25956,Solid tumour/cancer,Phase 1/2
+T26170,Solid tumour/cancer,Phase 1
+T26226,Solid tumour/cancer,Phase 2
+T27021,Solid tumour/cancer,Discontinued in Phase 2
+T27106,Solid tumour/cancer,Phase 1/2
+T27602,Solid tumour/cancer,Investigative
+T27736,Solid tumour/cancer,Phase 1
+T27812,Solid tumour/cancer,Investigative
+T27826,Solid tumour/cancer,Phase 1
+T27861,Solid tumour/cancer,Phase 1
+T27918,Solid tumour/cancer,Phase 1
+T28484,Solid tumour/cancer,Phase 2
+T28661,Solid tumour/cancer,Approved
+T28713,Solid tumour/cancer,Phase 2
+T28717,Solid tumour/cancer,Phase 1
+T28887,Solid tumour/cancer,Phase 1
+T28893,Solid tumour/cancer,Phase 1
+T28925,Solid tumour/cancer,Phase 2
+T29130,Solid tumour/cancer,Phase 3
+T29144,Solid tumour/cancer,Phase 1/2
+T29339,Solid tumour/cancer,Phase 1
+T29774,Solid tumour/cancer,Phase 1
+T30081,Solid tumour/cancer,Phase 2
+T30082,Solid tumour/cancer,Discontinued in Phase 2
+T30418,Solid tumour/cancer,Phase 1
+T30420,Solid tumour/cancer,Preclinical
+T30635,Solid tumour/cancer,Phase 1
+T30687,Solid tumour/cancer,Phase 1
+T30784,Solid tumour/cancer,Phase 2
+T30823,Solid tumour/cancer,Terminated
+T31072,Solid tumour/cancer,Phase 1
+T31309,Solid tumour/cancer,Approved
+T31329,Solid tumour/cancer,Phase 2
+T31600,Solid tumour/cancer,Phase 1
+T31621,Solid tumour/cancer,Phase 3
+T31902,Solid tumour/cancer,Investigative
+T31946,Solid tumour/cancer,Phase 3
+T31992,Solid tumour/cancer,Phase 3
+T32880,Solid tumour/cancer,Investigative
+T32973,Solid tumour/cancer,Phase 2/3
+T33990,Solid tumour/cancer,Phase 2
+T34234,Solid tumour/cancer,Discontinued in Phase 2
+T34296,Solid tumour/cancer,Phase 3
+T34624,Solid tumour/cancer,Phase 1/2
+T34867,Solid tumour/cancer,Phase 3
+T35063,Solid tumour/cancer,Phase 1/2
+T35173,Solid tumour/cancer,Phase 2
+T35232,Solid tumour/cancer,Phase 1
+T35465,Solid tumour/cancer,Phase 3
+T35474,Solid tumour/cancer,Investigative
+T35486,Solid tumour/cancer,Phase 2
+T35591,Solid tumour/cancer,Phase 1/2
+T35792,Solid tumour/cancer,Preclinical
+T35940,Solid tumour/cancer,Discontinued in Phase 1
+T36059,Solid tumour/cancer,Phase 3
+T36467,Solid tumour/cancer,Phase 1
+T36479,Solid tumour/cancer,Phase 1
+T36741,Solid tumour/cancer,Phase 1
+T36958,Solid tumour/cancer,Phase 1
+T36959,Solid tumour/cancer,Phase 2
+T37012,Solid tumour/cancer,Phase 1
+T37434,Solid tumour/cancer,Phase 1
+T37847,Solid tumour/cancer,Phase 1/2
+T37848,Solid tumour/cancer,Phase 3
+T37952,Solid tumour/cancer,Phase 1/2
+T38201,Solid tumour/cancer,Phase 1
+T38301,Solid tumour/cancer,Approved
+T38529,Solid tumour/cancer,Phase 1
+T38875,Solid tumour/cancer,Phase 1
+T39047,Solid tumour/cancer,Phase 1/2
+T39054,Solid tumour/cancer,Phase 1
+T39716,Solid tumour/cancer,Discontinued in Phase 3
+T39797,Solid tumour/cancer,Phase 1
+T39996,Solid tumour/cancer,Preclinical
+T40016,Solid tumour/cancer,Approved
+T40045,Solid tumour/cancer,Discontinued in Phase 1
+T40097,Solid tumour/cancer,Phase 1
+T40111,Solid tumour/cancer,Approved
+T40192,Solid tumour/cancer,Phase 2
+T40276,Solid tumour/cancer,Phase 2
+T40474,Solid tumour/cancer,Phase 3
+T40491,Solid tumour/cancer,Phase 1
+T40556,Solid tumour/cancer,Phase 1/2
+T40694,Solid tumour/cancer,Phase 3
+T40800,Solid tumour/cancer,Phase 1
+T40812,Solid tumour/cancer,Phase 1/2
+T40874,Solid tumour/cancer,Phase 2
+T40954,Solid tumour/cancer,Phase 3
+T41141,Solid tumour/cancer,Patented
+T41171,Solid tumour/cancer,Phase 1
+T41380,Solid tumour/cancer,Phase 1
+T41515,Solid tumour/cancer,Phase 1/2
+T41560,Solid tumour/cancer,Phase 1
+T41955,Solid tumour/cancer,Phase 1
+T41963,Solid tumour/cancer,Phase 2
+T42000,Solid tumour/cancer,Investigative
+T42446,Solid tumour/cancer,Phase 3
+T42658,Solid tumour/cancer,Preclinical
+T43189,Solid tumour/cancer,Approved
+T43718,Solid tumour/cancer,Phase 1
+T43760,Solid tumour/cancer,Phase 1
+T43920,Solid tumour/cancer,Phase 3
+T43980,Solid tumour/cancer,Phase 1
+T44141,Solid tumour/cancer,Phase 1
+T44458,Solid tumour/cancer,Phase 1
+T44513,Solid tumour/cancer,Phase 1
+T44818,Solid tumour/cancer,Phase 1
+T45196,Solid tumour/cancer,Phase 1
+T45591,Solid tumour/cancer,Phase 1/2
+T45597,Solid tumour/cancer,Phase 1
+T45598,Solid tumour/cancer,Phase 1
+T45612,Solid tumour/cancer,Phase 2
+T45758,Solid tumour/cancer,Phase 1
+T46084,Solid tumour/cancer,Phase 1
+T46365,Solid tumour/cancer,Terminated
+T46456,Solid tumour/cancer,Phase 1
+T46482,Solid tumour/cancer,Phase 1/2
+T46521,Solid tumour/cancer,Investigative
+T46524,Solid tumour/cancer,Phase 1
+T46642,Solid tumour/cancer,Discontinued in Phase 1
+T46781,Solid tumour/cancer,Phase 3
+T46789,Solid tumour/cancer,Phase 1
+T47077,Solid tumour/cancer,Terminated
+T47087,Solid tumour/cancer,Discontinued in Phase 1
+T47094,Solid tumour/cancer,Phase 3
+T47101,Solid tumour/cancer,Phase 3
+T47165,Solid tumour/cancer,Phase 2
+T47387,Solid tumour/cancer,Phase 2
+T47863,Solid tumour/cancer,Phase 1
+T47864,Solid tumour/cancer,Phase 1
+T47885,Solid tumour/cancer,Investigative
+T48069,Solid tumour/cancer,Phase 3
+T48429,Solid tumour/cancer,Phase 1/2
+T48598,Solid tumour/cancer,Phase 1
+T48703,Solid tumour/cancer,Phase 1/2
+T48945,Solid tumour/cancer,Approved
+T49105,Solid tumour/cancer,Phase 1
+T49146,Solid tumour/cancer,Phase 2
+T49156,Solid tumour/cancer,Phase 1
+T49453,Solid tumour/cancer,Phase 1/2
+T49507,Solid tumour/cancer,Investigative
+T49639,Solid tumour/cancer,Phase 1
+T49755,Solid tumour/cancer,Phase 1
+T49898,Solid tumour/cancer,Phase 2
+T49989,Solid tumour/cancer,Phase 1
+T50461,Solid tumour/cancer,Terminated
+T50594,Solid tumour/cancer,Phase 1
+T50699,Solid tumour/cancer,Phase 1
+T51038,Solid tumour/cancer,Approved
+T51076,Solid tumour/cancer,Approved
+T51191,Solid tumour/cancer,Phase 1
+T51282,Solid tumour/cancer,Investigative
+T51407,Solid tumour/cancer,Phase 2
+T51425,Solid tumour/cancer,Phase 1
+T51565,Solid tumour/cancer,Phase 1
+T51666,Solid tumour/cancer,Preclinical
+T51693,Solid tumour/cancer,Phase 1
+T51694,Solid tumour/cancer,Discontinued in Phase 2
+T51883,Solid tumour/cancer,Phase 2
+T52036,Solid tumour/cancer,Preclinical
+T52227,Solid tumour/cancer,Approved
+T52316,Solid tumour/cancer,Phase 2
+T52389,Solid tumour/cancer,Phase 1
+T52450,Solid tumour/cancer,Terminated
+T52624,Solid tumour/cancer,Phase 2
+T52671,Solid tumour/cancer,Phase 1
+T53251,Solid tumour/cancer,Preclinical
+T53378,Solid tumour/cancer,Phase 3
+T53389,Solid tumour/cancer,Phase 1/2
+T53524,Solid tumour/cancer,Phase 3
+T53764,Solid tumour/cancer,Phase 2
+T54093,Solid tumour/cancer,Phase 1
+T54156,Solid tumour/cancer,Phase 3
+T54379,Solid tumour/cancer,Phase 1
+T54582,Solid tumour/cancer,Phase 1/2
+T54644,Solid tumour/cancer,Investigative
+T55273,Solid tumour/cancer,Phase 2
+T55293,Solid tumour/cancer,Phase 2
+T55610,Solid tumour/cancer,Phase 3
+T55709,Solid tumour/cancer,Phase 1
+T55781,Solid tumour/cancer,Phase 1
+T55860,Solid tumour/cancer,Phase 2
+T55922,Solid tumour/cancer,Phase 2
+T56051,Solid tumour/cancer,Preclinical
+T56349,Solid tumour/cancer,Phase 1
+T56367,Solid tumour/cancer,Terminated
+T56418,Solid tumour/cancer,Phase 2
+T56510,Solid tumour/cancer,Phase 2
+T56923,Solid tumour/cancer,Phase 1
+T57059,Solid tumour/cancer,Phase 1
+T57278,Solid tumour/cancer,Phase 1/2
+T57585,Solid tumour/cancer,Phase 2
+T57680,Solid tumour/cancer,Phase 3
+T57700,Solid tumour/cancer,Phase 2
+T57941,Solid tumour/cancer,Phase 1
+T57943,Solid tumour/cancer,Investigative
+T58184,Solid tumour/cancer,Phase 1
+T58238,Solid tumour/cancer,Phase 1
+T58298,Solid tumour/cancer,Phase 1
+T58449,Solid tumour/cancer,Phase 2
+T58454,Solid tumour/cancer,Phase 3
+T58679,Solid tumour/cancer,Phase 1
+T58772,Solid tumour/cancer,Phase 2
+T58970,Solid tumour/cancer,Phase 1/2
+T58998,Solid tumour/cancer,Phase 1/2
+T59001,Solid tumour/cancer,Phase 1/2
+T59102,Solid tumour/cancer,Phase 3
+T59190,Solid tumour/cancer,Investigative
+T59273,Solid tumour/cancer,Phase 1/2
+T59328,Solid tumour/cancer,Approved
+T59480,Solid tumour/cancer,Phase 1/2
+T59550,Solid tumour/cancer,Preclinical
+T59604,Solid tumour/cancer,Phase 2
+T59631,Solid tumour/cancer,Phase 3
+T59654,Solid tumour/cancer,Investigative
+T59735,Solid tumour/cancer,Terminated
+T59909,Solid tumour/cancer,Terminated
+T60345,Solid tumour/cancer,Phase 2
+T60529,Solid tumour/cancer,Phase 3
+T60631,Solid tumour/cancer,Approved
+T60930,Solid tumour/cancer,Phase 1
+T61339,Solid tumour/cancer,Investigative
+T61484,Solid tumour/cancer,Investigative
+T61544,Solid tumour/cancer,Phase 2
+T61683,Solid tumour/cancer,Phase 2
+T61698,Solid tumour/cancer,Phase 1/2
+T61722,Solid tumour/cancer,Clinical trial
+T62431,Solid tumour/cancer,Phase 1
+T62449,Solid tumour/cancer,Phase 2
+T62705,Solid tumour/cancer,Phase 2
+T62739,Solid tumour/cancer,Phase 1
+T62753,Solid tumour/cancer,Phase 2
+T62841,Solid tumour/cancer,Patented
+T63083,Solid tumour/cancer,Phase 1/2
+T63414,Solid tumour/cancer,Phase 1/2
+T63505,Solid tumour/cancer,Phase 2
+T63512,Solid tumour/cancer,Patented
+T63816,Solid tumour/cancer,Investigative
+T63966,Solid tumour/cancer,Phase 3
+T64242,Solid tumour/cancer,Discontinued in Phase 1
+T64258,Solid tumour/cancer,Approved
+T64376,Solid tumour/cancer,Phase 1
+T64567,Solid tumour/cancer,Phase 3
+T64721,Solid tumour/cancer,Phase 2
+T64774,Solid tumour/cancer,Phase 1/2
+T64795,Solid tumour/cancer,Investigative
+T65019,Solid tumour/cancer,Phase 1/2a
+T65116,Solid tumour/cancer,Phase 1
+T65197,Solid tumour/cancer,Approved
+T65236,Solid tumour/cancer,Phase 1/2
+T65501,Solid tumour/cancer,Phase 3
+T65755,Solid tumour/cancer,Registered
+T65864,Solid tumour/cancer,Terminated
+T65868,Solid tumour/cancer,Withdrawn from market
+T65879,Solid tumour/cancer,Investigative
+T65883,Solid tumour/cancer,Phase 1/2
+T65889,Solid tumour/cancer,Phase 1
+T66252,Solid tumour/cancer,Phase 1
+T66505,Solid tumour/cancer,Approved
+T66514,Solid tumour/cancer,Phase 1
+T66665,Solid tumour/cancer,Phase 3
+T66903,Solid tumour/cancer,Phase 1
+T67022,Solid tumour/cancer,Terminated
+T67103,Solid tumour/cancer,Phase 1
+T67162,Solid tumour/cancer,Phase 1
+T67363,Solid tumour/cancer,Phase 2
+T67619,Solid tumour/cancer,Phase 2
+T67805,Solid tumour/cancer,Phase 1
+T67849,Solid tumour/cancer,Phase 1
+T67894,Solid tumour/cancer,Phase 2
+T67908,Solid tumour/cancer,Phase 1/2
+T67952,Solid tumour/cancer,Discontinued in Phase 3
+T68001,Solid tumour/cancer,Phase 1
+T68066,Solid tumour/cancer,Approved
+T68163,Solid tumour/cancer,Phase 1
+T68251,Solid tumour/cancer,Discontinued in Phase 2
+T68290,Solid tumour/cancer,Investigative
+T68470,Solid tumour/cancer,Preclinical
+T68525,Solid tumour/cancer,Phase 1
+T68536,Solid tumour/cancer,Approved
+T68547,Solid tumour/cancer,Registered
+T68668,Solid tumour/cancer,Discontinued in Phase 2
+T68782,Solid tumour/cancer,Clinical trial
+T68887,Solid tumour/cancer,Phase 1
+T69128,Solid tumour/cancer,Phase 2
+T69189,Solid tumour/cancer,Approved
+T69563,Solid tumour/cancer,Phase 1
+T69707,Solid tumour/cancer,Phase 1
+T69823,Solid tumour/cancer,Phase 1/2
+T69991,Solid tumour/cancer,Phase 1
+T70067,Solid tumour/cancer,Phase 2
+T70101,Solid tumour/cancer,Phase 1
+T70176,Solid tumour/cancer,Phase 2
+T70234,Solid tumour/cancer,Terminated
+T70508,Solid tumour/cancer,Phase 2
+T70792,Solid tumour/cancer,Phase 2
+T70977,Solid tumour/cancer,Phase 1
+T71164,Solid tumour/cancer,Phase 1/2
+T71167,Solid tumour/cancer,Phase 1
+T71266,Solid tumour/cancer,Phase 2
+T71398,Solid tumour/cancer,Phase 3
+T71479,Solid tumour/cancer,Phase 1
+T71536,Solid tumour/cancer,Phase 2
+T72042,Solid tumour/cancer,Phase 1
+T72168,Solid tumour/cancer,Investigative
+T72514,Solid tumour/cancer,Phase 1
+T72702,Solid tumour/cancer,Phase 2
+T72835,Solid tumour/cancer,Phase 1
+T73097,Solid tumour/cancer,Phase 2
+T73215,Solid tumour/cancer,Phase 2
+T73342,Solid tumour/cancer,Phase 1
+T73404,Solid tumour/cancer,Phase 2
+T73475,Solid tumour/cancer,Terminated
+T73476,Solid tumour/cancer,Investigative
+T73726,Solid tumour/cancer,Phase 3
+T73756,Solid tumour/cancer,Phase 1/2
+T73992,Solid tumour/cancer,Clinical trial
+T74002,Solid tumour/cancer,Phase 2
+T74073,Solid tumour/cancer,Phase 1/2
+T74312,Solid tumour/cancer,Phase 2
+T74839,Solid tumour/cancer,Investigative
+T74977,Solid tumour/cancer,Phase 1
+T75243,Solid tumour/cancer,Approved
+T75440,Solid tumour/cancer,Phase 2
+T75498,Solid tumour/cancer,Phase 2
+T75499,Solid tumour/cancer,Approved
+T75570,Solid tumour/cancer,Phase 1
+T75596,Solid tumour/cancer,Phase 3
+T75613,Solid tumour/cancer,Preclinical
+T75797,Solid tumour/cancer,Clinical trial
+T75890,Solid tumour/cancer,Approved
+T76093,Solid tumour/cancer,Phase 1
+T76198,Solid tumour/cancer,Clinical trial
+T76233,Solid tumour/cancer,Phase 1/2
+T76396,Solid tumour/cancer,Terminated
+T77158,Solid tumour/cancer,Discontinued in Phase 2
+T77365,Solid tumour/cancer,Phase 1
+T77534,Solid tumour/cancer,Phase 1
+T77594,Solid tumour/cancer,Phase 1
+T77645,Solid tumour/cancer,Discontinued in Phase 1/2
+T78319,Solid tumour/cancer,Phase 1
+T78393,Solid tumour/cancer,Investigative
+T78874,Solid tumour/cancer,Phase 2/3
+T79027,Solid tumour/cancer,Phase 2
+T79162,Solid tumour/cancer,Phase 1
+T79249,Solid tumour/cancer,Approved
+T79473,Solid tumour/cancer,Investigative
+T79747,Solid tumour/cancer,Phase 1
+T79961,Solid tumour/cancer,Phase 3
+T80011,Solid tumour/cancer,Phase 2
+T80276,Solid tumour/cancer,Phase 2/3
+T80782,Solid tumour/cancer,Phase 2
+T80896,Solid tumour/cancer,Terminated
+T80942,Solid tumour/cancer,Phase 1/2
+T80975,Solid tumour/cancer,Approved
+T81358,Solid tumour/cancer,Phase 1
+T81386,Solid tumour/cancer,Phase 1
+T81443,Solid tumour/cancer,Phase 1
+T81569,Solid tumour/cancer,Phase 1
+T81695,Solid tumour/cancer,Phase 1
+T81735,Solid tumour/cancer,Phase 1/2
+T81892,Solid tumour/cancer,Phase 2
+T81916,Solid tumour/cancer,Phase 1
+T82078,Solid tumour/cancer,Phase 1/2
+T82105,Solid tumour/cancer,Phase 1/2
+T82277,Solid tumour/cancer,Phase 2
+T82383,Solid tumour/cancer,Phase 1/2
+T82665,Solid tumour/cancer,Phase 2
+T82795,Solid tumour/cancer,Approved
+T83059,Solid tumour/cancer,Phase 1/2
+T83145,Solid tumour/cancer,Phase 2
+T83174,Solid tumour/cancer,Terminated
+T83386,Solid tumour/cancer,Phase 2
+T83797,Solid tumour/cancer,Phase 1
+T83905,Solid tumour/cancer,Phase 1
+T83982,Solid tumour/cancer,Preclinical
+T84133,Solid tumour/cancer,Phase 1
+T84397,Solid tumour/cancer,Phase 2
+T84472,Solid tumour/cancer,Phase 1
+T84581,Solid tumour/cancer,Approved
+T84631,Solid tumour/cancer,Preclinical
+T84703,Solid tumour/cancer,Approved
+T84726,Solid tumour/cancer,Phase 1
+T84780,Solid tumour/cancer,Phase 2
+T84894,Solid tumour/cancer,Phase 1
+T85072,Solid tumour/cancer,Phase 1
+T85076,Solid tumour/cancer,Phase 2
+T85241,Solid tumour/cancer,Preclinical
+T85421,Solid tumour/cancer,Phase 2
+T85467,Solid tumour/cancer,Clinical trial
+T85544,Solid tumour/cancer,Phase 2
+T85554,Solid tumour/cancer,Phase 1
+T85616,Solid tumour/cancer,Phase 2
+T85651,Solid tumour/cancer,Phase 2
+T85733,Solid tumour/cancer,Phase 1
+T85799,Solid tumour/cancer,Phase 3
+T85943,Solid tumour/cancer,Approved
+T86052,Solid tumour/cancer,Phase 1
+T86072,Solid tumour/cancer,Phase 1
+T86254,Solid tumour/cancer,Phase 2
+T86350,Solid tumour/cancer,Phase 2
+T86399,Solid tumour/cancer,Phase 1
+T86428,Solid tumour/cancer,Terminated
+T86528,Solid tumour/cancer,Investigative
+T86591,Solid tumour/cancer,Phase 1
+T86679,Solid tumour/cancer,IND submitted
+T86734,Solid tumour/cancer,Phase 2
+T86803,Solid tumour/cancer,Phase 1/2
+T86836,Solid tumour/cancer,Approved
+T87023,Solid tumour/cancer,Discontinued in Phase 1
+T87024,Solid tumour/cancer,Phase 3
+T87075,Solid tumour/cancer,Phase 1
+T87108,Solid tumour/cancer,Phase 1/2
+T87608,Solid tumour/cancer,Discontinued in Phase 1
+T87675,Solid tumour/cancer,Phase 3
+T87871,Solid tumour/cancer,Phase 2
+T87946,Solid tumour/cancer,Terminated
+T88023,Solid tumour/cancer,Phase 2
+T88304,Solid tumour/cancer,Phase 2
+T88318,Solid tumour/cancer,Phase 2
+T88430,Solid tumour/cancer,Phase 1
+T88569,Solid tumour/cancer,Phase 1
+T89034,Solid tumour/cancer,Investigative
+T89055,Solid tumour/cancer,Discontinued in Phase 1
+T89361,Solid tumour/cancer,Phase 3
+T89515,Solid tumour/cancer,Phase 2
+T89534,Solid tumour/cancer,Approved
+T89697,Solid tumour/cancer,Phase 2
+T89918,Solid tumour/cancer,Phase 2
+T89988,Solid tumour/cancer,Phase 1
+T90553,Solid tumour/cancer,Phase 1
+T90648,Solid tumour/cancer,Phase 2
+T90672,Solid tumour/cancer,Preclinical
+T90835,Solid tumour/cancer,Phase 1/2
+T90989,Solid tumour/cancer,Investigative
+T91331,Solid tumour/cancer,Phase 3
+T92057,Solid tumour/cancer,Phase 3
+T92124,Solid tumour/cancer,Phase 2
+T92144,Solid tumour/cancer,Phase 1
+T92308,Solid tumour/cancer,Phase 3
+T92828,Solid tumour/cancer,Phase 2
+T93061,Solid tumour/cancer,Phase 1
+T93062,Solid tumour/cancer,Discontinued in Phase 3
+T93092,Solid tumour/cancer,Phase 1
+T93450,Solid tumour/cancer,Phase 2
+T93548,Solid tumour/cancer,Phase 1
+T93711,Solid tumour/cancer,Investigative
+T93903,Solid tumour/cancer,Investigative
+T93923,Solid tumour/cancer,Phase 2
+T94033,Solid tumour/cancer,Investigative
+T94085,Solid tumour/cancer,Phase 1
+T94324,Solid tumour/cancer,Investigative
+T94444,Solid tumour/cancer,Approved
+T94479,Solid tumour/cancer,Phase 1
+T94718,Solid tumour/cancer,Phase 1/2
+T94880,Solid tumour/cancer,Phase 1
+T95108,Solid tumour/cancer,Phase 1
+T95289,Solid tumour/cancer,Phase 1
+T95385,Solid tumour/cancer,Phase 1
+T95913,Solid tumour/cancer,Phase 3
+T95998,Solid tumour/cancer,Phase 3
+T96079,Solid tumour/cancer,Phase 1/2
+T96144,Solid tumour/cancer,Approved
+T96592,Solid tumour/cancer,Discontinued in Phase 1
+T96623,Solid tumour/cancer,Phase 1
+T96721,Solid tumour/cancer,Phase 3
+T96736,Solid tumour/cancer,Discontinued in Phase 1
+T96788,Solid tumour/cancer,Investigative
+T97008,Solid tumour/cancer,Phase 1
+T97071,Solid tumour/cancer,Phase 2
+T97111,Solid tumour/cancer,Phase 1
+T97136,Solid tumour/cancer,Phase 1/2
+T97155,Solid tumour/cancer,Phase 1/2
+T97196,Solid tumour/cancer,Phase 1
+T97257,Solid tumour/cancer,IND submitted
+T97353,Solid tumour/cancer,Investigative
+T97553,Solid tumour/cancer,Phase 2
+T97592,Solid tumour/cancer,Phase 1
+T97655,Solid tumour/cancer,Investigative
+T97766,Solid tumour/cancer,Phase 1/2
+T97947,Solid tumour/cancer,Phase 1
+T98052,Solid tumour/cancer,Phase 1
+T98234,Solid tumour/cancer,Phase 1
+T98293,Solid tumour/cancer,Phase 1
+T98397,Solid tumour/cancer,Phase 1
+T98913,Solid tumour/cancer,Approved
+T99031,Solid tumour/cancer,Phase 1
+T99089,Solid tumour/cancer,Phase 2
+T99160,Solid tumour/cancer,Phase 1/2
+T99338,Solid tumour/cancer,Phase 1/2
+T99566,Solid tumour/cancer,Phase 1
+T99704,Solid tumour/cancer,Phase 1
+T99816,Solid tumour/cancer,Phase 2
+T99840,Solid tumour/cancer,Phase 2
+T99909,Solid tumour/cancer,Phase 2
+T99948,Solid tumour/cancer,Approved
+T99954,Solid tumour/cancer,Terminated
+T11451,Squamous cell carcinoma,Phase 1/2
+T29339,Squamous cell carcinoma,Phase 1
+T46482,Squamous cell carcinoma,Phase 1
+T48703,Squamous cell carcinoma,Phase 1
+T51693,Squamous cell carcinoma,Phase 2
+T59631,Squamous cell carcinoma,Phase 3
+T83797,Squamous cell carcinoma,Phase 2
+T86350,Squamous cell carcinoma,Phase 2
+T86836,Squamous cell carcinoma,Phase 1
+T87946,Squamous cell carcinoma,Phase 2
+T97766,Squamous cell carcinoma,Phase 1
+T99948,Squamous cell carcinoma,Phase 3
+T60345,Stomach cancer,Phase 1
+T65883,Stomach cancer,Phase 3
+T65883,Stomach cancer,Phase 1/2
+T67849,Stomach cancer,Approved
+T05849,Stomach disease,Phase 2
+T21945,Stomach disease,Phase 2
+T55959,Stomach disease,Phase 2
+T52921,Stress,Investigative
+T12097,Synovial sarcoma,Phase 2
+T25265,Synovial sarcoma,Phase 1
+T59702,Synovial sarcoma,Phase 1
+T82277,Synovial sarcoma,Phase 1/2
+T82494,Synovial sarcoma,Phase 1/2
+T85943,Synovial sarcoma,Phase 3
+T31479,Synthesis disorder,Approved
+T42822,Synthesis disorder,Approved
+T76369,Synthesis disorder,Approved
+T00239,Systemic sclerosis,Phase 2
+T03346,Systemic sclerosis,Phase 2
+T14731,Systemic sclerosis,Phase 3
+T19556,Systemic sclerosis,Phase 2
+T20178,Systemic sclerosis,Phase 3
+T29064,Systemic sclerosis,Approved
+T29143,Systemic sclerosis,Phase 2
+T60529,Systemic sclerosis,Phase 3
+T92640,Systemic sclerosis,Phase 2
+T95923,Systemic sclerosis,Phase 2
+T97257,Systemic sclerosis,Phase 1
+T40556,Testicular cancer,Phase 1
+T58998,Testicular cancer,Phase 1
+T65868,Testicular cancer,Approved
+T90985,Testicular cancer,Phase 1
+T99948,Testicular cancer,Phase 2
+T00140,Thrombocytopenia,Phase 4
+T14755,Thrombocytopenia,Phase 1
+T16156,Thrombocytopenia,Approved
+T23348,Thrombocytopenia,Approved
+T23666,Thrombocytopenia,Approved
+T39977,Thrombocytopenia,Phase 4
+T45758,Thrombocytopenia,Phase 1
+T47101,Thrombocytopenia,Approved
+T47610,Thrombocytopenia,Approved
+T51120,Thrombocytopenia,Investigative
+T53524,Thrombocytopenia,Approved
+T56308,Thrombocytopenia,Phase 3
+T57700,Thrombocytopenia,Approved
+T59102,Thrombocytopenia,Approved
+T60631,Thrombocytopenia,Approved
+T62431,Thrombocytopenia,Approved
+T73215,Thrombocytopenia,Phase 1/2
+T80782,Thrombocytopenia,Approved
+T80896,Thrombocytopenia,Discontinued in Phase 1
+T80975,Thrombocytopenia,Approved
+T87023,Thrombocytopenia,Terminated
+T89534,Thrombocytopenia,Discontinued in Phase 1
+T94033,Thrombocytopenia,Approved
+T99616,Thrombocytopenia,Approved
+T00140,Thrombosis,Discontinued in Phase 2
+T00496,Thrombosis,Phase 2
+T05031,Thrombosis,Terminated
+T10965,Thrombosis,Phase 1
+T11211,Thrombosis,Phase 2
+T11843,Thrombosis,Approved
+T11947,Thrombosis,Terminated
+T15497,Thrombosis,Phase 3
+T15556,Thrombosis,Phase 1
+T15803,Thrombosis,Phase 2
+T17427,Thrombosis,Phase 1/2
+T17758,Thrombosis,Phase 3
+T20297,Thrombosis,Terminated
+T23348,Thrombosis,Phase 1
+T26623,Thrombosis,Phase 2/3
+T34429,Thrombosis,Discontinued in Phase 2
+T36483,Thrombosis,Terminated
+T38509,Thrombosis,Phase 1
+T45151,Thrombosis,Terminated
+T46040,Thrombosis,Phase 2
+T46937,Thrombosis,Approved
+T47077,Thrombosis,Discontinued in Phase 3
+T50688,Thrombosis,Phase 1
+T53585,Thrombosis,Discontinued in Phase 2
+T54931,Thrombosis,Discontinued in Phase 2
+T62431,Thrombosis,Investigative
+T68782,Thrombosis,Phase 1
+T73476,Thrombosis,Phase 3
+T75984,Thrombosis,Terminated
+T76198,Thrombosis,Phase 2
+T78356,Thrombosis,Phase 1
+T82543,Thrombosis,Discontinued in Phase 2
+T82577,Thrombosis,Phase 2/3
+T83369,Thrombosis,Discontinued in Phase 3
+T84631,Thrombosis,Approved
+T87023,Thrombosis,Terminated
+T94033,Thrombosis,Approved
+T96144,Thrombosis,Phase 1
+T98022,Thrombosis,Phase 1
+T07448,Thrombotic microangiopathy,Phase 2
+T60708,Thrombotic microangiopathy,Phase 3
+T05849,Thyroid cancer,Phase 1
+T16601,Thyroid cancer,Phase 2
+T23003,Thyroid cancer,Phase 3
+T26203,Thyroid cancer,Phase 1
+T35940,Thyroid cancer,Phase 3
+T40474,Thyroid cancer,Approved
+T60606,Thyroid cancer,Approved
+T60631,Thyroid cancer,Approved
+T80975,Thyroid cancer,Approved
+T89055,Thyroid cancer,Phase 3
+T73476,Tinnitus,Approved
+T15739,Toxicity,Terminated
+T38179,Toxicity,Discontinued in Phase 2
+T71446,Toxicity,Investigative
+T99799,Toxicity,Investigative
+T17345,Toxoplasmosis,Phase 1
+T89515,Toxoplasmosis,Approved
+T01232,Transplant rejection,Phase 3
+T09960,Transplant rejection,Terminated
+T28925,Transplant rejection,Approved
+T40111,Transplant rejection,Approved
+T43115,Transplant rejection,Phase 1
+T45758,Transplant rejection,Phase 2
+T50912,Transplant rejection,Terminated
+T57011,Transplant rejection,Terminated
+T58238,Transplant rejection,Terminated
+T61729,Transplant rejection,Phase 1
+T75243,Transplant rejection,Approved
+T76059,Transplant rejection,Phase 1/2
+T88318,Transplant rejection,Phase 2
+T53748,Trypanosomiasis,Investigative
+T60366,Trypanosomiasis,Phase 2
+T95139,Trypanosomiasis,Approved
+T19414,Ulcer,Phase 2
+T95212,Ulcer,Discontinued in Phase 2
+T99948,Ulcer,Phase 0
+T00238,Ulcerative colitis,Phase 3
+T00884,Ulcerative colitis,Phase 2
+T03691,Ulcerative colitis,Phase 2
+T04389,Ulcerative colitis,Phase 2
+T05849,Ulcerative colitis,Phase 2
+T06438,Ulcerative colitis,Approved
+T06841,Ulcerative colitis,Phase 2
+T07403,Ulcerative colitis,Phase 2
+T13251,Ulcerative colitis,Approved
+T13852,Ulcerative colitis,Approved
+T14065,Ulcerative colitis,Approved
+T16888,Ulcerative colitis,Phase 2
+T18876,Ulcerative colitis,Investigative
+T20178,Ulcerative colitis,Phase 1
+T22655,Ulcerative colitis,Phase 3
+T22839,Ulcerative colitis,Phase 3
+T23666,Ulcerative colitis,Clinical trial
+T26203,Ulcerative colitis,Phase 2
+T29130,Ulcerative colitis,Phase 1
+T29143,Ulcerative colitis,Phase 3
+T30635,Ulcerative colitis,Phase 2
+T30985,Ulcerative colitis,Discontinued in Phase 3
+T35212,Ulcerative colitis,Phase 2
+T35842,Ulcerative colitis,Phase 2
+T40332,Ulcerative colitis,Phase 3
+T43415,Ulcerative colitis,Phase 1
+T44682,Ulcerative colitis,Phase 1
+T45457,Ulcerative colitis,Phase 2
+T46526,Ulcerative colitis,Patented
+T47888,Ulcerative colitis,Phase 2
+T51666,Ulcerative colitis,Phase 3
+T54156,Ulcerative colitis,Phase 3
+T56923,Ulcerative colitis,Phase 2
+T57011,Ulcerative colitis,Phase 2
+T59631,Ulcerative colitis,Phase 2
+T60529,Ulcerative colitis,Approved
+T61622,Ulcerative colitis,Phase 2
+T62460,Ulcerative colitis,Phase 3
+T63207,Ulcerative colitis,Phase 2
+T63211,Ulcerative colitis,Phase 2
+T73476,Ulcerative colitis,Discontinued in Phase 3
+T75243,Ulcerative colitis,Investigative
+T86130,Ulcerative colitis,Phase 3
+T86552,Ulcerative colitis,Phase 1
+T92687,Ulcerative colitis,Discontinued in Preregistration
+T93661,Ulcerative colitis,Phase 2
+T94479,Ulcerative colitis,Clinical trial
+T94695,Ulcerative colitis,Phase 2
+T97587,Ulcerative colitis,Approved
+T97873,Ulcerative colitis,Phase 1
+T97947,Ulcerative colitis,Phase 2
+T99340,Ulcerative colitis,Phase 2
+T59328,Urethral cancer,Phase 2
+T79961,Urgency,Approved
+T08378,Urinary tract infection,Phase 2
+T17345,Urinary tract infection,Approved
+T22348,Urinary tract infection,Approved
+T28869,Urinary tract infection,Approved
+T32468,Urinary tract infection,Investigative
+T33193,Urinary tract infection,Approved
+T34743,Urinary tract infection,Approved
+T37382,Urinary tract infection,Phase 2
+T38179,Urinary tract infection,Approved
+T40696,Urinary tract infection,Approved
+T46526,Urinary tract infection,Phase 1
+T49814,Urinary tract infection,Approved
+T53748,Urinary tract infection,Investigative
+T63240,Urinary tract infection,Phase 1
+T67282,Urinary tract infection,Phase 2
+T68934,Urinary tract infection,Phase 2
+T72444,Urinary tract infection,Investigative
+T72545,Urinary tract infection,Approved
+T76685,Urinary tract infection,Phase 3
+T82723,Urinary tract infection,Investigative
+T88240,Urinary tract infection,Approved
+T96144,Urinary tract infection,Approved
+T98917,Urinary tract infection,Approved
+T14597,Urogenital cancer,Phase 2
+T42000,Urticaria,Phase 2
+T62431,Urticaria,Phase 1
+T30014,Vaccination,Approved
+T60810,Vaccination,Phase 1
+T25163,Varicose veins,Approved
+T42000,Vasculitis,Phase 2
+T77913,Vasomotor/allergic rhinitis,Approved
+T14602,Venous thromboembolism,Phase 2
+T73476,Venous thromboembolism,Phase 3
+T84631,Venous thromboembolism,Approved
+T05152,Virus infection,Phase 2
+T07035,Virus infection,Investigative
+T07485,Virus infection,Discontinued in Phase 1
+T12719,Virus infection,Discontinued in Phase 2
+T14342,Virus infection,Approved
+T20278,Virus infection,Discontinued in Phase 2
+T20761,Virus infection,Patented
+T26463,Virus infection,Discontinued in Phase 1
+T27495,Virus infection,Phase 3
+T37847,Virus infection,Approved
+T37876,Virus infection,Discontinued in Phase 2
+T39147,Virus infection,Terminated
+T40730,Virus infection,Discontinued in Phase 3
+T40909,Virus infection,Phase 2
+T51843,Virus infection,Investigative
+T52227,Virus infection,Approved
+T56915,Virus infection,Discontinued in Phase 2
+T59735,Virus infection,Discontinued in Phase 3
+T63934,Virus infection,Phase 3
+T74312,Virus infection,Investigative
+T78381,Virus infection,Phase 1
+T78874,Virus infection,Discontinued in Phase 1
+T81694,Virus infection,Discontinued in Phase 2
+T84885,Virus infection,Phase 2
+T86609,Virus infection,Preclinical
+T86674,Virus infection,Approved
+T88318,Virus infection,Phase 3
+T88360,Virus infection,Phase 2
+T89534,Virus infection,Discontinued in Phase 1
+T89846,Virus infection,Discontinued in Phase 2
+T91442,Virus infection,Approved
+T93485,Virus infection,Phase 1/2
