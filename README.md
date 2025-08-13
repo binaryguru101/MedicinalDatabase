@@ -71,6 +71,9 @@ pip install -r requirements.txt
 ![Query Output](results/Drugs%20for%20brain%20cancer%20and%20it's%20biomarkers/Screenshot%202025-08-13%20213222.png)  
 ![Results Output](results/Drugs%20for%20brain%20cancer%20and%20it's%20biomarkers/Screenshot%202025-08-13%20213242.png)  
 ![Neo4J Visualization](results/Drugs%20for%20brain%20cancer%20and%20it's%20biomarkers/Screenshot%202025-08-13%20213307.png)
+![PlayGround Visual](results/Playground/Screenshot%202025-08-13%20230944.png)
+![PlayGround Memory](results/Playground/Screenshot%202025-08-13%20230821.png)
+
 
 
   
