@@ -2,8 +2,7 @@
 
 - **Database Normalization**  
   - Analyzed the given medicinal database and decomposed it into multiple CSV files for improved structure and clarity.  
-  - Each CSV represented a distinct entity (e.g., drugs, diseases, targets, biomarkers, pathways) to enable clear separation of concerns and easier data management.  
-  - Applied database normalization principles to remove redundancy and ensure referential integrity.  
+  - Each CSV represented a distinct entity (e.g., drugs, diseases, targets, biomarkers, pathways) to enable clear separation of concerns and easier data management.    
 
 - **Relationship Modeling in Neo4j**  
   - Translated foreign keys from the source data into Neo4j graph relationships for more intuitive querying.  
@@ -13,26 +12,26 @@
     - `Target → Disease` via `[:ASSOCIATED_WITH_DISEASE]`  
     - `Target → Pathway` via `[:INVOLVED_IN_PATHWAY]`  
     - `Drug → Biomarker` via `[:HAS_BIOMARKER]`  
-  - Enabled complex query patterns such as identifying all drugs that target a particular disease, or tracing relationships between biomarkers and pathways.  
-
+  
 - **Knowledge Graph Construction**  
   - Imported all normalized CSV data into Neo4j, creating a fully connected medicinal knowledge graph.  
-  - Verified data consistency and ensured that all relationships matched the intended schema.  
+  - Verified data consistency and ensured that all relationships matched the intended schema.
+     
 
 - **LLM-Powered Cypher Query Generator**  
   - Integrated OpenAI’s LLM to automatically translate natural language questions into Cypher queries.  
-  - Designed prompt structures with clear context and examples to guide the LLM toward accurate query generation.  
+  - Uses MATCH statements for precise Cypher queries, and falls back to CONTAINS-based matching when exact matches are not found.
   - Implemented fallback mechanisms and error-handling routines to recover from invalid or incomplete query outputs.  
 
 - **Query Execution and Output Processing**  
   - Automated the execution of generated Cypher queries directly in Neo4j.  
   - Processed query results to strip unnecessary fields, retaining only the relevant, structured data.  
-  - Exported the final results into an Excel spreadsheet for easy sharing and also printed them in a clean tabular format in the terminal.  
+  - Exported the final results into an Excel spreadsheet and also printed them in a  tabular format in the terminal.  
 
 - **Agno Framework Integration**  
   - Developed an optional “playground mode” leveraging the Agno framework for a conversational interface to the knowledge graph.  
   - Incorporated built-in memory in Agno to maintain context across multiple user queries.  
-  - Provided a simple toggle (via uncommenting specific lines in code) to switch between the direct execution pipeline and the interactive Agno-based approach.  
+  - Uncommenting specific lines in code to switch between the direct execution pipeline and the interactive Agno-based approach.  
 
 
 
@@ -62,9 +61,9 @@ pip install -r requirements.txt
    NEO4J_PASSWORD=your_password
 
   ```
-  **Place your dataset CSV files in the raw_files folder.
+  **Place your dataset CSV files in the raw_files folder.**
 
-  **Run your Cypher commands to create nodes & relationships
+  **Run your Cypher commands to create nodes & relationships(Setup_Databse.cql)**
 ## Results
 
 **Query:** Drugs for brain cancer and its biomarkers  
