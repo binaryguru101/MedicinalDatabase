@@ -1,11 +1,11 @@
 ## Project Summary
 
 - **Database Normalization**  
-  - Analyzed the given medicinal database and decomposed it into multiple CSV files for improved structure and clarity.  
-  - Each CSV represented a distinct entity (e.g., drugs, diseases, targets, biomarkers, pathways) to enable clear separation of concerns and easier data management.    
+  - Analyzed the given medicinal database and decomposed it into multiple CSV files.  
+  - Each CSV represented a distinct entity (e.g., drugs, diseases, targets, biomarkers, pathways).    
 
 - **Relationship Modeling in Neo4j**  
-  - Translated foreign keys from the source data into Neo4j graph relationships for more intuitive querying.  
+  - Translated foreign keys from the source data into Neo4j graph relationships.  
   - Designed and implemented the following relationship types:  
     - `Drug → Target` via `[:TARGETS]`  
     - `Disease → Biomarker` via `[:ASSOCIATED_WITH]`  
